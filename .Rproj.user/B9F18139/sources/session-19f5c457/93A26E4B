@@ -3,11 +3,11 @@
     "path": "C:/Users/NUSAI/Desktop/Machine learning/ML5805Blog/posts/Anomaly-outlier-detection/index.qmd",
     "project_path": "posts/Anomaly-outlier-detection/index.qmd",
     "type": "quarto_markdown",
-    "hash": "656055938",
+    "hash": "1866453929",
     "contents": "",
     "dirty": false,
     "created": 1699094158082.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "174:0",
+        "rmdVisualModeLocation": "157:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699094180,
+    "lastKnownWriteTime": 1699094528,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699094180350,
+    "last_content_update": 1699094529016,
     "read_only": false,
     "read_only_alternatives": []
 }
