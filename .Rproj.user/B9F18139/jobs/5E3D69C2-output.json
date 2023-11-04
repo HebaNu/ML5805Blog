@@ -1,0 +1,2 @@
+[2,"\n"]
+[1,"ERROR: YAMLException: bad indentation of a mapping entry (C:\\Users\\NUSAI\\Desktop\\Machine learning\\ML5805Blog\\_quarto.yml, 7:5)\n6:       - \"date\"\n7:     - \"title desc\"\n      ~~\n"]
