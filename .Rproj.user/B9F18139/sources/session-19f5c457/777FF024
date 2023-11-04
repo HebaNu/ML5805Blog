@@ -1,14 +1,14 @@
 {
-    "id": "7B36E889",
-    "path": "C:/Users/NUSAI/Desktop/Machine learning/ML5805Blog/posts/Naive-Bayes/index.qmd",
-    "project_path": "posts/Naive-Bayes/index.qmd",
+    "id": "777FF024",
+    "path": "C:/Users/NUSAI/Desktop/Machine learning/ML5805Blog/posts/Linear-and-nonlinear-regression/index.qmd",
+    "project_path": "posts/Linear-and-nonlinear-regression/index.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1699094108266.0,
+    "created": 1699094715596.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "14,0",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699090621,
+    "lastKnownWriteTime": 1699093083,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699090621,
+    "last_content_update": 1699093083,
     "read_only": false,
     "read_only_alternatives": []
 }

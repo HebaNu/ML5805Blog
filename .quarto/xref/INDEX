@@ -25,5 +25,8 @@
   },
   "posts/ Classification/index.rmarkdown": {
     "index.html": "b159d56c"
+  },
+  "posts/Anomaly-outlier-detection/index.qmd": {
+    "index.html": "de0e16d2"
   }
 }
