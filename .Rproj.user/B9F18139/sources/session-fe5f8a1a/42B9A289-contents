@@ -21,3 +21,10 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score, classification_report
 
 ```
+
+Load your data from the Excel sheet into a Pandas DataFrame
+
+```{python}
+# Replace 'your_data.xlsx' with your Excel file's name and 'Sheet1' with the appropriate sheet name.
+data = pd.read_excel('your_data.xlsx', sheet_name='Sheet1')
+```

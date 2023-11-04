@@ -1,0 +1,24 @@
+"0","# Replace 'your_data.xlsx' with your Excel file's name and 'Sheet1' with the appropriate sheet name."
+"0","data = pd.read_excel('your_data.xlsx', sheet_name='Sheet1')"
+"2","Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+  File ""[90m]8;line = 211;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\util\_decorators.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\util\_decorators.py]8;;[39m"", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 331;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\util\_decorators.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\util\_decorators.py]8;;[39m"", line 331, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 482;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\io\excel\_base.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\io\excel\_base.py]8;;[39m"", line 482, in read_excel
+    io = ExcelFile(io, storage_options=storage_options, engine=engine)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 1652;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\io\excel\_base.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\io\excel\_base.py]8;;[39m"", line 1652, in __init__
+    ext = inspect_excel_format(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 1525;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\io\excel\_base.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\io\excel\_base.py]8;;[39m"", line 1525, in inspect_excel_format
+    with get_handle(
+         ^^^^^^^^^^^
+  File ""[90m]8;line = 865;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\pandas\io\common.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\pandas\io\common.py]8;;[39m"", line 865, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'your_data.xlsx'
+"
