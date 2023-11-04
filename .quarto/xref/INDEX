@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "7523082f"
+  },
+  "about.qmd": {
+    "about.html": "6593d92d"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "ea0d41f6"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "53f7e544"
+  },
+  "posts/Naive-Bayes/index.qmd": {
+    "index.html": "863a3269"
+  }
+}
