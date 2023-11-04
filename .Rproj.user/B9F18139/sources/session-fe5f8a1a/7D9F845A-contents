@@ -3,7 +3,7 @@ project:
   output-dir: docs
   contents: posts
 sort:
-      - "date"
+    - "date"
     - "title desc"
 
 website:
