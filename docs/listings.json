@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Clustering-post/index.html",
       "/posts/Linear-and-nonlinear-regression/index.html",
       "/posts/Naive-Bayes/index.html"
     ]
