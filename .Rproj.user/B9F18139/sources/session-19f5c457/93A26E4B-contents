@@ -1,9 +1,10 @@
 ---
-title: "Classification"
+title: "Anomaly/outlier detection"
 author: "Heba Nusair"
 date: "2023-11-04"
 categories: [news, code, analysis, plot]
 image: "Naive-Bayes-Algorithm.jpg"
+language: python
 ---
 
 This is a post with executable code.

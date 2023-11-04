@@ -1,16 +1,12 @@
 ---
-title: " Clustering"
+title: "Linear and nonlinear regression"
 author: "Heba Nusair"
 date: "2023-11-04"
 categories: [code, plot, analysis]
 ---
 
-This post is about Classification
+This post is about line on scatter plot
 
 ![](thumbnail.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
-
-```{python}
-
-```

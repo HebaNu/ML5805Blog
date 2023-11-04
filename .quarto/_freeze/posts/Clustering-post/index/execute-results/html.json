@@ -1,0 +1,11 @@
+{
+  "hash": "6a5c96c581a1732e078fc855b5b972e6",
+  "result": {
+    "markdown": "---\ntitle: \" Classification\"\nauthor: \"Heba Nusair\"\ndate: \"2023-11-04\"\ncategories: [code, plot, analysis]\n---\n\nThis post is about Classification\n\n![](thumbnail.jpg)\n\nSince this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
