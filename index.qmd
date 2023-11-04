@@ -1,11 +1,14 @@
 ---
 title: "ML5805Blog"
+subtitle: true
+Reading-time: true
+discription: true
 listing:
 contents: posts
+  type: grid
 sort:
       - "date"
     - "title desc"
-  type: grid
   categories: true
   sort-ui: false
   filter-ui: false
