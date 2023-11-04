@@ -28,5 +28,8 @@
   },
   "posts/Anomaly-outlier-detection/index.qmd": {
     "index.html": "de0e16d2"
+  },
+  "posts/Naive-Bayes/index.rmarkdown": {
+    "index.html": "39865abe"
   }
 }
