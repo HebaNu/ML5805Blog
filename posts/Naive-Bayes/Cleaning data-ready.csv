@@ -1,0 +1,915 @@
+﻿Response ID,Response Status,Country Code,Region,With which gender do you identify? ,What is your age? ,What is your marital status? ,What is your race? ,What is your education level? ,In which City/County within the Roanoke Metropolitan Area do you live? ,,In which City/County within the Roanoke Metropolitan Area do you work? ,,What is the age of the firm/company/association you work in?,What is your (firm/company/association)' s size? (# number of employees or workers),If you commute to work how far is your work from your homeplace? ,Are you the owner or renter of your house? ,How many people in your household have jobs?,How many people currently live in your household?,What is your expected/desired family size in the future including yourself and any dependents?,What is your monthly earning? ,What is your industry sector?,What is your job title?,How many hours do you typically work per week at your current job?,How do you typically work in your current job? ,What is the level of importance of physical interactions with a team in order to perform your current job?,Regardless of your current working style (Remote or in-person) have you heard about anyone who works in the same profession as you but remotely no matter where?,Regardless of your current working style (Remote or in-person) have you come across any news or information sources indicating that your profession might be shifted either partially or completely towards remote work in the future?,On a scale of 1-5 please rate your agreement with the following statement: 'During the COVID-19 pandemic working from home using technological advancements in communication (e.g. Zoom Skype Teams) was efficient in performing my job tasks.',How do you usually transport to your workplace?,,,,,,Regardless of your current working style what is the future work style do you prefer? ,If you work in-person (commute to work) how would you rank your preferred living area within Roanoke Metropolitan Area considering your income and affordability? (1 is the most preferred)? ,,,,If you work remotely how would you rank your preferred areas to live within Roanoke Metropolitan Area considering your income and affordability? (1 is the most preferred)?,,,,In the past ten years how many times have you relocated your living place?,If you currently work in person in an urban area and live close to your workplace but your job is shifting to a partially remote you may be thinking about whether it makes sense to move to a suburban area. How would you contemplate relocating to the suburbs in this scenario?,If you currently work in person in an urban area and live close to your workplace but your job is shifting completely remote you may be thinking about whether it makes sense to move to a suburban area. How would you contemplate relocating to the suburbs in this scenario?,Your colleagues/friends have shifted to remote work and moved from an urban area to a suburban or rural area. Would you be able to consider a move to a rural area if you also have the option to work remotely like them?,Proximity to my workplace,Proximity to Centeral Business Area (CBD),Closest to amenities,Close to schools,Close to roads (Accessible),Close to transportation means,The sense of community (Belongingness),safety (less crime rate),Affordability for housing and living costs ,civilized and city lifestyle,rural and suburbia lifestyle,more spacious living space  & large lot size,Career growth opportunity
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Drive alone,Carpool or vanpool,"Public transportation (e.g., bus, train)",Bike,Walk,N/A (Work remotely),,City Center (Central Business District),Urban area,Suburban area ,Rural Area,City Center (Central Business District),Urban area,Suburban area ,Rural Area,,,,,Proximity to my workplace,Proximity to Centeral Business Area (CBD),Closest to amenities,Close to schools,Close to roads (Accessible),Close to transportation means,The sense of community (Belongingness),safety (less crime rate),Affordability for housing and living costs ,civilized and city lifestyle,rural and suburbia lifestyle,more spacious living space  &amp; large lot size,Career growth opportunity
+102061302,Completed,US,VA,1,4,2,1,8,1,,1,,4,2,5,2,3,4,5,2,4,Architect,3,2,3,4,3,1,1,,,,,,3,1,2,3,4,2,1,3,4,2,3,,,4,2,3,4,2,3,5,5,3,4,3,5,5
+102084379,Completed,US,VA,1,3,2,1,6,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",5,3,3,2,1,4,5,3,12,Engineering Manager,3,4,3,4,2,5,1,,,,,,1,3,2,1,4,3,2,1,4,3,2,2,1,4,3,5,2,5,1,5,5,5,5,3,5,4
+102107857,Completed,US,VA,1,3,1,1,8,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24018)",5,2,5,2,1,4,3,2,4,Architect,3,4,3,5,2,4,,,1,,,,1,,,,,4,2,3,1,3,2,1,2,4,4,5,4,5,5,2,4,5,2,3,,5
+102115313,Completed,US,VA,1,4,2,1,7,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,2,10,1,3,4,5,2,20,Dentist,3,2,3,6,2,3,,,,,,1,2,1,2,3,4,1,2,3,4,2,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+102117993,Completed,US,VA,1,3,2,1,8,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24016)",4,3,5,2,1,4,5,4,16,Dentist ,3,2,5,1,1,3,1,,,,,,2,4,1,2,3,4,1,2,3,4,2,2,2,4,4,4,4,4,4,4,5,4,4,4,4,4
+102123547,Completed,US,FL,1,3,1,1,6,1,"ROANOKE, Virginia (24001)",1,"ROANOKE, Virginia (24001)",5,2,3,2,1,1,5,3,11,Project Coordinator,3,3,5,3,1,5,1,,,,,,4,1,2,3,4,3,2,1,4,5,2,1,2,4,4,5,5,5,2,4,5,5,4,4,5,5
+102130489,Completed,US,VA,1,5,2,1,6,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",4,2,15,2,2,2,2,2,7,Business owner ,3,3,4,3,2,4,1,,,,,,2,2,4,3,1,1,2,4,3,2,1,2,2,4,2,2,5,1,2,2,5,5,4,2,3,4
+102132410,Completed,US,VA,2,5,4,1,6,1,"ROANOKE, Virginia (24015)",7,"VIRGINIA BEACH, Virginia (23454)",,5,,1,1,1,1,3,13,Program manager ,3,1,1,4,2,5,,,,,,1,1,,,,,2,1,4,3,3,,,1,1,5,4,1,5,2,4,5,2,5,3,3,4
+102138551,Completed,US,MI,1,4,2,1,8,6,"FERRUM, Virginia (24088)",6,"FERRUM, Virginia (24088)",5,3,3,2,2,3,5,3,15,Assistant Professor ,3,3,3,3,2,4,1,,,,,,3,4,2,3,1,4,3,2,1,4,3,3,1,4,4,2,4,5,1,1,5,5,3,3,3,4
+102151814,Completed,US,VA,1,4,2,1,6,3,"ROANOKE, Virginia (24018)",2,"SALEM, Virginia (24153)",5,5,6,2,1,3,5,3,5,Sales Application Engineer,4,4,2,4,3,5,1,,,,,,4,1,2,3,4,1,2,3,4,4,1,2,2,5,4,4,4,3,1,3,5,5,4,2,3,5
+102152737,Completed,US,VA,2,3,1,2,8,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24016)",5,5,50,2,3,4,3,2,12,Postdoctoral fellow ,4,2,4,6,1,4,,,1,,,,3,1,2,3,4,1,2,3,4,1,2,2,2,5,4,4,4,3,5,4,5,5,3,4,3,5
+102156855,Completed,US,VA,1,3,2,1,5,2,"SALEM, Virginia (24153)",1,"ROANOKE, Virginia (24018)",5,1,9,1,2,3,5,3,5,Project Manager,3,4,2,4,2,4,1,,,,,,4,4,3,2,1,4,3,2,1,4,3,3,1,2,1,3,4,5,3,5,4,3,2,4,5,4
+102164242,Completed,JO,AM,2,4,2,1,8,3,"ROANOKE, Virginia (24015)",1,"ROANOKE, Virginia (24016)",5,4,10,2,2,5,5,3,12,Research Scientist,3,1,1,4,2,5,,,,,,1,1,,,,,3,1,2,4,4,2,,1,5,4,4,5,5,2,4,5,4,4,3,4,4
+102170348,Completed,US,MI,2,4,2,1,8,6,"FERRUM, Virginia (24088)",7,"BLACKSBURG, Virginia (24060)",5,5,58,2,2,4,5,2,9,Teaching Assistant,2,1,1,4,2,4,1,,,,,,4,3,1,2,4,3,1,2,4,5,1,2,2,4,4,4,4,4,1,4,4,4,4,1,3,4
+102170586,Completed,US,VA,2,3,2,1,5,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24017)",4,1,5,2,2,4,5,3,16,Dentist,2,2,5,2,1,3,1,,,,,,2,1,0,0,0,1,3,2,4,3,3,3,1,4,4,4,5,4,4,4,5,4,4,3,4,5
+102173200,Completed,US,VA,1,3,2,1,8,3,"BLACKSBURG, Virginia (24060)",7,"BLACKSBURG, Virginia (24061)",5,5,1,2,1,1,5,4,15,Postdoc,4,4,2,4,1,3,,,,,1,,3,3,2,1,4,3,2,1,4,5,2,2,2,4,4,4,3,5,3,4,5,4,3,3,4,5
+102180525,Completed,US,NJ,1,3,1,1,6,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,,18,2,1,1,4,3,4,Project Manager,4,2,3,2,1,5,1,,,,,,1,1,2,3,4,4,2,1,3,4,2,3,1,5,4,5,5,3,4,5,5,5,3,1,2,4
+102184796,Completed,US,VA,1,4,2,1,5,1,"ROANOKE, Virginia (24015)",3,"ROANOKE, Virginia (24018)",5,1,5,1,2,3,3,3,12,Chief Executive Officer,4,4,3,3,2,4,1,,,,,,4,2,1,3,4,2,1,3,4,4,1,1,3,4,4,5,5,5,5,5,5,5,5,2,3,4
+102187530,Completed,US,VA,2,4,2,1,8,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24016)",4,4,6,1,3,5,5,4,12,Graduate student,3,3,3,1,1,3,1,,,,,,1,1,2,3,4,1,2,3,4,4,2,1,2,4,4,4,5,4,4,5,5,4,4,1,3,5
+102198106,Completed,US,VA,1,5,1,1,6,6,"FERRUM, Virginia (24088)",6,"FERRUM, Virginia (24088)",5,3,0.25,1,1,1,2,2,15,Assistant Professor,3,3,4,4,2,3,1,,,,,,3,4,3,1,2,4,3,2,1,3,2,3,1,4,2,4,3,5,3,4,5,5,3,4,5,4
+102204407,Completed,US,VA,2,4,2,1,8,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",5,2,12,2,2,4,5,2,16,RN,1,2,5,4,2,2,1,,,,,,2,1,2,3,4,1,2,3,4,3,2,2,3,5,3,2,5,4,4,4,4,4,4,4,4,3
+102205996,Completed,US,VA,2,4,2,1,5,3,"ROANOKE, Virginia (24018)",,,,,,1,3,5,5,4,,,,,,6,2,,,,,,,,,,,,,,,,,2,,,2,4,,,5,4,4,4,5,5,4,4,4,4
+102264856,Completed,US,VA,1,4,2,1,6,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",5,5,4,1,1,5,5,3,12,project application engineer,4,4,3,2,2,5,1,,,,,,4,3,2,1,4,3,2,1,4,2,2,2,1,4,4,4,4,4,3,4,5,5,5,4,4,4
+102291478,Completed,US,VA,1,3,2,1,5,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",5,4,7,2,1,1,4,3,12,Electrical drives and Control Field Engineer ,3,3,3,3,2,3,1,,,,,,3,2,4,3,1,2,4,3,1,4,2,2,3,4,3,3,4,3,1,4,5,4,4,1,2,4
+102312333,Completed,US,VA,1,6,2,1,5,5,"ROANOKE, Virginia (24019)",2,"ROANOKE, Virginia (24018)",5,5,12,1,1,2,5,3,12,Chief Specialist,4,3,5,2,1,2,1,,,,,,3,4,3,1,2,4,3,1,2,2,3,3,1,2,1,4,4,3,4,5,5,4,3,5,5,4
+102316809,Completed,US,VA,2,3,2,1,6,1,"ROANOKE, Virginia (24016)",3,"ROANOKE, Virginia (24018)",5,4,10,1,2,4,5,3,12,Manager,4,3,4,3,2,4,1,,,,,,3,4,3,1,2,,,,,3,3,3,2,4,3,5,4,4,1,1,5,3,3,2,4,5
+102369611,Completed,US,NC,1,4,2,1,8,3,"ROANOKE, Virginia (24018)",7,"FLOYD, Virginia (24091)",5,5,38,1,1,5,5,4,5,Lead Scientist ,4,3,4,1,2,4,1,,,,,,3,3,2,1,4,3,2,1,4,5,1,1,2,4,4,5,5,4,3,3,5,5,4,1,3,5
+102378931,Completed,US,VA,1,7,2,1,6,3,"VINTON, Virginia (24179)",3,"ROANOKE, Virginia (24018)",4,4,13,1,1,2,2,3,8,,,3,2,3,2,5,1,,,,,,4,4,3,1,2,4,3,1,2,1,3,3,1,4,3,3,4,4,4,4,5,5,3,4,4,4
+102387460,Completed,US,,1,3,2,1,5,3,"ROANOKE, Virginia (24019)",7,"COVINGTON, Virginia (24426)",5,5,60,2,1,3,4,3,5,Manufacturing Supervisor,4,2,4,2,2,3,1,1,,,,,4,2,3,1,4,1,3,2,4,2,3,2,1,5,4,4,5,4,4,5,5,5,5,3,3,5
+102429178,Completed,US,VA,2,3,2,8,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",3,2,2,2,2,3,5,3,10,accounting,2,4,3,3,1,4,1,,,,,,1,2,1,3,4,3,1,2,4,1,1,2,2,3,4,4,5,4,1,4,4,4,3,2,3,3
+102445186,Completed,US,,2,4,2,1,6,4,"NEW CASTLE, Virginia (24127)",4,"NEW CASTLE, Virginia (24127)",5,3,10,1,2,4,5,2,20,Planner in manucipility ,3,2,3,2,2,3,1,,,,,,1,1,3,2,4,4,2,1,3,3,1,2,2,4,1,4,5,5,3,4,5,4,3,3,4,4
+102446943,Completed,US,VA,1,4,2,4,6,2,"SALEM, Virginia (24153)",2,"SALEM, Virginia (24153)",5,5,1,1,1,5,5,3,12,Lead Engineer,3,4,2,4,2,4,1,,,,,,4,2,3,1,4,2,3,1,4,2,3,3,3,3,3,3,3,1,1,2,5,4,4,4,4,5
+102448655,Completed,US,DC,1,5,2,4,7,3,"ROANOKE, Virginia (24018)",2,"SALEM, Virginia (24153)",5,5,4,1,2,3,2,3,16,Physician,4,2,4,1,2,2,1,,,,,,2,3,2,1,4,3,2,1,4,2,3,2,1,4,2,4,4,4,1,5,5,3,1,2,2,4
+102458888,Completed,US,VA,2,4,2,1,8,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",1,1,0,2,2,5,5,1,12,Lecturer ,2,1,2,6,1,4,,,,,,1,1,4,3,2,1,4,3,2,1,5,1,1,1,4,4,2,5,4,4,3,5,4,2,3,4,4
+102459716,Completed,US,VA,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102483431,Completed,US,VA,2,3,2,4,5,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",2,1,1,2,1,4,5,3,9,Software development ,3,1,4,3,2,4,,,,,,1,1,4,2,3,1,1,3,2,4,2,3,3,1,4,2,3,5,3,4,4,5,4,4,4,3,4
+102578254,Completed,US,VA,1,4,2,8,7,6,"ROCKY MOUNT, Virginia (24151)",6,"ROCKY MOUNT, Virginia (24151)",4,1,5,1,3,3,4,2,5,Engineer,,3,2,2,2,3,1,,,,,,4,1,2,3,4,3,1,2,4,2,2,2,2,4,2,4,5,4,3,5,5,5,3,3,4,3
+102669551,Completed,US,VA,2,3,1,1,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",2,4,2,2,1,1,4,3,10,accounting,3,2,3,4,2,4,1,,,,,,3,1,2,3,4,1,2,3,4,1,1,1,3,3,4,4,4,4,4,4,4,4,4,4,4,4
+102672776,Completed,US,VA,2,4,2,7,8,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24014)",5,5,3.6,1,2,4,4,3,16,Resident physician,4,2,2,2,2,4,1,,,,,,3,4,2,1,3,,,,,5,1,1,3,4,2,2,5,4,4,5,5,4,1,3,3,3
+102722145,Completed,US,,2,4,2,7,5,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",2,5,5,2,3,5,5,3,16,Residents physician,4,2,5,3,1,3,1,,,,,,3,1,2,3,4,,,,,4,2,2,3,4,3,2,5,4,4,4,4,4,2,4,2,5
+102728138,Completed,US,VA,2,4,2,7,5,5,"CLOVERDALE, Virginia (24077)",7,,1,5,10,2,2,5,5,4,15,Sub-teacher,2,2,4,1,1,1,1,,,,,,4,4,1,2,3,3,2,1,4,3,1,2,3,5,3,4,5,4,4,5,5,4,3,2,2,4
+102734244,Completed,US,VA,2,4,2,1,2,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",3,1,10,1,2,5,5,3,6,Secretary ,3,1,1,6,1,4,,,,,,1,1,3,4,2,1,4,3,2,1,5,2,2,2,3,3,5,5,4,4,4,5,5,4,3,4,4
+102760052,Completed,US,VA,2,7,2,1,4,6,"FERRUM, Virginia (24088)",7,"RADFORD, Virginia (24141)",5,1,0,1,1,2,2,3,10,Senior Real Estate Title Underwriter,,1,1,3,1,1,1,,,,,,1,,,,,4,3,2,1,1,,,1,1,1,1,1,4,1,4,4,5,1,5,5,1
+102762134,Completed,US,VA,2,6,2,1,5,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,5,15,1,1,3,4,2,15,Substitute teacher,3,2,4,2,1,2,1,,,,,,2,1,0,0,0,1,0,0,0,1,1,1,3,3,3,4,4,4,4,5,5,4,5,4,3,4
+102762177,Completed,US,VA,2,4,2,1,8,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",5,5,0,2,2,5,5,3,12,Engineer,4,1,3,4,2,4,1,,,,,,1,1,0,0,0,0,1,0,0,4,2,2,2,4,4,4,5,4,4,5,5,4,5,3,5,5
+102764204,Completed,US,VA,2,3,2,7,6,3,"BOONES MILL, Virginia (24065)",7,"BLACKSBURG, Virginia (24060)",5,,,2,2,2,4,2,12,Graduate Student (Instructor of Record),3,3,2,2,1,4,1,,1,,,,3,4,2,1,3,3,4,1,2,4,3,3,2,4,3,4,2,3,3,5,5,5,3,4,3,4
+102765993,Completed,US,FL,2,3,2,1,5,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24011)",2,5,40,1,3,3,5,2,3,Structural Engineer,3,3,3,5,2,4,1,,,,,,1,2,1,3,4,1,2,3,4,1,2,2,2,3,3,4,2,4,3,3,5,4,4,3,3,4
+102766462,Completed,US,VA,2,4,2,8,2,1,"ROANOKE, Virginia (24016)",7,"CHRISTIANSBURG, Virginia (24073)",5,1,28,1,2,5,5,4,18,Witter and chief help ,3,2,3,6,3,1,1,,,,,,2,1,0,4,0,2,3,1,4,1,,2,2,3,3,5,5,3,3,3,5,2,3,1,4,5
+102786441,Completed,US,VA,2,4,2,7,8,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",1,2,10,2,1,5,5,2,12,Dr,3,3,3,2,1,3,,,1,,,,4,4,1,2,3,4,2,3,1,2,3,3,2,4,3,4,4,2,2,2,5,4,4,2,,
+102786946,Completed,US,VA,2,3,1,1,8,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,2,3,2,1,1,4,2,4,Architect,3,3,3,2,2,3,,,1,,,,3,1,2,3,4,4,1,2,3,3,2,2,3,4,3,4,4,4,4,4,5,4,4,1,4,5
+102793604,Completed,US,VA,1,4,2,1,2,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",5,5,2,2,1,5,5,4,5,Quality ,4,2,4,1,1,2,1,,,,,,2,4,3,2,1,4,3,2,1,4,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,3
+102794559,Completed,US,VA,2,4,2,1,5,1,"ROANOKE, Virginia (24001)",2,"ROANOKE, Virginia (24001)",3,3,20,2,2,5,2,2,4,Software engineer ,3,1,2,2,1,3,,,1,1,,,2,3,4,2,1,2,3,1,4,1,2,2,1,3,4,4,3,2,3,3,3,3,3,3,3,3
+102794939,Completed,US,VA,2,3,2,1,6,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,4,4,2,2,4,4,4,15,Teaching assistant,4,4,3,3,1,4,,,1,,,,4,1,2,3,4,1,2,3,4,4,2,2,3,4,2,,5,4,5,3,5,4,3,2,3,4
+102797204,Completed,US,VA,2,3,2,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",5,2,2,2,2,4,5,4,19,Seller,3,2,3,1,2,2,1,,,,,,1,1,2,3,4,1,2,3,4,5,1,1,2,4,3,4,5,5,4,5,5,4,4,4,4,4
+102803870,Completed,US,VA,1,4,2,1,5,2,"SALEM, Virginia (24153)",2,"SALEM, Virginia (24153)",2,1,1,2,1,5,5,4,19,Business owner,4,2,5,2,2,3,1,,,,,,4,1,2,3,4,3,2,1,4,4,1,1,2,5,4,4,5,5,2,4,5,5,5,4,5,5
+103014306,Completed,US,VA,2,4,2,1,6,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",4,1,3,1,3,5,5,4,19,Hair stylist ,2,2,4,1,1,1,1,,,,,,2,3,2,1,4,2,3,1,4,3,2,1,3,3,3,3,4,5,4,4,5,4,4,3,4,4
+103033915,Completed,US,VA,1,5,2,1,6,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24017)",5,1,6,1,3,5,5,3,7,Manager ,4,2,4,6,1,1,1,,,,,,2,1,0,0,0,1,0,0,0,1,1,1,2,1,1,1,4,4,4,4,4,4,4,4,4,4
+103231839,Completed,US,VA,1,4,2,1,1,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",3,1,3,1,2,5,5,2,18,Petra grill,3,1,4,1,1,3,1,,,,,,4,2,3,1,4,1,3,2,4,1,2,2,1,3,5,3,3,4,2,4,5,5,5,5,2,2
+103233631,Completed,US,VA,1,3,2,7,2,3,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24017)",5,2,12,1,1,3,5,3,7,Owner,4,3,5,1,1,2,1,,,,,,4,4,3,2,1,4,3,2,1,1,3,3,3,3,3,3,3,4,1,2,5,3,1,4,5,5
+103233677,Completed,US,VA,1,3,2,4,5,1,"ROANOKE, Virginia (24018)",1,,5,1,3,2,1,2,5,3,7,Casher,4,2,2,1,2,,,,,,,,3,3,2,1,4,,,,,3,2,2,2,,,,,,,,,,,,,
+103234183,Completed,US,VA,1,5,2,1,5,3,"ROANOKE, Virginia (24018)",,,5,1,2,1,3,5,5,3,7,Owner,2,2,3,1,1,2,1,,,,,,2,2,3,1,4,3,2,4,1,3,1,1,3,3,4,4,4,4,4,4,4,4,4,2,4,4
+103234396,Completed,US,VA,1,7,2,7,7,3,"ROANOKE, Virginia (24018)",7,"BOSTON, Massachusetts (02115)",5,5,0,1,3,2,5,4,15,Adjunct Faculty ,3,1,1,5,2,5,,,,,,1,4,0,0,1,0,0,0,1,0,1,2,2,3,4,1,4,4,4,3,3,5,5,3,4,4,5
+103235794,Completed,US,NC,1,5,2,2,5,3,"ROANOKE, Virginia (24019)",3,"ROANOKE, Virginia (24019)",5,5,0,1,3,5,5,3,5,Software développer ,3,4,2,3,2,5,1,,,,,,1,3,4,2,1,2,3,4,1,2,1,2,2,3,2,2,3,3,1,5,5,4,3,3,4,3
+103244521,Completed,US,VA,2,6,2,1,2,5,"BEDFORD, Virginia (24523)",4,"BEDFORD, Virginia (24523)",5,2,10,2,1,5,2,3,16,Charge Nurse,3,2,5,6,1,1,1,,,,,,2,3,4,2,1,,,,,3,3,3,1,4,4,4,5,4,1,1,5,5,5,5,5,2
+103741008,Completed,US,IL,2,4,2,1,8,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,5,0,2,2,5,5,1,15,Researcher,3,1,1,3,2,5,,,,,,1,4,1,2,3,4,1,2,3,4,5,1,1,3,4,4,4,4,4,4,4,5,5,5,1,4,4
+103806043,Completed,US,WI,2,4,2,7,6,2,"SALEM, Virginia (24153)",2,"SALEM, Virginia (24153)",5,5,2,2,2,4,4,2,15,Graduate assistant,2,3,4,4,2,4,,,1,,,,4,4,1,2,3,4,1,2,3,4,2,2,3,4,2,4,5,5,3,4,5,5,4,1,4,3
+103809111,Completed,US,WI,2,3,1,1,8,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24016)",5,3,3,2,1,1,1,1,16,RN,3,3,4,2,1,3,,,1,,1,,3,1,2,3,4,1,2,3,4,2,2,1,1,3,3,3,3,3,5,3,3,3,3,3,3,3
+103813541,Completed,US,WI,2,3,2,1,8,,,,,5,5,3,2,2,2,4,3,16,Postdoctoral Fellow,,4,2,3,1,4,1,,,,,,1,3,1,2,4,3,2,1,4,5,2,2,3,3,2,2,5,5,1,5,5,3,1,1,3,3
+103994754,Completed,US,WI,2,3,2,1,5,,"MADISON, Wisconsin (53705)",1,"MADISON, Wisconsin (53719)",5,2,2.5,2,3,5,5,2,15,Teacher,4,2,4,2,1,3,1,,,,,,2,1,0,0,0,0,0,1,0,1,1,3,2,3,3,3,4,4,3,3,5,4,4,3,5,4
+104569675,Completed,US,CA,1,3,1,5,5,1,"POSEYVILLE, Indiana (47633)",1,"POSEYVILLE, Indiana (47633)",2,2,30,2,,3,5,2,6,Sales Manager sale,2,3,4,4,3,4,,,,1,,,1,1,2,0,0,1,0,0,0,3,1,1,1,4,4,4,4,3,5,5,5,4,3,3,3,5
+104570142,Completed,US,LA,2,3,4,1,2,1,"EAST HARTFORD, Connecticut (06108)",2,"EAST HARTFORD, Connecticut (06108)",3,3,5,1,2,3,5,1,7,Cashier,1,2,2,3,2,4,,,1,,,,2,1,2,4,3,2,1,3,4,3,1,1,1,3,4,3,2,2,3,3,3,2,3,3,3,3
+104588377,Completed,US,VA,1,3,1,1,5,3,"ROANOKE, Illinois (61561)",3,"ROANOKE, Illinois (61561)",4,2,15,1,3,5,5,2,4,Safety officer,4,2,3,1,2,3,1,,,,,,4,2,1,3,4,2,1,3,4,3,2,2,2,2,4,4,4,3,2,2,5,4,5,4,4,5
+104588916,Completed,US,VA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104589652,Completed,US,,2,4,2,5,6,5,,5,,4,3,10,1,1,3,4,3,5,Welding worker,4,1,4,4,2,4,1,,1,,,,3,1,3,4,2,1,3,4,2,4,2,2,1,4,5,4,5,4,4,4,4,4,4,4,4,5
+104589877,Completed,LT,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,3,1,3,4,5,2,5,manager,3,3,4,2,2,4,1,1,1,,,,3,1,2,3,4,2,1,3,4,3,2,3,2,2,2,4,3,4,4,4,4,4,4,4,4,4
+104589879,Completed,PS,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,3,1,3,4,5,2,5,experience,3,3,4,2,2,4,1,1,1,,,,3,1,2,3,4,2,1,3,4,3,2,3,2,2,2,4,3,4,4,4,4,4,4,4,4,4
+104589881,Completed,US,TX,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,3,1,3,4,5,2,5,manager,3,3,4,2,2,4,1,1,1,,,,3,1,2,3,4,2,1,3,4,3,2,3,2,2,2,4,3,4,4,4,4,4,4,4,4,4
+104589885,Completed,AU,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,3,1,3,4,5,2,5,manager,3,3,4,2,2,4,1,1,1,,,,3,1,2,3,4,2,1,3,4,3,2,3,2,2,2,4,3,4,4,4,4,4,4,4,4,4
+104589949,Started,US,FL,1,2,2,1,,1,"SANTA ANA, California (92704)",3,"SANTA ANA, California (92705)",2,2,5,1,2,4,2,2,10,wefew,1,3,3,2,2,2,,,,1,,,2,2,3,1,4,1,3,2,4,3,2,2,2,4,4,4,4,5,4,5,4,4,3,5,4,4
+104589952,Completed,GB,STN,1,3,2,2,3,6,"MORTON, Pennsylvania (19070)",6,"MORTON, Pennsylvania (19070)",4,3,8,2,2,3,4,2,5,Cement mason,3,2,3,2,2,4,,,1,,,,3,1,2,3,4,1,2,3,4,2,1,1,1,4,4,3,3,4,5,4,5,5,5,5,5,5
+104589999,Completed,US,TX,1,3,2,5,5,4,"FALLS CHURCH, Virginia (22042)",1,"FALLS CHURCH, Virginia (22042)",4,3,12,1,3,5,5,3,10,manager,4,3,4,2,1,4,1,,,,,,3,2,1,3,4,3,2,1,4,2,2,3,2,4,2,3,3,3,4,3,4,4,3,3,3,4
+104590266,Completed,US,PA,2,3,2,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,3,50,1,2,2,3,2,5,manager,3,4,3,4,2,4,1,,1,1,,,1,1,2,3,4,3,2,1,4,3,2,2,1,2,2,3,2,2,3,4,4,4,4,5,4,3
+104590451,Started,US,VA,1,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104590553,Completed,US,GA,1,3,1,3,5,3,"BAY SAINT LOUIS, Mississippi (39520)",3,,3,2,9,1,3,3,4,3,7,manager,4,2,3,4,2,4,1,,,,,,4,1,2,3,4,1,3,2,4,2,2,2,1,5,5,5,4,4,4,5,5,4,4,4,5,5
+104590604,Completed,PS,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,manager,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,3,4,4,4,4,4,4,3,4,4
+104590605,Completed,US,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,manager,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,3,4,4,4,4,4,4,3,4,4
+104590606,Completed,IR,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,experience,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,3,4,4,4,4,4,4,3,4,4
+104590607,Completed,AU,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,manager,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,3,4,4,4,4,4,4,3,4,4
+104590608,Completed,US,,2,3,2,1,5,1,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24012)",5,,,2,3,,,3,,,,3,4,5,3,5,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590609,Completed,US,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,experience,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,0,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590610,Completed,RS,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,manager,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590611,Completed,US,,1,3,2,1,5,1,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24012)",5,3,4,1,3,4,5,2,5,manager,3,3,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590613,Completed,US,,1,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,experience,4,2,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590614,Completed,US,,1,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590615,Completed,US,,1,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590617,Completed,AU,VIC,1,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,3,1,2,3,4,4,3,1,2,4,2,3,2,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590618,Completed,US,,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,experience,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590619,Completed,US,VA,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590620,Completed,US,,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590621,Completed,US,,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,5,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590622,Completed,PS,NBS,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,2,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590623,Completed,HU,,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,2,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590624,Completed,US,VA,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,2,1,3,4,5,2,5,experience,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590625,Completed,US,,2,3,2,1,6,1,"ROANOKE, Virginia (24012)",1,"ROANOKE, Virginia (24012)",5,3,2,1,3,4,5,2,5,manager,4,2,4,4,2,4,1,1,1,,,,1,1,2,3,4,4,3,1,2,4,2,3,1,4,2,4,4,4,4,4,4,4,4,3,4,4
+104590911,Completed,US,NY,1,3,2,1,2,4,"ELK GROVE, California (95624)",4,"ELK GROVE, California (95624)",3,3,30,1,2,3,4,2,4,supervisor,3,3,3,3,2,4,1,1,1,,,,3,1,2,3,4,1,2,3,4,3,2,2,2,3,4,3,4,3,4,3,3,3,3,3,3,3
+104590938,Completed,US,MI,2,3,2,1,5,,"PHILADELPHIA, Pennsylvania (19108)",1,,1,2,30,1,2,3,4,2,,,3,1,2,2,2,4,1,,,,,,1,1,0,0,0,1,0,0,0,3,1,1,2,2,3,3,4,3,5,3,5,3,3,3,4,5
+104591028,Completed,US,NY,1,3,2,2,5,4,"CRAIG, Colorado (81625)",4,"CRAIG, Colorado (81625)",2,2,5,2,3,4,5,2,4,accounting,3,3,2,3,3,4,,,,1,,,3,2,3,1,4,1,2,3,4,3,2,2,2,4,3,4,3,4,4,4,4,4,4,3,3,5
+104591105,Completed,US,IL,1,3,2,2,5,4,"DELAWARE, Ohio (43015)",3,"DELAWARE, Ohio (43015)",2,2,,1,1,3,2,1,5,CIO,2,1,2,3,2,4,,1,,,,,2,1,4,3,2,2,3,1,4,2,2,1,1,4,5,4,4,5,4,4,5,4,4,3,4,4
+104591106,Completed,US,NY,1,3,2,2,5,4,"NEW YORK, New York (10118)",3,"NEW YORK, New York (10118)",2,2,10,1,1,3,2,1,5,CIO,2,1,2,3,2,4,,1,,,,,2,1,4,3,2,2,3,1,4,2,2,1,1,4,5,4,4,5,4,4,5,4,4,3,4,4
+104591108,Completed,US,NJ,1,3,2,2,5,4,"SAN FRANCISCO, California (94142)",3,"SAN FRANCISCO, California (94142)",2,2,10,1,1,3,2,1,5,CIO,2,1,2,3,2,4,,1,,,,,2,1,4,3,2,2,3,1,4,2,2,1,1,4,5,4,4,5,4,4,5,4,4,3,4,4
+104591109,Completed,RO,,1,3,2,2,5,4,"SAN FRANCISCO, California (94105)",3,"SAN FRANCISCO, California (94105)",2,2,10,1,1,3,2,1,5,CIO,2,1,2,3,2,4,,1,,,,,2,1,4,3,2,2,3,1,4,2,2,1,1,4,5,4,4,5,4,4,5,4,4,3,4,4
+104591110,Completed,US,NC,1,3,2,2,5,4,"NEW YORK, New York (10004)",3,"NEW YORK, New York (10004)",2,2,10,1,1,3,2,1,5,CIO,2,1,2,3,2,4,,1,,,,,2,1,4,3,2,2,3,1,4,2,2,1,1,4,5,4,4,5,4,4,5,4,4,3,4,4
+104591330,Completed,US,TX,1,3,2,1,5,3,"SAN FRANCISCO, California (94142)",1,"SAN FRANCISCO, California (94142)",1,2,,1,2,3,2,1,1,CIO,2,2,2,2,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591331,Completed,US,TX,1,5,2,1,5,3,"ASHBURN, Virginia (20147)",2,"ASHBURN, Virginia (20147)",3,4,10,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,1,1,3,1,2,3,4,4,4,5,4,3,4,5,4
+104591332,Completed,US,KY,1,3,2,1,5,3,"TAMPA, Florida (33614)",1,"TAMPA, Florida (33614)",1,2,10,1,2,3,2,1,1,CIO,2,2,2,1,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591333,Completed,US,AZ,1,4,2,1,6,5,"CHICAGO, Illinois (60666)",1,"CHICAGO, Illinois (60666)",2,3,,2,2,3,3,3,2,CFO,3,1,3,1,3,4,,,1,,,,2,3,2,4,1,2,4,3,1,3,2,2,1,2,3,3,3,5,4,4,4,4,5,3,4,4
+104591334,Completed,US,NE,1,4,2,1,6,5,"SAN FRANCISCO, California (94142)",1,"SAN FRANCISCO, California (94142)",2,3,10,2,2,3,3,3,2,CFO,3,1,3,1,3,4,,,1,,,,2,3,2,4,1,2,4,3,1,3,2,2,1,2,3,3,3,5,4,4,4,4,5,3,4,4
+104591335,Completed,US,CA,1,3,2,1,5,3,"WILMINGTON, Delaware (19801)",1,"WILMINGTON, Delaware (19801)",1,2,10,1,2,3,2,1,1,CIO,2,2,2,2,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591336,Completed,US,NY,1,5,2,1,5,3,"WOODBRIDGE, Virginia (22193)",2,"WOODBRIDGE, Virginia (22193)",3,4,10,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,1,1,3,1,2,3,4,4,4,5,4,3,4,5,4
+104591337,Completed,US,CA,1,5,2,1,5,3,"WILMINGTON, North Carolina (28403)",2,"WILMINGTON, North Carolina (28403)",3,4,10,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,2,1,2,1,2,3,4,4,4,5,4,3,4,5,4
+104591338,Completed,US,GA,1,4,2,1,6,5,"TITUSVILLE, Florida (32780)",1,"TITUSVILLE, Florida (32780)",2,3,10,2,2,3,3,3,2,CFO,3,1,3,1,3,4,,,1,,,,2,3,2,4,1,2,4,3,1,3,2,2,1,2,3,3,3,5,4,4,4,4,5,3,4,4
+104591339,Completed,US,MA,1,4,2,1,6,5,"NEW YORK, New York (10004)",1,"NEW YORK, New York (10004)",2,3,10,2,2,3,3,3,2,CFO,3,1,3,5,3,1,,,,,,,2,3,2,4,1,2,4,3,1,3,2,2,1,2,3,3,3,5,4,4,4,4,5,3,4,4
+104591340,Completed,US,NY,1,3,2,1,5,3,"HOLLYWOOD, Florida (33025)",2,"HOLLYWOOD, Florida (33025)",1,2,10,1,2,3,2,1,1,CIO,2,2,2,2,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591341,Completed,US,NV,1,4,2,1,6,5,"SAN FRANCISCO, California (94103)",1,"SAN FRANCISCO, California (94103)",2,3,10,2,2,3,3,3,2,CFO,3,1,3,1,3,4,,,1,,,,2,3,2,4,1,2,4,3,1,3,2,2,1,2,3,3,3,5,4,4,4,4,5,3,4,4
+104591342,Completed,US,CA,2,4,2,1,6,4,"CHARLOTTE, North Carolina (28202)",4,"CHARLOTTE, North Carolina (28202)",3,2,10,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591343,Completed,US,FL,1,5,2,1,5,3,"NEW YORK, New York (10118)",2,"NEW YORK, New York (10118)",3,4,,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,1,1,3,1,2,3,4,4,4,5,4,3,4,5,4
+104591344,Completed,US,NY,1,3,2,1,5,3,"SAN FRANCISCO, California (94142)",2,"SAN FRANCISCO, California (94142)",1,2,10,1,2,3,2,1,1,CIO,2,2,2,2,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591345,Completed,US,KS,2,6,2,1,5,3,"AVON, Colorado (81620)",5,"AVON, Colorado (81620)",2,2,10,1,2,3,1,2,7,CEO,2,1,3,3,3,4,1,,,,,,2,2,3,4,1,2,3,1,4,2,2,2,1,2,4,3,4,4,4,4,5,3,4,5,4,4
+104591346,Completed,US,CA,2,6,2,1,5,3,"SAN FRANCISCO, California (94103)",5,"SAN FRANCISCO, California (94103)",2,2,10,1,2,3,1,2,7,CEO,2,1,3,3,3,4,1,,,,,,2,2,3,4,1,2,3,1,4,2,2,2,1,2,4,3,4,4,4,4,5,3,4,5,4,4
+104591347,Completed,US,VA,2,6,2,1,5,3,"ASHBURN, Virginia (20149)",5,"ASHBURN, Virginia (20149)",2,2,,1,2,3,1,2,7,CEO,2,1,3,3,3,4,1,,,,,,2,2,3,4,1,2,3,1,4,2,2,2,1,2,4,3,4,4,4,4,5,3,4,5,4,4
+104591349,Completed,US,FL,2,6,2,1,5,3,"NEW YORK, New York (10004)",5,"NEW YORK, New York (10004)",2,2,10,1,2,3,1,2,7,CEO,2,1,3,3,3,4,1,,,,,,2,2,3,4,1,2,3,1,4,2,2,2,1,2,4,3,4,4,4,4,5,3,4,5,4,4
+104591350,Completed,US,CA,2,5,2,1,5,2,"SAN FRANCISCO, California (94142)",5,"SAN FRANCISCO, California (94142)",3,3,10,2,2,3,2,3,12,CFO,2,3,4,4,1,4,1,,,,,,1,4,1,3,2,3,4,2,1,3,2,2,1,3,3,3,4,5,4,4,5,4,5,4,3,4
+104591351,Completed,US,GA,2,5,2,1,5,2,"JEFFERSON, North Carolina (28640)",5,"JEFFERSON, North Carolina (28640)",3,3,,2,2,3,2,3,12,CFO,2,3,4,4,1,4,1,,,,,,1,4,1,3,2,3,4,2,1,3,2,2,1,3,3,3,4,5,4,4,5,4,5,4,3,4
+104591352,Completed,US,OR,2,5,2,1,5,2,"SAN FRANCISCO, California (94142)",5,"SAN FRANCISCO, California (94142)",3,3,10,2,2,3,2,3,12,CFO,2,3,4,4,1,4,1,,,,,,1,4,1,3,2,3,4,2,1,3,2,2,1,3,3,3,4,5,4,4,5,4,5,4,3,4
+104591353,Completed,US,VA,2,4,2,1,6,4,"RESTON, Virginia (20191)",4,"RESTON, Virginia (20191)",3,2,10,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591354,Completed,US,,1,5,2,1,5,3,"NEW YORK, New York (10118)",2,"NEW YORK, New York (10118)",3,4,10,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,1,1,3,1,2,3,4,4,4,5,4,3,4,5,4
+104591355,Completed,US,GA,2,4,2,1,6,4,"SAN FRANCISCO, California (94142)",4,"SAN FRANCISCO, California (94142)",3,2,10,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591356,Completed,US,NC,2,5,2,1,5,2,"MESA, Arizona (85210)",5,"MESA, Arizona (85210)",3,3,10,2,2,3,2,3,12,CFO,2,3,4,4,1,4,1,,,,,,1,4,1,3,2,3,4,2,1,3,2,2,1,3,3,3,4,5,4,4,5,4,5,4,3,4
+104591357,Completed,US,IA,2,4,2,1,6,4,"RACELAND, Louisiana (70394)",4,"RACELAND, Louisiana (70394)",3,2,,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591358,Completed,US,OH,2,4,2,1,6,4,"METAIRIE, Louisiana (70001)",4,"METAIRIE, Louisiana (70001)",3,2,10,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591359,Completed,US,KY,1,5,2,1,5,3,"RICHMOND, Virginia (23235)",2,"RICHMOND, Virginia (23235)",3,4,10,1,2,3,2,2,12,CEO,2,3,4,3,2,4,1,,,,,,1,2,3,4,1,3,2,1,4,2,1,1,1,3,1,2,3,4,4,4,5,4,3,4,5,4
+104591360,Completed,US,NY,2,4,2,1,6,4,"SAN FRANCISCO, California (94142)",4,"SAN FRANCISCO, California (94142)",3,2,10,1,2,3,1,2,13,CIO,1,3,3,2,1,4,,1,,,,,1,2,4,1,3,3,1,4,2,2,1,1,1,2,2,1,4,4,5,4,3,4,5,4,4,4
+104591361,Completed,US,MA,2,6,2,1,5,3,"EITZEN, Minnesota (55931)",5,"EITZEN, Minnesota (55931)",2,2,10,1,2,3,1,2,7,CEO,2,1,3,3,3,4,1,,,,,,2,2,3,4,1,2,3,1,4,2,2,2,1,2,4,3,4,4,4,4,5,3,4,5,4,4
+104591363,Completed,US,OH,2,3,2,1,5,4,"OPA LOCKA, Florida (33055)",3,"OPA LOCKA, Florida (33055)",2,3,10,2,2,3,3,1,18,COO,3,2,3,3,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,2,1,3,3,3,4,4,4,5,4,4,3,4,4,5
+104591364,Completed,US,GA,2,3,2,1,5,4,"NEW YORK, New York (10004)",3,"NEW YORK, New York (10004)",2,3,,2,2,3,3,1,18,COO,3,2,3,3,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,2,1,3,3,3,4,4,4,5,4,4,3,4,4,5
+104591365,Completed,US,FL,2,3,2,1,5,4,"SIOUX FALLS, South Dakota (57101)",3,"SIOUX FALLS, South Dakota (57101)",2,3,10,2,2,3,3,1,18,COO,3,2,3,3,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,3,1,3,3,3,4,4,4,5,4,4,3,4,4,5
+104591366,Completed,US,PA,2,3,2,1,5,4,"SAN FRANCISCO, California (94142)",3,"SAN FRANCISCO, California (94142)",2,3,10,2,2,3,3,1,18,COO,3,2,3,2,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,3,1,3,3,3,4,4,4,5,4,4,3,4,4,5
+104591367,Completed,US,,2,5,2,1,5,2,"HERNDON, Virginia (20170)",5,"HERNDON, Virginia (20170)",3,3,10,2,2,3,2,3,12,CFO,2,3,4,4,1,4,1,,,,,,1,4,1,3,2,3,4,2,1,3,2,2,1,3,3,3,4,5,4,4,5,4,5,4,3,4
+104591368,Completed,US,FL,2,3,2,1,5,4,"MC BEE, South Carolina (29101)",3,"MC BEE, South Carolina (29101)",2,3,10,2,2,3,3,1,18,COO,3,2,3,3,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,2,1,2,3,3,4,4,4,5,4,4,3,4,4,5
+104591369,Completed,US,CA,2,3,2,1,5,4,"SAN FRANCISCO, California (94107)",3,"SAN FRANCISCO, California (94107)",2,3,10,2,2,3,3,1,18,COO,3,2,3,3,2,5,1,,,,,,2,2,3,1,4,1,4,2,3,2,2,2,1,3,3,3,4,4,4,5,4,4,3,4,4,5
+104591370,Completed,US,IN,1,3,2,1,5,3,"SAN FRANCISCO, California (94119)",2,"SAN FRANCISCO, California (94119)",1,2,10,1,2,3,2,1,1,CIO,2,2,2,2,2,4,,1,,,,,1,1,4,3,2,2,3,4,1,2,1,1,1,2,2,2,3,4,4,4,5,4,5,3,5,4
+104591471,Completed,US,,2,3,2,3,5,4,"CRAIG, Colorado (81626)",4,"CRAIG, Colorado (81626)",4,2,15,1,2,2,4,3,8,employee,3,3,4,2,2,4,1,,,,,,4,4,3,2,1,4,3,2,1,2,2,2,1,5,3,5,3,3,4,2,4,5,5,2,4,4
+104591750,Completed,US,IL,1,3,1,2,3,4,"TOLEDO, Ohio (43614)",4,"TOLEDO, Ohio (43614)",3,2,3,2,3,3,5,2,15,教练,3,3,3,3,2,5,,,1,,,,2,1,2,3,4,1,2,4,3,4,2,2,2,3,3,3,4,2,2,3,4,3,3,3,3,3
+104591814,Completed,US,CO,1,3,2,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591815,Completed,US,IL,1,3,2,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591816,Completed,US,CA,1,3,2,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591817,Completed,US,TX,1,3,2,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591818,Completed,US,ID,1,3,2,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591828,Completed,US,MN,,2,1,3,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,2,50,1,2,2,2,2,8,manager,2,1,2,2,1,4,,,,1,,,1,1,2,3,4,3,1,2,4,3,1,1,1,3,5,4,4,5,4,5,5,4,5,5,4,5
+104591912,Completed,US,FL,1,3,1,2,5,4,"PORT DEPOSIT, Maryland (21904)",4,"PORT DEPOSIT, Maryland (21904)",5,3,18,2,3,5,5,2,5,operator,4,2,2,1,1,2,,1,1,,,,4,4,3,2,1,4,1,2,3,4,2,2,3,4,2,4,1,1,3,3,4,4,2,2,3,4
+104591924,Completed,US,MI,1,2,2,1,2,2,"CHICAGO, Illinois (60606)",1,"CHICAGO, Illinois (60603)",2,2,25,1,2,2,1,1,8,manager,2,1,2,2,2,4,,,1,,,,2,1,3,2,4,2,1,4,3,3,2,1,1,5,5,4,5,4,5,4,5,5,4,5,5,4
+104591925,Completed,US,OR,1,2,2,1,2,2,"CHICAGO, Illinois (60606)",1,"CHICAGO, Illinois (60603)",2,2,25,1,2,2,1,1,8,manager,2,1,2,2,2,4,,,1,,,,2,1,3,2,4,2,1,4,3,3,2,1,1,5,5,4,5,4,5,4,5,5,4,5,5,4
+104591926,Completed,US,MD,1,2,2,1,2,2,"CHICAGO, Illinois (60606)",1,"CHICAGO, Illinois (60603)",2,2,25,1,2,2,1,1,8,manager,2,1,2,2,2,4,,,1,,,,2,1,3,2,4,2,1,4,3,3,2,1,1,5,5,4,5,4,5,4,5,5,4,5,5,4
+104591929,Completed,US,CA,1,2,2,1,2,2,"CHICAGO, Illinois (60606)",1,"CHICAGO, Illinois (60603)",2,2,25,1,2,2,1,1,8,manager,2,1,2,2,2,4,,,1,,,,2,1,3,2,4,2,1,4,3,3,2,1,1,5,5,4,5,4,5,4,5,5,4,5,5,4
+104591930,Completed,US,OH,1,2,2,1,2,2,"CHICAGO, Illinois (60606)",1,"CHICAGO, Illinois (60603)",2,2,25,1,2,2,1,1,8,manager,2,1,2,2,2,4,,,1,,,,2,1,3,2,4,2,1,4,3,3,2,1,1,5,5,4,5,4,5,4,5,5,4,5,5,4
+104592030,Completed,US,IL,1,3,4,2,2,2,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592031,Completed,US,WV,1,3,4,2,2,2,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592032,Completed,US,VA,1,3,4,2,3,,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592033,Completed,US,GA,1,3,4,2,2,2,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592034,Completed,US,,1,3,4,2,2,2,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592035,Completed,US,FL,1,3,4,2,3,,"CHICAGO, Illinois (60606)",5,"NEW YORK, New York (10007)",3,3,2000,1,1,3,4,2,7,manager,2,1,4,4,1,4,,,1,,,,1,2,1,4,3,2,1,3,4,3,1,2,1,4,5,5,4,5,5,4,5,4,5,5,5,5
+104592093,Completed,US,LA,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,1,3,4,4,1,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592094,Completed,US,CA,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,1,3,4,4,1,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592095,Completed,US,,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,0,0,0,,3,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592096,Completed,US,NC,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,0,0,0,,3,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592097,Completed,US,FL,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,1,3,4,4,1,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592123,Completed,US,NC,1,3,1,1,2,2,,1,,3,1,5,1,2,3,5,3,7,salesman,3,3,4,4,2,4,1,,,,,,1,1,2,3,4,1,2,3,4,3,1,1,3,5,5,4,4,4,4,4,5,2,5,5,5,5
+104592152,Completed,US,TX,1,2,3,1,5,2,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,3,2,1,9,manager,2,1,2,3,1,4,,,,1,,,1,1,2,4,3,2,0,0,0,,3,1,1,4,5,4,5,4,5,4,5,3,3,4,5,5
+104592211,Completed,US,IL,1,4,2,1,2,,"ROLLING MEADOWS, Illinois (60008)",1,"BENT MOUNTAIN, Virginia (24059)",3,,4,2,2,3,4,2,1,护林员,3,3,4,1,2,2,,,,1,,,4,0,0,1,0,0,0,1,0,2,2,2,2,5,,5,5,5,5,5,5,5,5,5,5,5
+104592232,Completed,US,LA,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592234,Completed,US,GA,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592235,Completed,US,FL,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592237,Completed,US,PA,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592238,Completed,US,IL,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592239,Completed,US,CA,1,2,2,2,2,3,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",3,2,200,1,2,2,2,2,8,manager,1,1,3,2,1,4,,,1,,,,1,1,2,4,3,2,1,3,4,4,1,2,1,5,4,5,5,4,5,5,4,5,5,5,4,5
+104592317,Completed,US,MA,1,3,1,1,2,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,3,2,1,1,3,2,17,network writer,3,4,2,4,3,5,,,,,,1,4,4,3,1,2,4,3,1,2,3,3,3,1,2,1,3,2,3,3,2,4,2,3,2,3,4
+104592333,Completed,US,NJ,1,4,2,3,2,4,"CHICAGO, Illinois (60606)",,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,1,2,3,4,4,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592334,Completed,US,FL,1,4,2,3,2,4,"CHICAGO, Illinois (60606)",,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,1,2,3,4,4,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592335,Completed,US,CT,1,4,2,3,2,4,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,1,2,3,4,4,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592336,Completed,US,MN,1,4,3,3,2,4,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,2,3,4,1,3,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592337,Completed,US,,1,4,2,3,2,4,"CHICAGO, Illinois (60606)",,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,1,2,3,4,4,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592338,Completed,US,WA,1,4,3,3,2,4,"CHICAGO, Illinois (60606)",3,"CHICAGO, Illinois (60606)",2,3,50,1,2,3,2,2,7,manager,2,1,2,3,1,4,,,,1,,,1,2,1,4,3,1,2,3,4,4,1,1,1,5,5,4,5,4,5,4,5,4,4,5,4,5
+104592482,Completed,US,,2,4,2,1,5,1,"BENT MOUNTAIN, Virginia (24059)",1,"ROANOKE, Virginia (24012)",3,2,50,2,2,4,5,2,7,manager,1,3,3,2,2,4,1,1,1,,,,4,1,2,3,4,4,3,1,2,3,2,2,2,4,3,5,5,3,4,4,5,5,5,4,4,4
+104592511,Completed,US,,2,3,2,1,5,1,"ROANOKE, Virginia (24013)",1,"ROANOKE, Virginia (24013)",2,4,35,2,2,3,3,2,11,be in charge of,3,1,3,4,3,5,1,,,,,,1,1,2,3,4,4,3,2,1,3,2,3,1,2,2,3,4,4,4,3,4,4,3,3,4,3
+104592551,Completed,US,CA,2,2,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,2,1,2,2,3,5,2,7,online customer service,3,4,1,4,3,5,,,,,,1,1,2,1,3,4,3,2,1,4,3,2,2,2,2,1,4,2,3,3,3,4,3,3,3,3,3
+104592620,Completed,US,CA,2,3,2,1,6,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24015)",2,4,3,1,2,3,4,2,14,Production Manager,3,1,3,5,3,4,,1,,,1,,4,1,2,3,4,4,2,1,3,3,2,1,1,5,5,2,3,2,3,5,1,2,1,4,4,3
+104592673,Completed,US,NY,1,3,2,1,7,1,"BENT MOUNTAIN, Virginia (24059)",1,"BENT MOUNTAIN, Virginia (24059)",3,1,30,2,2,3,4,2,10,Insurance broker,1,3,2,4,3,5,1,1,1,,,,4,2,1,3,4,3,1,2,4,4,2,2,2,4,4,5,5,4,5,5,5,5,5,4,5,5
+104592677,Completed,EC,G,1,2,1,1,5,1,"ROANOKE, Virginia (24001)",1,"ROANOKE, Virginia (24001)",1,1,13,1,1,1,4,3,9,Information engineer,4,1,4,4,2,5,1,,,,,,3,1,0,0,0,1,0,0,0,1,1,1,2,2,5,1,4,4,4,3,5,5,4,5,4,4
+104592680,Completed,US,AZ,1,3,2,1,5,1,,1,,3,2,15,1,2,3,4,3,5,,3,4,2,2,2,3,1,,,,,,1,1,0,0,0,1,0,0,0,1,1,1,1,3,4,3,4,3,4,3,4,4,5,3,3,4
+104592785,Completed,US,,2,3,2,1,6,3,,4,,2,4,30,1,3,3,5,3,5,director,3,3,4,2,2,4,1,,,,,,3,1,3,2,4,4,1,2,3,4,1,1,2,3,4,4,3,2,2,3,4,5,3,3,2,4
+104592804,Completed,US,,2,4,2,1,5,2,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,3,26,2,2,4,4,2,4,Director,3,3,4,4,2,5,1,,1,,,,1,1,2,4,3,4,3,1,2,3,2,3,1,3,2,4,4,4,4,3,4,4,3,3,3,4
+104592808,Completed,US,HI,2,3,1,1,6,1,"NEWARK, Delaware (19714)",1,"NEWARK, Delaware (19714)",4,4,15,1,1,1,2,2,11, manager,3,4,3,4,3,5,1,,,,,,4,1,2,3,4,3,4,2,1,3,2,3,1,3,4,3,2,3,3,3,4,4,4,3,3,4
+104592933,Completed,US,AZ,2,3,5,5,4,3,,3,,2,2,20,1,2,2,4,2,5,boss,2,3,2,3,2,3,,,1,,,,2,2,3,1,4,1,3,2,4,3,2,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3
+104593015,Completed,US,NC,2,3,1,1,6,1,"ROANOKE, Virginia (24002)",2,"ROANOKE, Virginia (24002)",2,,25,1,1,1,5,3,10,waiter,3,2,4,4,2,4,,1,,,,,2,0,0,1,0,0,0,1,0,1,2,2,1,4,1,4,5,5,5,4,4,4,4,5,3,5
+104593193,Completed,US,NY,1,3,1,1,5,1,"BENT MOUNTAIN, Virginia (24059)",1,,4,3,2,2,3,4,5,3,3,职员,4,4,4,4,2,3,1,,,,,,4,0,1,0,0,0,1,0,0,2,2,2,2,2,1,3,1,4,4,2,5,4,5,1,2,5
+104593388,Completed,US,VA,2,5,,,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24015)",4,5,15,2,1,,,3,11,Product Manager,4,2,,,,,,,,,,,2,2,1,4,3,2,4,3,1,4,3,3,1,5,5,2,2,5,5,3,3,5,5,5,1,1
+104593389,Completed,US,VA,1,,,8,,,"ROANOKE, Virginia (24016)",,,4,2,4,1,2,,,3,15,HRA,1,4,,,,,,,,,,,3,1,3,4,2,1,4,3,2,2,2,1,2,1,5,3,1,4,3,1,5,5,4,5,2,3
+104593391,Completed,US,VA,2,,,8,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24015)",5,3,7,1,3,,,1,,,,,4,6,3,4,,1,,,,,3,2,1,4,3,3,1,4,2,3,3,1,3,2,4,1,4,2,3,5,1,5,2,5,5,5
+104593392,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24015)",4,1,11,2,3,,,2,1,Product Manager,3,2,,,,,,,,,,,2,3,1,2,4,2,4,1,3,2,3,3,2,5,2,3,4,2,4,5,5,5,2,3,5,5
+104593393,Completed,US,VA,1,,,,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24015)",2,3,9,2,2,,,1,,,,,3,4,3,4,,,1,,,,1,1,3,2,4,4,3,1,2,5,2,1,2,4,2,5,1,1,3,4,5,3,3,5,1,3
+104593396,Completed,US,VA,2,5,,,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24015)",3,4,7,1,3,,,3,,,,,4,2,2,4,,1,1,,,,4,1,3,4,2,4,2,3,1,3,2,3,1,2,3,3,5,4,1,1,1,4,2,5,3,1
+104593404,Completed,US,VA,,,,,,,,,,,,,,,,,,3,General Manager,3,2,4,5,1,4,1,,,1,,,4,3,2,4,1,4,1,2,3,2,2,3,2,2,2,1,3,1,1,4,5,4,1,1,1,4
+104593405,Completed,US,VA,1,,,8,,,"ROANOKE, Virginia (24014)",,"ROANOKE, Virginia (24018)",2,4,13,2,1,,,4,,,,,3,6,2,4,,,,,,1,3,3,4,2,1,1,3,2,4,4,3,2,1,1,5,1,3,3,2,2,4,3,3,3,1,4
+104593406,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24019)",3,5,5,1,3,,,3,,,,,3,1,3,5,,,1,,1,,1,2,3,4,1,3,1,4,2,2,3,1,2,2,1,4,5,3,5,1,1,4,1,1,5,4
+104593407,Completed,US,VA,1,,,8,,,"ROANOKE, Virginia (24014)",,"ROANOKE, Virginia (24018)",3,2,15,1,3,,,3,1,Chief Information Officer,2,1,,,,,,,,,,,4,2,3,1,4,4,2,3,1,3,3,2,1,2,5,3,5,1,2,4,3,2,3,2,1,2
+104593408,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24019)",5,2,13,1,1,,,3,,,,,4,1,2,5,1,,,,1,,3,3,4,1,2,3,4,1,2,1,2,2,1,5,1,3,4,4,5,5,3,5,4,3,2,3
+104593410,Completed,US,VA,1,5,,,,,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24019)",3,1,8,1,1,,,2,3,Production Manager,3,3,5,5,3,4,,,,,,1,3,2,1,3,4,4,2,3,1,3,3,3,3,4,2,2,5,4,1,4,4,2,2,2,3,3
+104593417,Completed,US,,2,5,,,,,"ROANOKE, Virginia (24014)",,"ROANOKE, Virginia (24018)",5,5,4,2,1,,,3,,,,,5,5,2,4,1,,,1,,,4,4,3,2,1,3,1,2,4,2,2,3,2,5,5,2,1,3,1,1,5,5,5,4,4,3
+104593503,Completed,US,OR,2,3,1,1,4,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",3,2,2.3,1,3,4,3,1,10,Insurance Product Sales,3,3,3,2,,,,,,,,,,2,1,3,4,,,,,3,3,,,,,,,,,,,,,,,
+104593742,Completed,US,MD,1,3,2,1,5,6,"FRANKLIN, Ohio (45005)",6,"FRANKLIN, Ohio (45005)",2,3,4,2,3,4,5,2,15,Graduate teaching assistant,3,2,2,3,2,3,,,,1,,,3,1,3,2,4,1,2,3,4,3,2,2,2,4,4,4,4,4,4,4,4,4,4,3,3,4
+104593841,Completed,US,VA,1,,,8,,,"ROANOKE, Virginia (24012)",,"ROANOKE, Virginia (24019)",3,1,8,2,1,,,2,,,,,3,1,2,5,,,,1,1,,2,4,3,2,1,1,2,4,3,3,3,2,2,2,2,5,1,5,4,5,5,3,2,1,1,2
+104593842,Completed,US,CA,,,,,,,,,,,,,,,,,,15,Operations Manager,3,3,,,,,,,,,,,2,1,2,4,3,3,1,2,4,2,2,3,1,1,5,4,5,4,2,1,3,3,1,2,3,1
+104593844,Completed,US,VA,2,,,8,,,"ROANOKE, Virginia (24019)",,"ROANOKE, Virginia (24018)",4,4,12,2,1,,,4,14,Project Manager,1,3,,,,,,,,,,,1,4,2,3,1,2,3,4,1,4,2,1,1,2,4,4,4,3,4,1,5,2,4,4,5,5
+104593845,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24019)",,"ROANOKE, Virginia (24018)",2,3,2,1,3,,,1,,,,,4,2,2,4,1,,1,,,,3,4,2,1,3,2,3,4,1,4,2,2,2,4,2,2,2,3,2,3,5,3,4,2,1,5
+104593848,Completed,US,VA,1,,,8,,,"ROANOKE, Virginia (24016)",,"ROANOKE, Virginia (24018)",1,2,14,2,1,,,4,1,Product Manager,3,2,,,,,,,,,,,4,4,1,3,2,2,4,3,1,5,3,3,1,5,2,1,1,4,1,2,3,3,5,4,5,4
+104593854,Completed,US,VA,2,,,8,,,"ROANOKE, Virginia (24019)",,"ROANOKE, Virginia (24018)",4,4,6,2,2,,,2,15,Product Manager,2,4,5,1,1,4,1,,1,,,,3,4,1,3,2,2,4,1,3,2,3,3,2,5,2,1,3,2,1,1,3,2,2,2,4,2
+104593855,Completed,US,VA,2,,,8,,,"ROANOKE, Virginia (24019)",,"ROANOKE, Virginia (24018)",3,1,12,1,2,,,1,6,Operations Director,1,1,5,2,2,5,,,1,1,,,2,1,2,4,3,2,1,3,4,4,2,2,1,1,1,5,2,5,3,4,5,3,1,3,5,4
+104593856,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24019)",,"ROANOKE, Virginia (24018)",5,5,2,1,2,,,2,20,Product Manager,4,4,3,2,1,4,,1,,,1,,2,4,2,3,1,4,2,1,3,3,2,2,3,1,4,5,3,5,2,5,2,5,2,2,2,5
+104593857,Completed,US,VA,1,5,,,,,"ROANOKE, Virginia (24014)",,"ROANOKE, Virginia (24019)",3,5,15,2,3,,,4,11,Human Resource,2,4,3,5,3,4,1,,,1,,,1,4,3,1,2,1,4,3,2,1,3,3,1,4,1,2,2,3,2,1,4,5,4,2,2,4
+104593860,Completed,US,VA,2,,,,,,"ROANOKE, Virginia (24014)",,"ROANOKE, Virginia (24019)",4,1,13,1,1,,,3,2,Operations Director,3,2,3,6,3,5,,1,1,,,,4,4,3,1,2,1,3,4,2,2,3,1,1,1,3,4,2,4,3,1,2,2,2,3,5,1
+104593864,Completed,US,VA,,,,,,,,,,,,,,,,,,5,HRA,2,2,3,1,1,4,,,1,,,,1,1,2,3,4,1,2,4,3,3,2,3,3,3,4,5,4,4,1,4,1,5,2,3,3,2
+104594233,Completed,US,OH,2,3,2,1,6,1,"NEWARK, Delaware (19714)",2,"ALBANY, Oregon (97322)",3,3,60,1,2,3,3,2,10,assistant manager,3,3,4,3,2,4,1,,,1,,,4,2,1,3,4,3,4,2,1,2,2,3,1,3,2,2,2,4,5,5,4,3,3,4,3,2
+104594234,Completed,US,TX,2,3,2,5,5,2,"ALBANY, Oregon (97322)",2,"NEWHALL, California (91322)",2,3,15,2,2,3,3,2,4,manager,3,1,4,4,3,5,1,,,1,,,4,2,1,4,3,3,4,1,2,2,3,2,1,3,2,3,3,4,4,4,3,3,4,4,3,3
+104594343,Completed,US,WY,2,3,1,3,7,1,"VIRGINIA BEACH, Virginia (23452)",1,"VIRGINIA BEACH, Virginia (23452)",4,5,10,1,3,5,5,3,3,operator,4,4,4,4,2,5,,,,,,1,4,2,1,3,4,4,3,2,1,2,3,3,1,4,4,2,4,4,4,4,4,4,4,4,4,4
+104594816,Completed,US,FL,1,3,2,2,4,6,,6,,4,3,,2,1,2,3,2,5,,4,2,2,4,2,4,,,1,,,,4,1,2,3,4,2,1,4,3,3,1,2,1,5,2,4,3,4,4,3,5,5,4,2,3,4
+104594963,Completed,US,CO,2,3,2,4,3,3,"PLEASANTON, California (94566)",3,"PITTSBURG, California (94565)",2,2,12,1,2,2,3,2,5,manager,2,2,2,3,2,2,,1,,,,,2,2,3,1,4,2,1,4,3,3,2,2,1,3,3,2,3,3,4,4,4,3,2,3,3,2
+104595094,Completed,US,MA,2,3,1,3,7,1,"VIRGINIA BEACH, Virginia (23452)",1,"VIRGINIA BEACH, Virginia (23452)",4,4,10,1,3,5,5,3,3,operator,4,4,4,4,2,4,,,,,,1,4,1,2,3,4,4,3,2,1,2,3,3,1,4,4,4,2,4,4,4,4,4,4,4,4,4
+104595108,Completed,US,CA,1,2,1,1,7,1,"ROANOKE, Virginia (24013)",1,"BENT MOUNTAIN, Virginia (24059)",2,3,7,2,1,1,5,2,18,hotel manager,1,3,2,4,2,5,1,,,,,,1,1,2,3,4,1,2,3,4,5,1,2,2,5,3,5,2,5,5,5,5,3,3,3,3,5
+104595445,Completed,US,CO,2,3,2,1,5,1,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,3,25,2,2,3,3,3,5,manager,3,4,4,4,3,5,1,,,1,,,1,2,1,3,4,4,1,2,3,3,2,3,1,3,4,3,2,3,3,4,3,3,2,3,3,4
+104595448,Completed,US,TN,,2,2,2,6,1,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,3,25,2,2,3,3,3,5,manager,3,1,4,4,3,4,1,,1,,,,1,2,1,3,4,3,4,2,1,4,2,3,1,3,4,3,2,3,3,4,3,3,4,3,3,4
+104595903,Completed,US,MA,2,3,2,1,3,3,,,,,,,1,2,3,4,2,9,,3,3,2,2,2,4,1,,,,,,,,,,,2,3,1,4,,,,,,,,,,,,,,,,,
+104596736,Completed,US,CA,1,3,2,1,5,1,"BENT MOUNTAIN, Virginia (24059)",1,"BENT MOUNTAIN, Virginia (24059)",2,5,10,1,3,5,5,3,15,,3,3,4,4,2,5,1,,,,,,3,1,2,3,4,1,2,3,4,3,1,1,2,5,4,5,5,4,4,4,5,5,4,2,4,5
+104597199,Completed,US,CA,2,3,2,1,5,3,,3,,4,3,,1,1,2,3,3,3,,3,4,4,4,3,5,1,,,,,,1,2,1,4,3,3,4,2,1,2,2,1,1,2,2,3,4,2,3,3,5,4,2,3,4,3
+104597654,Completed,US,NY,2,3,2,1,5,2,"DETROIT, Oregon (97342)",2,"SALEM, Oregon (97301)",3,3,25,2,2,3,3,2,11,manager,3,4,3,4,3,4,1,,,1,,,4,2,1,3,4,3,2,1,4,2,3,2,1,3,4,3,2,3,3,3,4,3,3,3,2,3
+104597658,Completed,US,CA,2,3,2,1,5,2,"SALEM, Oregon (97317)",2,"SALEM, Oregon (97317)",2,3,15,2,2,3,3,3,5,manager,2,3,4,5,2,4,1,,,,,,3,1,2,3,4,3,4,2,1,2,2,3,1,3,4,3,2,3,3,3,2,3,4,3,3,2
+104598184,Completed,US,CA,1,3,2,3,6,1,"RANCHO CORDOVA, California (95742)",1,,2,3,10,1,2,2,3,3,4,Project manager,4,3,4,4,2,4,1,,,,,,4,1,2,3,4,2,1,3,4,3,2,2,2,5,5,5,4,4,5,5,5,4,4,4,5,5
+104598927,Completed,PS,,2,3,2,2,3,3,"COLUMBIA, Maryland (21045)",3,"DEER PARK, Texas (77536)",2,2,5,2,2,4,4,2,5,Manufacturing engineer,4,3,3,4,2,3,1,,1,,,,3,2,3,1,4,1,2,3,4,3,2,2,2,5,3,4,3,4,4,5,5,4,4,4,4,5
+104599950,Completed,US,CA,2,4,2,6,5,2,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,4,16,1,2,4,4,3,4,"Manager,",3,4,3,4,3,3,,,1,1,,,4,2,1,4,3,3,4,2,1,2,3,2,2,3,4,4,3,5,4,3,2,3,2,3,3,3
+104599952,Completed,US,LA,2,4,2,1,6,1,"NEWARK, Delaware (19714)",1,"NEWARK, Delaware (19714)",2,3,8,1,1,2,3,2,17,director,3,4,4,5,2,4,,,,1,1,,1,2,1,3,4,4,3,2,1,3,2,3,2,3,4,4,5,4,3,3,3,4,3,2,3,3
+104600370,Completed,US,NJ,2,3,1,5,2,3,"NORFOLK, Virginia (23523)",1,"NORFOLK, Virginia (23523)",2,3,23,1,2,2,4,3,7,manager,3,3,3,4,3,5,,,1,,,,1,4,3,2,1,4,3,2,1,2,1,2,2,4,3,5,2,3,4,1,4,5,2,2,3,4
+104600371,Completed,US,FL,2,4,2,3,5,5,"NORFOLK, Virginia (23523)",5,"NORFOLK, Virginia (23523)",4,3,20,1,3,4,4,3,15,Librarian,3,2,2,1,1,3,,,1,,,,1,1,4,3,2,4,2,3,1,1,2,3,1,5,2,5,3,5,5,3,5,5,5,2,3,2
+104600372,Completed,US,NJ,2,3,2,3,3,4,"NORFOLK, Virginia (23523)",5,"NORFOLK, Virginia (23523)",3,2,20,1,1,1,3,4,13,personnel,3,4,3,4,3,5,1,,,,,,4,3,4,2,1,4,3,2,1,3,1,1,2,3,4,4,4,4,4,4,5,5,5,2,4,5
+104600374,Completed,VE,V,2,5,2,3,2,3,"NORFOLK, Virginia (23523)",3,"NORFOLK, Virginia (23523)",2,1,15,1,2,3,4,3,3,employee,3,2,5,2,1,3,1,,,,,,1,3,4,1,2,3,4,2,1,1,2,2,1,5,5,5,5,3,5,3,4,5,5,2,4,4
+104600413,Completed,US,CA,2,3,2,1,2,2,"ROANOKE, Virginia (24155)",1,"ROANOKE, Virginia (24037)",3,,,1,2,3,2,3,16,department manager,3,3,4,3,2,5,1,,,,,,3,0,2,3,4,1,2,3,4,1,2,1,3,2,2,1,1,1,1,1,1,2,2,1,2,
+104600414,Completed,US,TX,2,3,2,1,2,3,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,11,1,2,3,2,3,13,department manager,3,3,4,4,2,5,1,,1,,,,3,0,2,3,4,1,2,3,4,1,2,1,2,1,1,1,2,2,1,1,1,2,2,2,2,
+104600415,Completed,US,,2,3,2,1,2,1,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,15,1,2,3,2,3,15,department manager,3,3,3,2,1,4,1,,,,1,,3,1,2,3,4,1,2,3,4,1,2,1,2,2,2,1,1,1,1,1,1,2,2,1,1,1
+104600416,Completed,US,MN,2,3,2,1,2,3,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,10,1,2,3,2,3,13,department manager,3,3,5,4,2,5,1,,,,,,2,0,2,3,4,1,2,3,4,1,2,1,2,1,1,2,1,2,1,1,2,2,2,2,1,1
+104600417,Completed,US,,2,3,2,1,2,1,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,15,1,2,3,2,3,15,department manager,3,3,3,2,1,4,1,,,,,,3,1,2,3,4,1,2,3,0,1,2,1,2,1,2,1,1,1,1,1,1,2,2,2,2,
+104600418,Completed,US,DE,2,3,2,1,2,2,"ROANOKE, Virginia (24155)",1,"ROANOKE, Virginia (24037)",3,,20,1,2,3,2,3,16,department manager,3,3,4,3,2,5,1,,1,,,,3,0,2,3,4,1,2,3,4,1,2,1,3,1,1,1,2,2,1,1,1,2,1,1,2,2
+104600419,Completed,US,NJ,2,3,2,1,2,1,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,15,1,2,3,2,3,15,department manager,3,3,4,3,2,4,1,,,,,,3,1,2,3,4,1,2,3,4,1,2,1,2,1,1,1,1,1,1,1,1,2,2,1,2,
+104600420,Completed,US,NY,2,3,2,1,2,3,"ROANOKE, Virginia (24037)",1,"ROANOKE, Virginia (24013)",4,3,10,1,2,3,2,3,13,department manager,3,3,5,4,2,5,1,,,,,,1,0,2,3,4,1,2,3,4,1,2,1,2,1,1,1,1,2,1,1,1,2,2,1,1,1
+104600445,Completed,US,NY,,3,2,1,2,2,"ROANOKE, Virginia (24155)",1,"ROANOKE, Virginia (24013)",3,,10,1,2,3,2,3,14,department manager,3,3,4,3,2,5,1,,,,,,3,0,2,3,4,1,2,3,4,1,2,1,3,2,2,2,2,2,1,1,1,2,2,1,2,
+104600502,Completed,US,NY,2,3,6,2,8,2,"KENNEDY, Alabama (35574)",7,"YORK, Alabama (36925)",5,2,13,1,1,2,3,3,10,Software Developer,3,2,4,2,3,4,,,1,1,1,,1,2,3,1,4,4,1,2,3,4,1,1,1,5,4,3,3,5,3,4,5,5,3,4,4,5
+104600877,Completed,US,NY,1,3,2,1,5,3,,3,,2,2,,1,2,2,4,3,10,,3,2,3,3,2,4,,,1,1,,,3,,,,,,,,,4,2,2,1,3,4,3,3,4,5,3,3,4,3,5,3,3
+104601008,Completed,US,,1,3,1,1,5,,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,2,5,2,2,3,3,2,9,Technical personnel,3,2,4,2,1,4,,,,1,1,,1,2,3,1,4,1,3,2,4,2,2,2,2,4,3,2,4,3,4,4,3,4,2,3,3,4
+104601009,Completed,US,,1,3,1,1,5,,"ROANOKE, Virginia (24011)",,"ROANOKE, Virginia (24011)",2,2,5,2,2,3,3,2,9,Technical personnel,3,2,4,2,1,4,,,,1,1,,1,2,3,1,4,1,3,2,4,2,2,2,2,4,3,2,4,3,4,4,3,4,2,3,3,4
+104601010,Completed,US,,1,3,1,1,5,,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,2,5,2,2,3,3,2,9,Technical personnel,3,2,4,2,1,4,,,,1,1,,1,2,3,1,4,1,3,2,4,2,2,2,2,4,3,2,4,3,4,4,3,4,2,3,3,4
+104601011,Completed,US,,1,3,1,1,5,,"ROANOKE, Virginia (24011)",,"ROANOKE, Virginia (24011)",2,2,5,2,2,3,3,2,9,Technical personnel,3,2,4,2,1,4,,,,1,1,,1,2,3,1,4,1,3,2,4,2,2,2,2,4,3,2,4,3,4,4,3,4,2,3,3,4
+104601015,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,3,2,2,3,4,2,9,Technical personnel,3,2,4,2,1,4,,,1,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,2,4,4,3,3,4,4,3,2,4,4,4,3
+104601016,Completed,US,,2,3,1,1,5,1,,,"ROANOKE, Virginia (24011)",3,2,3,2,2,3,4,2,9,Technical personnel,3,2,4,2,1,4,,,1,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,4,4,4,3,3,4,4,3,2,4,4,4,3
+104601017,Completed,US,,2,3,1,1,5,1,,,"ROANOKE, Virginia (24011)",3,2,3,2,2,3,4,2,9,Technical personnel,3,2,4,2,1,4,,,1,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,4,4,4,3,3,4,4,3,2,4,4,4,3
+104601018,Completed,US,,2,3,1,1,5,1,,,"ROANOKE, Virginia (24011)",3,2,3,2,2,3,4,2,9,Technical personnel,3,2,4,2,1,4,,,1,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,4,4,4,3,3,4,4,3,2,4,4,4,3
+104601020,Completed,US,,2,3,1,1,5,1,,,,,,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,1,,1,,,1,2,1,4,3,1,2,3,4,2,1,2,2,3,3,4,3,3,2,3,4,2,3,3,3,3
+104601021,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,2,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,1,,1,,,1,2,1,4,3,1,2,3,4,2,1,2,2,3,3,4,3,3,2,3,4,2,3,3,3,3
+104601022,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,2,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,1,,1,,,1,2,1,4,3,1,2,3,4,2,1,2,2,3,3,4,3,3,2,3,4,2,3,3,3,3
+104601023,Completed,US,,2,3,1,1,5,1,,,,,,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,1,,1,,,1,2,1,4,3,1,2,3,4,2,1,2,2,3,3,4,3,3,2,3,4,2,3,3,3,3
+104601024,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,,1,,,,1,1,2,4,3,1,2,4,3,3,2,2,2,1,3,2,3,2,4,3,3,3,4,4,4,4
+104601025,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,,1,,,,1,1,2,4,3,1,2,4,3,3,2,2,2,1,3,2,3,2,4,3,3,3,4,4,4,4
+104601026,Completed,US,,2,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,4,2,2,3,4,3,9,Technical personnel,3,2,4,3,1,4,,,1,,,,1,1,2,4,3,1,2,4,3,3,2,2,2,3,3,2,4,2,4,3,3,3,4,4,4,4
+104601029,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,3,5,2,2,3,3,3,9,Technical personnel,3,2,4,2,2,4,,,1,1,,,1,2,1,4,3,1,3,2,4,2,2,2,2,4,3,4,3,4,3,4,4,3,2,3,4,3
+104601030,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,3,5,2,2,3,3,3,9,Technical personnel,3,2,4,2,2,4,,,1,1,,,1,2,1,4,3,1,3,2,4,2,2,2,2,4,3,4,3,4,3,4,4,3,2,3,4,3
+104601031,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,3,5,2,2,3,3,3,9,Technical personnel,3,2,4,2,2,4,,,1,1,,,1,2,1,4,3,1,3,2,4,2,2,2,2,1,4,3,4,3,4,4,3,2,3,4,3,
+104601032,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",2,3,5,2,2,3,3,3,9,Technical personnel,3,2,4,2,2,4,,,1,1,,,1,2,1,4,3,1,3,2,4,2,2,2,2,4,3,4,3,4,3,4,4,3,2,3,4,3
+104601033,Completed,US,,,1,,3,4,,,,,2,2,4,2,2,3,3,2,,,,4,1,2,2,4,,,1,1,,,1,1,2,3,4,1,2,3,4,1,1,2,2,4,3,4,4,2,2,3,4,3,4,4,4,4
+104601034,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,3,5,2,2,3,3,3,9,Technical personnel,3,2,3,2,1,4,,,,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,4,3,4,4,2,2,3,4,3,4,4,4,4
+104601035,Completed,US,CA,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,3,5,2,2,3,3,3,9,Technical personnel,3,2,3,2,1,4,,,,1,,,1,1,2,3,4,1,2,3,4,2,1,2,2,4,3,4,4,2,2,3,4,3,4,4,4,4
+104601036,Completed,US,,1,3,1,1,5,1,"ROANOKE, Virginia (24011)",4,"ROANOKE, Virginia (24011)",2,3,4,2,2,2,2,2,,,,4,1,2,2,4,,,1,1,,,1,1,3,2,4,1,2,3,4,2,1,2,2,4,3,4,4,2,2,3,4,3,4,4,4,4
+104601625,Completed,US,KY,2,3,2,1,5,3,"BARRINGTON, Illinois (60010)",3,"ROANOKE, Virginia (24018)",4,,10,2,2,4,5,3,5,Ordnance handling expert,3,2,4,3,2,4,1,,,,,,2,1,2,3,4,2,1,3,4,3,2,2,2,3,4,5,2,3,4,3,2,4,5,3,2,4
+104601665,Completed,US,CA,1,3,1,2,5,3,"DELAWARE, Ohio (43015)",3,"DELAWARE, Ohio (43015)",2,2,3,2,2,3,3,2,10,Mathematical technician,1,3,2,3,2,3,1,,,,,,4,1,2,3,4,1,2,3,4,2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3
+104601800,Completed,DE,,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601804,Completed,US,PA,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601808,Completed,US,MN,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601814,Completed,PS,JRH,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601817,Completed,US,NH,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601820,Completed,US,FL,1,3,2,1,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,5,1,2,4,5,3,13,The manager,3,4,2,3,2,4,,,,,,1,4,4,1,2,3,4,1,2,3,2,2,2,1,3,1,4,2,3,4,3,5,3,4,2,3,4
+104601895,Completed,US,VA,2,4,2,2,5,6,"DELHI, New York (13753)",6,"DELHI, New York (13753)",3,2,16,1,3,4,5,2,15,consultation,3,3,2,2,2,4,1,,,,,,4,3,1,2,4,4,3,1,2,3,3,3,1,3,2,3,3,3,3,3,5,3,3,3,3,4
+104602586,Completed,US,AL,1,3,2,3,2,2,"MONTEVALLO, Alabama (35115)",2,"MONTEVALLO, Alabama (35115)",3,3,10,1,2,4,5,2,4,general staff,4,2,2,1,2,4,,,,1,,,4,2,1,3,4,4,3,1,2,2,2,2,1,3,2,3,4,2,4,3,5,4,5,4,3,5
+104602591,Completed,US,GA,1,3,2,1,2,2,"BIRMINGHAM, Alabama (35205)",2,"BIRMINGHAM, Alabama (35205)",2,2,12,2,2,4,5,2,4,general staff,4,2,3,1,2,4,,,,1,,,3,2,1,3,4,3,1,2,4,2,2,2,2,4,2,3,5,3,4,5,3,5,3,3,4,5
+104603079,Completed,PH,DAS,2,3,2,1,5,1,"EAST LANSING, Michigan (48823)",1,"EAST LANSING, Michigan (48823)",3,3,2,1,2,3,4,3,11,seller,4,3,4,3,2,4,1,,,1,,,3,3,1,2,4,3,1,2,4,3,2,2,1,4,3,4,5,4,4,4,4,4,4,3,4,4
+104603506,Completed,US,,1,2,1,2,2,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",4,3,8,1,2,4,4,2,7,cashier,1,2,2,4,2,4,,,1,,,,1,0,0,1,0,0,0,1,0,3,2,2,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+104603597,Completed,US,OH,1,3,2,1,5,2,"NEWARK, New York (14513)",2,,,,,,,,,,4,,,,2,2,2,3,1,,,,,,1,1,0,0,0,1,0,0,0,2,1,1,2,2,3,3,3,2,4,3,3,3,3,2,3,3
+104603875,Completed,US,NY,2,3,2,2,5,2,"ALBANY, Oregon (97322)",2,"ALBANY, Oregon (97322)",3,3,10,2,2,3,3,2,4,,3,3,3,4,2,4,1,,,1,,,4,2,1,3,4,3,2,1,4,3,2,2,1,3,4,3,4,3,3,3,2,3,4,3,3,3
+104603876,Completed,US,CA,2,2,2,1,5,2,"FALLS CITY, Oregon (97344)",2,"FALLS CITY, Oregon (97344)",3,3,15,2,2,3,3,3,15,,3,3,3,4,3,5,,1,,1,,,4,2,1,3,4,2,1,3,4,2,3,2,2,3,4,3,2,3,4,3,3,3,4,3,3,3
+104603954,Completed,US,OH,1,3,2,1,5,6,"ATLANTA, Georgia (30304)",6,"ATLANTA, Georgia (30304)",2,1,4,1,3,4,5,3,4,engineer,3,2,5,4,2,5,1,,,,,,3,1,2,3,4,1,2,3,4,2,1,1,3,2,5,5,1,2,2,4,5,5,5,1,5,5
+104604587,Completed,US,WA,2,4,2,1,5,2,"FALLS CITY, Oregon (97344)",2,"FALLS CITY, Oregon (97344)",3,4,15,2,2,3,4,2,5,manager,3,4,3,4,3,4,,1,1,,,,3,1,2,3,4,2,4,3,1,2,2,3,2,3,4,3,3,2,3,4,3,2,3,3,3,3
+104604588,Completed,US,TN,2,3,2,1,6,2,"FALLS CITY, Oregon (97344)",2,"FALLS CITY, Oregon (97344)",3,3,15,2,2,3,3,3,7,,3,3,3,4,2,3,,1,,1,,,2,1,2,3,4,2,1,3,4,2,2,2,2,3,4,3,3,2,3,3,3,2,3,4,3,3
+104604681,Completed,LT,,1,3,2,1,,5,"LAKE VIEW, Iowa (51450)",5,,,2,2,2,2,2,5,3,7,,,1,3,4,2,2,,,1,,,,1,3,1,2,4,1,3,2,4,2,1,1,2,4,4,5,5,4,4,5,5,5,5,5,5,4
+104605223,Completed,US,OH,1,2,3,1,3,3,"CHICAGO, Illinois (60601)",2,"SALEM, Oregon (97301)",3,2,8,2,1,2,1,3,6,Sales manager,1,3,3,4,2,4,,,,1,,,2,3,1,2,4,2,1,4,3,2,1,1,2,2,2,2,4,2,4,4,4,5,4,3,4,4
+104605225,Completed,US,NY,1,3,2,1,4,4,"SALEM, Missouri (65560)",6,"ELKVILLE, Illinois (62932)",2,1,5,1,,3,3,3,5,Department manager,1,2,3,5,1,3,1,,,,,,1,1,3,4,2,2,3,4,1,2,1,1,2,4,4,5,3,3,4,4,5,3,5,4,2,2
+104605501,Completed,US,CT,1,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,10,1,3,5,5,3,3,operator,4,4,4,4,3,4,1,,,,,,4,4,3,2,1,4,3,2,1,2,3,3,1,4,4,4,2,4,4,4,4,4,4,4,4,4
+104605504,Completed,US,MO,1,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,10,1,3,5,5,3,3,operator,4,4,4,4,2,4,,,,,,1,4,1,2,3,4,4,3,2,1,,3,3,1,4,4,4,2,4,4,4,4,4,4,4,4,4
+104605740,Completed,US,NJ,1,3,2,1,6,6,"FRANKLIN, Indiana (46131)",6,"FRANKLIN, Indiana (46131)",3,2,13,1,1,4,5,3,7,waiter,4,2,2,3,2,4,1,,,,1,,2,2,0,0,0,1,0,0,0,4,2,1,1,5,4,5,4,4,5,5,5,4,5,4,4,5
+104605869,Completed,US,NY,1,4,2,1,5,4,"BUFFALO, New York (14201)",4,"Brimfield, Indiana, US (46720)",4,2,10,2,2,2,4,3,6,boss,2,1,5,5,2,3,,,,,1,,1,2,4,1,3,3,4,1,2,3,3,2,2,4,1,2,4,5,5,4,4,5,4,5,4,4
+104605872,Completed,US,CA,2,2,1,1,3,3,"BIRMINGHAM, Alabama (35201)",2,"KEIZER, Oregon (97307)",2,1,2,1,3,2,2,3,7,manager,2,1,5,4,2,3,1,,,,1,,3,2,3,1,4,1,4,2,3,2,2,2,1,4,2,4,3,4,4,5,3,3,3,4,5,2
+104605875,Completed,US,MI,1,4,1,1,4,6,"MENA, Arkansas (71953)",7,"ARARAT, Virginia (24053)",3,1,3,1,3,4,4,3,8,Project manager,2,3,4,5,2,4,1,,1,,,,3,3,1,2,4,2,3,1,4,1,1,1,3,2,3,1,5,3,4,5,3,4,4,5,4,4
+104605886,Completed,US,CA,1,3,2,1,,1,"CINCINNATI, Ohio (45201)",2,"Lecoma, Missouri, US (65540)",2,2,5,2,2,5,4,3,4,Project manager,1,2,5,4,2,3,,,1,1,,,3,2,3,4,1,3,1,4,2,1,2,3,1,4,2,3,5,3,3,4,3,4,3,3,4,3
+104605968,Completed,US,NC,2,2,1,1,5,6,"FRANKLIN, Indiana (46131)",6,"FRANKLIN, Indiana (46131)",2,4,28,1,1,1,4,3,8,Warehouse manager,4,3,2,2,1,4,1,,,,,,3,0,1,0,0,0,1,0,0,1,2,2,2,4,5,4,4,4,5,4,5,5,4,5,4,5
+104606079,Completed,US,OH,2,3,1,1,5,2,"MANCHESTER, Massachusetts (01944)",2,"MANCHESTER, Massachusetts (01944)",2,1,25,2,1,3,4,1,10,Professional manager,3,3,3,3,2,4,,1,1,,,,4,4,2,1,3,4,3,2,1,3,2,3,2,3,2,3,1,2,3,3,5,4,3,3,3,4
+104606379,Completed,US,LA,2,4,2,1,6,2,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,4,20,1,2,3,3,2,4,,3,3,3,4,2,4,1,,,1,,,1,2,1,3,4,2,1,3,4,2,2,3,1,3,4,4,3,4,4,3,4,4,4,3,3,4
+104606386,Completed,US,CT,2,3,2,1,5,2,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,3,20,1,2,2,3,2,5,,3,4,4,4,3,5,1,,,1,,,4,1,2,3,4,3,4,2,1,2,2,3,1,3,4,4,3,4,4,3,3,4,4,3,3,4
+104606434,Completed,US,,1,4,2,3,2,4,"MARSHALL, Texas (75672)",4,"ROANOKE, Texas (76262)",5,,20,1,2,4,5,3,6,sales manager,4,3,5,4,2,4,1,,,,,,3,1,2,0,0,0,0,1,0,1,2,2,2,2,3,4,2,2,2,3,5,4,4,4,4,5
+104606996,Completed,US,NY,1,1,2,8,7,2,"YORK, Alabama (36925)",6,"LISMAN, Alabama (36912)",4,4,12,1,1,5,3,1,3,Engineer,3,2,4,4,3,4,,1,,,,,1,4,2,3,1,3,2,1,4,5,3,1,1,3,3,4,3,5,5,3,3,5,4,4,3,3
+104607030,Completed,US,MO,1,3,1,1,3,4,"CRAIGVILLE, Indiana (46731)",6,"AVILLA, Indiana (46710)",2,2,5,,3,4,3,3,12,director,2,3,2,4,1,2,,,,1,,,2,4,1,2,3,4,3,2,1,1,1,2,2,4,2,4,3,4,2,4,5,5,4,4,5,5
+104607393,Completed,US,NY,1,3,4,5,8,5,"ASHLAND, Alabama (36251)",4,"KENNEDY, Alabama (35574)",4,1,16,1,1,5,2,4,,,,,3,4,3,3,,,,,,1,1,3,2,4,1,2,3,4,1,5,1,3,1,3,3,4,3,3,3,5,4,3,3,3,3,3
+104607394,Completed,US,,1,3,4,3,7,2,"LISMAN, Alabama (36912)",1,"WEAVER, Alabama (36277)",4,1,9,1,3,5,1,4,,,,,3,6,3,4,,,,,1,,1,3,1,2,4,4,3,2,1,5,3,1,1,4,4,5,4,4,4,5,4,5,5,5,4,5
+104607395,Completed,US,NY,1,1,1,2,2,6,"KENNEDY, Alabama (35574)",6,"FRANKLIN, Virginia (23851)",2,2,30,1,3,1,5,1,,,,,5,1,3,5,,,,,,1,1,4,3,2,1,1,3,2,4,5,3,1,1,3,3,4,4,3,5,3,4,4,5,3,3,4
+104607396,Completed,US,NY,1,5,3,8,7,5,"MOUNTAIN HOME, Arkansas (72653)",7,"WEAVER, Alabama (36277)",1,4,22,1,3,3,2,2,19,Marketing Manager,4,2,3,1,3,4,,,1,,,,1,4,2,3,1,1,3,4,2,4,3,1,1,4,5,3,4,3,5,3,4,4,3,4,5,4
+104607397,Completed,US,NY,2,1,3,1,7,3,"WEAVER, Alabama (36277)",1,"ASHLAND, Alabama (36251)",3,1,14,1,3,4,2,4,16,Architect,3,2,,,,,,,,,,,1,3,1,2,4,3,1,4,2,5,2,3,1,4,3,5,5,5,5,3,5,4,3,5,5,5
+104607399,Completed,US,NY,2,1,3,3,3,5,"LISMAN, Alabama (36912)",6,"LISMAN, Alabama (36912)",4,4,30,1,2,2,1,2,,,,,4,6,3,5,,,,,1,,1,1,2,3,4,3,4,1,2,5,2,1,1,3,5,4,5,4,4,4,3,5,4,5,4,3
+104607400,Completed,US,NY,1,4,1,8,5,2,"YORK, Alabama (36925)",1,"YORK, Alabama (36925)",2,2,15,1,2,3,4,3,,,,,4,3,3,4,,,,,1,,1,3,4,2,1,2,3,4,1,4,1,3,1,4,5,5,3,3,5,5,4,5,5,4,3,5
+104607401,Completed,US,NY,2,3,4,2,1,6,"LISMAN, Alabama (36912)",7,"MOUNTAIN HOME, Arkansas (72653)",2,5,15,1,1,2,4,2,,,,,5,5,3,4,,1,,,,,1,2,1,3,4,1,2,3,4,5,1,1,1,5,4,4,3,5,4,5,3,5,3,3,4,4
+104607403,Completed,US,NY,1,7,4,3,4,4,"YORK, Alabama (36925)",7,"MOUNTAIN HOME, Arkansas (72653)",3,2,12,1,1,2,2,3,,,,,3,6,3,3,,1,,,,,1,3,1,4,2,2,3,1,4,4,2,1,1,3,4,3,4,3,3,3,4,4,3,4,5,4
+104607404,Completed,US,NY,1,4,4,2,5,4,"MOUNTAIN HOME, Arkansas (72653)",4,"MOUNTAIN HOME, Arkansas (72653)",3,5,13,1,3,2,4,4,,,,,3,1,3,5,,,1,,,,1,1,3,2,4,3,1,2,4,3,2,2,1,3,5,3,5,5,3,5,3,3,4,5,4,5
+104607406,Completed,US,CA,1,6,2,5,8,6,"EATON, Ohio (45320)",2,"LISMAN, Alabama (36912)",1,5,8,1,3,2,2,4,,,,,3,3,3,3,,,,1,,,1,1,3,2,4,4,1,3,2,3,3,1,1,4,4,4,3,4,3,5,3,4,4,3,3,3
+104607408,Completed,US,NY,1,2,4,3,7,4,"LISMAN, Alabama (36912)",3,"WEAVER, Alabama (36277)",5,4,12,1,2,4,2,2,,,,,4,1,3,4,,1,,,,,1,2,4,3,1,3,1,4,2,3,3,2,1,4,3,5,3,5,4,3,5,3,5,3,3,3
+104607410,Completed,US,NJ,1,3,3,3,3,2,"WEAVER, Alabama (36277)",7,"ETHRIDGE, Tennessee (38456)",1,2,17,1,1,3,1,4,14,Electrician,2,2,,,,,,,,,,,1,4,2,3,1,2,1,3,4,3,3,1,1,4,3,3,4,5,3,3,5,5,4,5,5,5
+104607411,Completed,US,NY,2,1,5,2,5,3,"ETHRIDGE, Tennessee (38456)",1,"ETHRIDGE, Tennessee (38456)",4,1,10,1,3,2,2,3,,,,,4,1,3,4,1,,,,,,1,2,4,3,1,3,1,2,4,3,3,2,1,5,3,5,5,5,5,3,3,3,4,4,4,3
+104607412,Completed,US,NY,1,1,3,7,5,5,"EATON, Ohio (45320)",4,"KENNEDY, Alabama (35574)",2,5,8,1,2,2,5,4,,,,,4,5,3,3,,,,1,,,1,3,1,4,2,2,4,1,3,5,2,2,1,5,4,5,5,5,4,4,3,4,4,5,5,5
+104607413,Completed,US,NY,1,2,5,5,2,5,"RAINELLE, West Virginia (25962)",6,"EATON, Ohio (45320)",5,2,19,1,1,1,4,3,7,Sales Representative,4,2,5,6,3,4,,,,,,1,1,3,2,4,1,4,2,1,3,5,2,1,1,5,4,5,4,4,5,3,3,3,3,3,5,4
+104607414,Completed,US,NY,1,6,6,4,3,4,"MOUNTAIN HOME, Arkansas (72653)",6,"RAINELLE, West Virginia (25962)",5,3,9,1,2,4,5,3,19,Nurse,2,2,,,,,,,,,,,1,1,3,4,2,4,2,3,1,3,3,2,1,5,5,4,5,5,3,4,4,5,5,4,5,3
+104607415,Completed,US,NY,2,6,6,1,8,3,"RAINELLE, West Virginia (25962)",5,"ETHRIDGE, Tennessee (38456)",1,3,13,1,2,4,2,1,,,,,4,2,3,3,,,1,,,,1,1,2,4,3,3,2,4,1,4,1,3,1,5,3,5,4,5,4,4,3,5,3,4,3,3
+104607416,Completed,US,NY,2,7,6,4,7,5,"ETHRIDGE, Tennessee (38456)",1,"LISMAN, Alabama (36912)",3,5,10,1,3,1,2,4,5,Real Estate Agent,2,2,5,2,3,4,,,1,,,,1,4,1,2,3,1,4,3,2,4,1,2,1,5,3,3,4,3,5,4,4,4,3,4,4,3
+104607439,Completed,US,MD,,2,1,4,5,2,"GARDENA, California (90248)",2,"GARDENA, California (90248)",3,2,4,1,1,1,3,2,,,,2,2,3,2,2,,1,,,,,2,1,2,4,3,1,4,2,3,3,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+104607555,Completed,US,NY,1,7,4,8,2,3,"LISMAN, Alabama (36912)",6,"YORK, Alabama (36925)",3,4,16,1,1,4,1,1,8,Accountant,3,2,3,3,3,3,,,,1,,,1,3,1,2,4,3,2,4,1,3,2,2,1,3,5,5,5,3,4,5,3,4,5,5,4,5
+104607556,Completed,US,,1,1,3,3,7,1,"ASHLAND, Alabama (36251)",5,"KENNEDY, Alabama (35574)",1,4,22,1,1,1,5,1,17,Architect,1,2,5,6,3,4,,1,,,,,1,1,4,2,3,3,1,4,2,5,2,2,1,3,5,4,4,5,3,3,3,3,3,3,3,3
+104607558,Completed,US,NY,1,6,4,4,5,4,"FRANKLIN, Virginia (23851)",6,"ASHLAND, Alabama (36251)",5,2,13,1,2,5,1,4,5,Software Developer,2,2,5,3,3,3,,,,1,,,1,3,4,2,1,2,4,1,3,5,3,1,1,4,5,5,3,4,3,3,5,3,3,4,4,4
+104607559,Completed,US,,1,1,2,3,3,3,"LISMAN, Alabama (36912)",4,"MOUNTAIN HOME, Arkansas (72653)",5,1,20,1,1,1,3,1,9,Real Estate Agent,4,2,5,2,3,4,,,,,,1,1,2,1,3,4,2,4,1,3,4,1,3,1,3,5,5,4,4,4,3,4,4,3,5,5,5
+104607560,Completed,US,NY,1,2,2,7,8,6,"KENNEDY, Alabama (35574)",2,"KENNEDY, Alabama (35574)",2,3,12,1,2,5,2,3,16,Dentist,2,2,5,3,3,3,,,,,,1,1,2,4,3,1,4,2,1,3,4,3,3,1,4,4,3,4,5,3,4,5,5,5,5,5,3
+104607561,Completed,US,NY,2,6,5,5,3,3,"EATON, Ohio (45320)",4,"FRANKLIN, Virginia (23851)",4,1,8,1,2,2,2,2,9,Electrician,3,2,5,1,3,5,,1,,,,,1,2,1,3,4,1,2,3,4,5,1,3,1,5,5,3,5,5,3,4,4,4,5,4,4,5
+104607562,Completed,US,NJ,1,3,3,8,2,2,"RAINELLE, West Virginia (25962)",3,"FRANKLIN, Virginia (23851)",3,3,10,1,2,3,5,3,12,Web Developer,3,2,5,1,3,4,,,,1,,,1,4,1,2,3,2,3,1,4,3,1,2,1,3,4,5,3,4,5,5,5,5,4,4,4,5
+104607563,Completed,US,NY,2,4,6,5,4,4,"FRANKLIN, Virginia (23851)",2,"LISMAN, Alabama (36912)",5,4,16,1,2,4,3,4,13,Chef,4,2,4,3,3,4,,1,,,,,1,4,3,2,1,3,4,1,2,3,2,2,1,4,4,5,3,4,5,4,3,5,5,4,4,4
+104607564,Completed,US,NY,2,6,3,1,2,3,"EATON, Ohio (45320)",3,"LISMAN, Alabama (36912)",3,3,19,1,1,3,4,2,17,Software Developer,3,2,3,3,3,3,,,,,1,,1,2,3,4,1,4,1,3,2,5,1,3,1,3,3,3,4,4,4,4,5,5,5,5,4,5
+104607567,Completed,US,NY,2,3,5,1,2,4,"ETHRIDGE, Tennessee (38456)",3,"MOUNTAIN HOME, Arkansas (72653)",3,5,9,1,2,5,1,4,1,Attorney,4,2,3,3,3,4,,,,1,,,1,2,3,4,1,3,1,2,4,4,3,2,1,3,4,4,4,3,4,5,5,5,3,5,3,4
+104607568,Completed,US,NY,1,7,3,6,6,2,"MOUNTAIN HOME, Arkansas (72653)",6,"KENNEDY, Alabama (35574)",3,5,17,1,2,1,2,2,2,Architect,3,2,4,1,3,4,,,1,,,,1,4,2,3,1,1,4,2,3,3,1,1,1,4,4,3,5,3,3,3,3,3,5,3,4,3
+104607569,Completed,US,NY,1,7,3,1,2,4,"RAINELLE, West Virginia (25962)",3,"EATON, Ohio (45320)",3,4,8,1,1,4,1,3,13,Teacher,4,2,4,6,3,3,,,,,,1,1,4,2,1,3,1,2,4,3,3,3,2,1,5,4,5,5,4,4,3,5,4,4,5,3,4
+104607570,Completed,US,,2,6,2,4,8,6,"MOUNTAIN HOME, Arkansas (72653)",3,"FRANKLIN, Virginia (23851)",4,4,16,1,1,2,1,4,5,Dentist,4,2,5,6,3,4,,,,1,,,1,3,4,2,1,3,4,2,1,5,1,3,1,5,3,4,5,5,4,3,5,5,3,4,3,5
+104607571,Completed,US,NJ,1,2,1,4,3,2,"FRANKLIN, Virginia (23851)",7,"EATON, Ohio (45320)",3,5,19,1,1,2,4,3,6,Web Developer,3,2,4,2,3,3,,,,1,,,1,4,2,1,3,1,4,2,3,4,2,3,1,4,5,4,4,5,4,3,4,3,3,3,3,4
+104607572,Completed,US,NY,1,7,4,1,3,1,"LISMAN, Alabama (36912)",5,"WEAVER, Alabama (36277)",3,1,8,1,1,5,1,4,18,Teacher,4,2,5,2,3,4,,,,,1,,1,1,4,2,3,1,3,4,2,4,2,3,1,4,3,4,5,3,5,3,3,3,3,4,5,4
+104607575,Completed,US,NY,1,7,6,5,7,1,"MOUNTAIN HOME, Arkansas (72653)",6,"FRANKLIN, Virginia (23851)",4,1,20,1,2,2,2,1,20,Veterinarian.,3,2,5,6,3,4,1,,,,,,1,4,1,2,3,3,2,4,1,3,3,2,1,5,4,5,4,4,5,4,3,4,3,5,5,4
+104607576,Completed,US,NJ,1,4,1,3,1,4,"MOUNTAIN HOME, Arkansas (72653)",1,"RAINELLE, West Virginia (25962)",1,2,18,1,3,1,1,1,10,Web Developer,4,2,5,5,3,4,,,,,,1,1,1,4,3,2,2,3,4,1,4,3,2,1,4,4,4,4,3,4,4,3,5,5,5,5,4
+104607577,Completed,US,NY,1,7,4,1,5,6,"WEAVER, Alabama (36277)",4,"RAINELLE, West Virginia (25962)",4,1,13,1,2,4,1,1,2,Marketing Manager,2,2,4,1,3,3,1,,,,,,1,1,4,3,2,4,2,1,3,3,2,2,1,5,5,4,5,5,4,3,3,4,5,4,5,5
+104607578,Completed,US,NY,1,2,6,7,5,6,"LISMAN, Alabama (36912)",7,"ASHLAND, Alabama (36251)",1,2,19,1,1,3,1,3,8,Electrician,1,2,3,5,3,3,,,,,,1,1,3,1,2,4,2,3,4,1,4,1,2,1,4,5,5,3,4,4,3,5,4,4,5,4,5
+104607579,Completed,US,NY,1,6,1,8,5,4,"ASHLAND, Alabama (36251)",2,"EATON, Ohio (45320)",2,2,12,1,1,2,5,1,3,Architect,4,2,3,4,3,3,,,,,1,,1,3,2,1,4,3,4,2,1,3,3,1,1,4,4,3,5,5,5,3,4,3,3,5,4,5
+104607612,Completed,US,NY,1,3,2,1,5,1,"NEW YORK, New York (10041)",1,"NEW YORK, New York (10041)",4,3,2563,1,2,4,4,3,13,manager,3,3,4,2,2,5,1,,,,,,3,1,2,3,4,1,2,3,4,3,1,1,3,2,3,4,1,5,2,4,5,5,5,5,5,5
+104607641,Completed,US,NY,1,3,2,3,7,5,"WEAVER, Alabama (36277)",6,"YORK, Alabama (36925)",5,3,11,1,1,5,2,2,18,Dentist,3,2,,,,,,,,,,,1,3,1,2,4,4,2,1,3,4,2,1,1,3,3,3,4,3,5,4,4,5,5,4,4,5
+104607642,Completed,US,NY,1,6,4,4,3,1,"MOUNTAIN HOME, Arkansas (72653)",6,"LISMAN, Alabama (36912)",5,4,11,1,3,3,3,3,,,,,3,2,3,4,,1,,,,,1,3,1,4,2,3,1,4,2,5,3,3,1,4,3,5,5,4,3,4,4,3,3,5,4,4
+104607643,Completed,US,,1,4,3,3,5,4,"KENNEDY, Alabama (35574)",2,"MOUNTAIN HOME, Arkansas (72653)",3,5,12,1,3,4,4,2,,,,,4,6,3,5,,1,,,,,1,1,4,3,2,3,2,4,1,5,1,3,1,4,3,5,4,4,4,5,3,4,5,5,4,4
+104607644,Completed,US,NY,2,7,1,5,4,1,"RAINELLE, West Virginia (25962)",7,"YORK, Alabama (36925)",1,2,19,1,2,2,3,3,,,,,5,1,3,5,,,,,,1,1,4,1,2,3,1,3,2,4,3,3,1,1,4,5,4,3,5,5,3,4,3,4,4,3,4
+104607646,Completed,US,MA,2,3,4,1,4,4,"RAINELLE, West Virginia (25962)",5,"WEAVER, Alabama (36277)",5,2,19,1,1,4,3,2,19,Graphic Designer,4,2,,,,,,,,,,,1,2,4,1,3,2,4,1,3,5,1,3,1,3,4,3,4,3,4,3,5,3,4,4,5,4
+104607650,Completed,US,NY,1,5,4,2,4,3,"LISMAN, Alabama (36912)",1,"WEAVER, Alabama (36277)",3,5,10,1,1,5,4,2,5,Accountant,4,2,4,4,3,4,,1,,,,,1,4,1,2,3,3,2,1,4,3,2,2,1,4,5,5,4,4,4,4,5,4,5,3,3,5
+104607652,Completed,US,NY,1,7,2,5,1,4,"KENNEDY, Alabama (35574)",7,"MOUNTAIN HOME, Arkansas (72653)",4,3,11,1,2,4,5,1,16,Engineer,1,2,,,,,,,,,,,1,4,1,2,3,3,2,1,4,4,1,2,1,4,4,3,3,4,5,5,5,5,3,3,3,5
+104607653,Completed,US,NY,2,4,5,7,8,6,"WEAVER, Alabama (36277)",1,"FRANKLIN, Virginia (23851)",1,3,9,1,2,2,2,2,,,,,5,5,3,3,,1,,,,,1,3,4,1,2,1,4,2,3,3,3,3,1,5,3,5,3,3,4,3,5,5,5,5,3,5
+104607656,Completed,US,NY,2,6,3,6,4,3,"ETHRIDGE, Tennessee (38456)",6,"YORK, Alabama (36925)",5,2,10,1,2,5,2,3,,,,,5,1,3,4,,,,,,1,1,1,4,2,3,2,3,1,4,3,3,2,1,5,4,5,4,5,3,3,4,5,4,4,4,5
+104607657,Completed,US,NY,2,3,5,8,6,4,"ETHRIDGE, Tennessee (38456)",5,"WEAVER, Alabama (36277)",2,4,8,1,3,5,3,2,,,,,4,6,3,4,,1,,,,,1,4,2,3,1,2,3,1,4,3,1,3,1,5,3,3,5,5,4,5,4,4,3,5,5,4
+104607660,Completed,US,NY,2,6,2,7,8,2,"EATON, Ohio (45320)",7,"RAINELLE, West Virginia (25962)",2,5,22,1,1,1,3,4,,,,,4,4,3,3,,,1,,,,1,3,1,4,2,4,3,2,1,3,1,2,1,5,3,4,4,4,5,5,3,3,3,4,5,3
+104607662,Completed,US,NY,1,3,3,7,4,6,"EATON, Ohio (45320)",4,"WEAVER, Alabama (36277)",5,3,30,1,1,2,4,1,,,,,4,1,3,5,,,1,,,,1,1,2,4,3,4,3,1,2,3,3,3,1,3,5,3,3,5,4,5,5,5,4,4,5,5
+104607665,Completed,US,NJ,1,2,1,1,5,6,"ETHRIDGE, Tennessee (38456)",6,"LISMAN, Alabama (36912)",4,1,30,1,2,2,5,4,,,,,5,6,3,3,,,,,,1,1,2,3,4,1,4,2,1,3,5,1,3,1,3,5,3,3,3,5,3,5,3,4,4,3,5
+104607670,Completed,US,NY,1,2,2,1,3,1,"RAINELLE, West Virginia (25962)",7,"KENNEDY, Alabama (35574)",3,1,18,1,2,1,1,4,,,,,4,5,3,3,,,,,1,,1,2,4,3,1,1,4,3,2,5,1,2,1,4,4,3,4,4,5,3,3,3,3,4,3,3
+104607671,Completed,US,,1,5,2,3,4,4,"EATON, Ohio (45320)",3,"ETHRIDGE, Tennessee (38456)",1,5,19,1,1,5,2,4,,,,,5,4,3,5,,,,,1,,1,2,3,4,1,3,4,1,2,4,2,3,1,4,3,5,5,4,3,5,5,3,3,5,4,5
+104607673,Completed,US,NY,1,1,4,7,2,2,,6,,3,4,10,1,1,4,1,2,15,Nurse,3,2,,,,,,,,,,,1,4,1,2,3,2,3,4,1,3,1,1,1,3,5,4,3,5,5,5,4,5,3,5,5,5
+104607674,Completed,US,NY,1,7,3,6,2,5,"RAINELLE, West Virginia (25962)",4,"LISMAN, Alabama (36912)",4,5,14,1,2,3,3,4,,,,,3,3,3,5,,,,1,,,1,4,3,1,2,1,2,4,3,5,2,3,1,4,4,4,5,4,4,3,4,5,4,4,5,5
+104607675,Completed,US,NY,1,5,5,7,8,5,"WEAVER, Alabama (36277)",4,"ASHLAND, Alabama (36251)",4,1,16,1,1,3,4,3,,,,,3,5,3,3,,1,,,,,1,1,2,4,3,2,1,4,3,4,3,1,1,5,3,4,4,4,5,4,3,4,4,4,3,3
+104607676,Completed,US,NY,2,4,2,6,1,6,"MOUNTAIN HOME, Arkansas (72653)",7,"ETHRIDGE, Tennessee (38456)",5,3,13,1,1,3,1,4,12,Writer/Journalist,3,2,3,4,3,4,,,,,1,,1,3,1,4,2,2,4,3,1,4,2,1,1,3,3,3,4,3,3,3,3,3,5,5,3,3
+104607714,Completed,US,,2,3,2,1,5,2,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",3,3,10,2,2,3,3,2,5,,3,4,3,3,2,4,1,,,,,,4,2,1,3,4,3,4,1,2,2,2,2,1,3,4,4,3,3,4,4,3,3,4,4,3,4
+104607715,Completed,US,MA,2,4,2,1,6,1,"ALBANY, Oregon (97321)",2,"ALBANY, Oregon (97321)",4,4,15,1,2,3,3,3,5,,3,4,3,4,3,5,,,,1,,,4,3,4,1,2,2,1,3,4,3,3,3,2,3,2,3,4,3,3,2,3,3,4,4,3,3
+104607766,Completed,US,NY,1,6,3,6,7,4,"YORK, Alabama (36925)",3,"EATON, Ohio (45320)",5,1,22,1,1,4,4,4,19,Attorney,1,2,3,5,3,3,,,1,,,,1,3,2,1,4,3,4,2,1,5,1,1,1,4,5,3,5,3,4,4,4,5,4,5,3,3
+104607768,Completed,US,NY,2,4,1,8,5,2,"YORK, Alabama (36925)",1,"RAINELLE, West Virginia (25962)",2,2,30,1,3,2,2,3,18,Software Developer,2,2,,,,,,,,,,,1,3,1,4,2,1,4,3,2,3,3,3,1,4,5,3,4,4,3,4,3,4,4,3,3,5
+104607769,Completed,US,NY,1,5,1,3,1,6,"LISMAN, Alabama (36912)",4,"FRANKLIN, Virginia (23851)",3,5,18,1,2,4,5,4,9,Physician/Doctor,4,2,,,,,,,,,,,1,1,2,3,4,1,2,4,3,4,2,3,1,4,3,3,4,4,4,3,4,5,3,4,4,5
+104607772,Completed,US,,2,6,5,5,7,3,"KENNEDY, Alabama (35574)",6,"ETHRIDGE, Tennessee (38456)",3,3,13,1,3,4,2,4,9,Graphic Designer,2,2,3,6,3,4,,1,,,,,1,4,2,3,1,3,4,1,2,5,1,1,1,5,3,3,5,4,5,4,5,5,5,4,5,4
+104607773,Completed,US,NY,2,6,3,4,3,1,"FRANKLIN, Virginia (23851)",6,"ASHLAND, Alabama (36251)",1,4,10,1,2,2,4,4,19,Real Estate Agent,3,2,,,,,,,,,,,1,2,4,1,3,1,3,2,4,5,1,3,1,5,3,4,4,4,4,5,5,4,5,5,3,3
+104607774,Completed,US,NY,1,6,3,8,3,3,"YORK, Alabama (36925)",7,"ETHRIDGE, Tennessee (38456)",4,5,25,1,2,4,4,3,19,Architect,3,2,,,,,,,,,,,1,2,1,3,4,4,2,3,1,3,1,3,1,4,5,4,3,5,3,4,3,3,4,4,4,4
+104607775,Completed,US,NY,2,4,2,7,3,3,"EATON, Ohio (45320)",1,"EATON, Ohio (45320)",4,3,30,1,1,4,5,2,2,Dentist,3,2,3,6,3,3,,,,,,1,1,4,3,1,2,1,3,4,2,5,2,2,1,4,4,5,3,3,3,4,4,4,4,4,5,3
+104607776,Completed,US,NY,1,7,5,2,6,1,"ETHRIDGE, Tennessee (38456)",6,"ASHLAND, Alabama (36251)",4,3,9,1,3,5,2,1,,,,,4,1,3,3,1,,,,,,1,4,3,2,1,2,1,3,4,3,3,1,1,3,5,4,3,4,4,5,4,4,4,5,5,5
+104607777,Completed,US,NY,2,7,1,6,3,2,"MOUNTAIN HOME, Arkansas (72653)",7,"WEAVER, Alabama (36277)",3,4,12,1,1,2,1,3,19,Web Developer,3,2,,,,,,,,,,,1,1,3,2,4,4,2,1,3,4,1,1,1,5,3,3,3,3,3,4,5,5,5,5,4,5
+104607778,Completed,US,NY,2,2,5,8,8,6,"KENNEDY, Alabama (35574)",6,"FRANKLIN, Virginia (23851)",4,2,17,1,2,4,4,4,,,,,3,1,3,4,,,,,1,,1,4,3,2,1,2,3,4,1,4,1,3,1,4,5,4,5,4,4,4,5,3,5,5,5,5
+104607781,Completed,US,,1,5,6,1,3,4,"EATON, Ohio (45320)",6,"YORK, Alabama (36925)",1,5,22,1,3,3,2,2,,,,,5,5,3,3,,,,,1,,1,4,2,1,3,1,4,3,2,5,1,3,1,5,5,5,3,4,3,5,4,4,3,3,4,5
+104607785,Completed,US,CA,1,5,6,6,8,1,"ETHRIDGE, Tennessee (38456)",5,"MOUNTAIN HOME, Arkansas (72653)",4,4,18,1,2,2,1,4,1,Software Developer,3,2,,,,,,,,,,,1,1,3,2,4,2,1,3,4,4,3,3,1,5,4,3,3,4,5,3,3,5,4,3,5,3
+104607790,Completed,US,NY,1,7,1,2,3,4,"EATON, Ohio (45320)",2,"KENNEDY, Alabama (35574)",5,3,13,1,1,3,1,4,15,Accountant,1,2,3,1,3,3,,,,,1,,1,4,3,1,2,4,1,2,3,3,1,1,1,4,3,4,4,4,4,3,5,3,4,4,3,5
+104607795,Completed,US,NY,2,1,5,5,5,1,"LISMAN, Alabama (36912)",2,"MOUNTAIN HOME, Arkansas (72653)",5,1,30,1,3,4,5,1,,,,,5,2,3,4,1,,,,,,1,1,3,4,2,4,2,3,1,5,2,2,1,3,5,4,3,5,3,5,5,5,5,3,5,3
+104607797,Completed,US,NY,1,2,5,2,4,2,"LISMAN, Alabama (36912)",2,"ASHLAND, Alabama (36251)",1,4,8,1,2,1,5,4,,,,,4,2,3,4,,,,1,,,1,4,3,1,2,4,3,2,1,4,3,3,1,3,3,3,4,3,5,4,4,4,5,4,3,4
+104607817,Completed,US,NY,2,4,5,2,2,4,"ASHLAND, Alabama (36251)",2,"YORK, Alabama (36925)",5,4,25,1,1,1,2,3,4,Police Officer,4,2,3,5,3,5,,,,,,1,1,1,2,3,4,4,2,3,1,5,2,1,1,3,5,4,4,4,3,3,5,4,3,4,5,3
+104607818,Completed,US,NY,2,3,5,2,7,6,"FRANKLIN, Virginia (23851)",3,"MOUNTAIN HOME, Arkansas (72653)",1,5,22,1,3,2,3,1,10,Chef,1,2,5,6,3,5,,1,,,,,1,4,2,1,3,2,4,3,1,3,3,2,1,4,5,5,5,5,4,4,4,5,4,4,4,4
+104607819,Completed,US,NY,1,6,2,6,3,6,"WEAVER, Alabama (36277)",7,"ETHRIDGE, Tennessee (38456)",5,3,18,1,2,2,5,2,3,Veterinarian.,2,2,5,2,3,4,,,,,1,,1,3,2,4,1,1,2,4,3,4,3,1,1,3,5,4,5,3,5,3,5,5,3,4,5,3
+104607820,Completed,US,NY,2,2,6,8,2,1,"YORK, Alabama (36925)",4,"ETHRIDGE, Tennessee (38456)",5,1,11,1,3,3,5,3,16,Graphic Designer,2,2,3,3,3,5,,,1,,,,1,3,1,2,4,3,1,4,2,4,3,3,1,4,5,4,3,3,5,4,4,3,3,3,4,3
+104607822,Completed,US,NY,2,5,5,6,3,4,"EATON, Ohio (45320)",1,"YORK, Alabama (36925)",5,5,13,1,1,2,1,4,20,Dentist,3,2,,,,,,,,,,,1,3,4,1,2,3,1,4,2,4,2,2,1,4,5,3,3,5,3,3,5,4,3,3,3,4
+104607823,Completed,US,NY,2,4,3,2,6,3,"WEAVER, Alabama (36277)",4,"WEAVER, Alabama (36277)",1,5,30,1,2,2,2,4,,,,,3,2,3,4,,,1,,,,1,3,2,4,1,2,4,3,1,4,2,2,1,5,5,3,3,4,4,5,5,4,3,5,5,3
+104607824,Completed,US,NY,2,4,4,1,7,3,"WEAVER, Alabama (36277)",6,"MOUNTAIN HOME, Arkansas (72653)",2,4,14,1,2,1,3,3,,,,,4,6,3,5,,,1,,,,1,4,3,1,2,2,1,3,4,4,1,2,1,5,5,5,4,5,3,3,3,4,5,3,5,5
+104607825,Completed,US,NY,2,3,2,3,1,3,"FRANKLIN, Virginia (23851)",1,"YORK, Alabama (36925)",5,4,25,1,1,3,5,1,15,Attorney,2,2,4,6,3,3,,,,,,1,1,1,4,2,3,1,2,4,3,5,2,2,1,5,4,5,4,4,3,3,4,3,4,4,4,3
+104607826,Completed,US,NY,2,3,6,4,5,6,"LISMAN, Alabama (36912)",2,"YORK, Alabama (36925)",4,2,12,1,2,3,4,1,7,Writer/Journalist,3,2,4,3,3,4,,,,,,1,1,4,2,1,3,2,3,1,4,4,1,1,1,4,5,5,5,4,4,4,5,5,4,3,3,3
+104607827,Completed,US,NY,2,2,4,3,3,2,"KENNEDY, Alabama (35574)",3,"RAINELLE, West Virginia (25962)",5,5,10,1,1,2,5,3,14,Teacher,1,2,4,4,3,3,,,,,1,,1,2,4,1,3,3,2,1,4,4,1,3,1,4,4,3,3,4,5,4,3,3,5,4,4,5
+104607828,Completed,US,NY,1,2,2,3,2,1,"FRANKLIN, Virginia (23851)",4,"ASHLAND, Alabama (36251)",3,5,11,1,2,1,1,4,14,Dentist,2,2,5,4,3,5,,,1,,,,1,1,3,2,4,1,4,3,2,5,1,2,1,5,3,3,5,3,5,5,5,5,4,4,4,4
+104607829,Completed,US,,2,5,4,6,1,3,"FRANKLIN, Virginia (23851)",7,"WEAVER, Alabama (36277)",3,5,19,1,3,5,3,2,16,Veterinarian.,2,2,3,2,3,5,,,,,1,,1,3,1,4,2,2,3,1,4,5,3,1,1,3,5,5,4,5,5,3,5,4,5,5,3,4
+104607830,Completed,US,NY,1,6,1,5,3,6,"ASHLAND, Alabama (36251)",2,"RAINELLE, West Virginia (25962)",1,2,20,1,1,4,3,1,,,,,5,6,3,3,,,,,,1,1,3,4,2,1,1,2,3,4,4,3,3,1,5,3,3,5,4,4,3,4,5,3,5,4,3
+104607831,Completed,US,NY,2,7,6,2,6,5,"LISMAN, Alabama (36912)",5,"LISMAN, Alabama (36912)",5,3,18,1,2,1,3,3,,,,,4,4,3,5,,,,,,1,1,4,2,1,3,1,2,3,4,4,1,2,1,5,5,4,3,4,4,3,5,5,3,4,5,3
+104607832,Completed,US,NY,1,4,5,6,5,1,"RAINELLE, West Virginia (25962)",5,"WEAVER, Alabama (36277)",4,2,18,1,1,3,3,1,2,Veterinarian.,2,2,4,4,3,5,,1,,,,,1,4,2,3,1,3,1,4,2,3,3,3,1,5,5,4,3,4,3,3,5,4,4,3,3,5
+104607833,Completed,US,NY,1,7,6,5,8,2,"KENNEDY, Alabama (35574)",6,"LISMAN, Alabama (36912)",4,5,20,1,3,4,2,2,,,,,4,1,3,3,,,,,1,,1,4,1,3,2,3,1,2,4,4,1,1,1,5,4,3,4,3,4,5,5,5,4,3,3,3
+104607834,Completed,US,NY,2,6,2,2,8,6,"WEAVER, Alabama (36277)",1,"YORK, Alabama (36925)",4,4,16,1,3,1,4,3,15,Dentist,4,2,3,1,3,5,,,,,,1,1,2,3,1,4,2,3,1,4,3,1,1,1,4,4,4,5,3,3,5,5,5,3,3,3,4
+104607835,Completed,US,NY,2,1,6,2,6,4,"MOUNTAIN HOME, Arkansas (72653)",1,"YORK, Alabama (36925)",1,4,22,1,1,4,2,3,,,,,5,3,3,4,,,,,1,,1,4,3,1,2,3,4,2,1,4,1,2,1,3,4,3,4,5,4,5,3,5,3,4,3,3
+104607846,Completed,US,NY,2,2,5,6,1,6,"WEAVER, Alabama (36277)",7,"FRANKLIN, Virginia (23851)",4,3,9,1,2,1,1,3,12,Teacher,1,2,3,5,3,5,,,,,,1,1,1,2,3,4,3,2,4,1,5,2,1,1,5,4,5,3,5,5,3,3,4,3,5,5,4
+104607858,Completed,US,NY,1,5,5,7,6,2,"EATON, Ohio (45320)",2,"EATON, Ohio (45320)",1,5,19,1,2,4,4,3,,,,,4,3,3,4,,,,1,,,1,1,4,3,2,3,2,1,4,3,1,1,1,4,4,4,3,4,4,3,5,4,4,4,3,4
+104607859,Completed,US,NY,1,4,2,8,8,1,"RAINELLE, West Virginia (25962)",6,"EATON, Ohio (45320)",1,4,17,1,3,4,1,3,2,Engineer,3,2,5,2,3,4,,,,1,,,1,3,4,2,1,4,1,3,2,5,2,1,1,3,3,5,5,3,5,4,4,4,3,5,3,3
+104607861,Completed,US,NY,2,6,6,7,2,6,"EATON, Ohio (45320)",4,"WEAVER, Alabama (36277)",4,2,30,1,2,2,3,1,,,,,4,2,3,4,,,,,,1,1,2,3,1,4,1,3,4,2,5,2,3,1,4,5,3,3,3,5,4,5,4,3,4,5,5
+104607862,Completed,US,NY,2,4,3,1,2,4,"ETHRIDGE, Tennessee (38456)",7,"EATON, Ohio (45320)",3,5,12,1,2,5,2,4,5,Architect,1,2,5,3,3,4,,,,,,1,1,3,1,4,2,4,2,3,1,5,3,2,1,3,5,3,5,4,3,4,4,5,4,5,3,3
+104607864,Completed,US,NY,2,5,3,4,2,4,"LISMAN, Alabama (36912)",1,"WEAVER, Alabama (36277)",2,4,17,1,3,1,3,4,,,,,3,5,3,3,,1,,,,,1,3,1,2,4,1,4,2,3,5,1,3,1,5,3,4,4,3,3,5,4,5,3,3,3,3
+104607865,Completed,US,NY,2,2,6,4,7,3,"MOUNTAIN HOME, Arkansas (72653)",1,"KENNEDY, Alabama (35574)",1,1,11,1,1,5,3,3,,,,,5,2,3,3,,,,,,1,1,3,4,2,1,2,1,3,4,5,1,3,1,5,5,5,4,3,4,5,4,4,4,3,5,5
+104607866,Completed,US,NY,2,6,3,2,7,1,"YORK, Alabama (36925)",5,"RAINELLE, West Virginia (25962)",4,3,8,1,3,1,3,1,,,,,5,6,3,5,,,1,,,,1,3,4,2,1,3,2,1,4,4,3,3,1,4,4,3,4,3,5,4,4,3,5,4,4,4
+104607867,Completed,US,NY,1,6,1,1,1,3,"KENNEDY, Alabama (35574)",2,"RAINELLE, West Virginia (25962)",1,3,18,1,3,4,3,4,9,Architect,2,2,5,2,3,3,,,,,1,,1,1,4,2,3,1,2,3,4,4,3,1,1,5,5,4,4,4,3,3,5,3,4,5,4,5
+104607869,Completed,US,NY,1,6,6,8,8,3,"MOUNTAIN HOME, Arkansas (72653)",7,"WEAVER, Alabama (36277)",2,4,20,1,2,2,2,3,9,Marketing Manager,4,2,,,,,,,,,,,1,3,2,4,1,4,1,2,3,5,2,3,1,5,3,3,3,5,3,3,3,5,4,5,5,3
+104607870,Completed,US,NY,1,2,6,7,2,4,"KENNEDY, Alabama (35574)",4,"RAINELLE, West Virginia (25962)",2,2,19,1,2,2,4,3,,,,,5,6,3,3,,,,,1,,1,3,2,4,1,4,1,3,2,4,2,2,1,3,4,5,5,3,4,5,3,5,3,3,4,3
+104607872,Completed,US,NY,1,7,3,3,6,3,"KENNEDY, Alabama (35574)",7,"MOUNTAIN HOME, Arkansas (72653)",5,3,13,1,3,4,5,3,,,,,4,1,3,5,1,,,,,,1,2,3,1,4,3,2,4,1,5,2,2,1,4,4,4,3,3,4,4,4,5,3,4,3,5
+104607873,Completed,US,NJ,2,3,3,3,2,1,"ASHLAND, Alabama (36251)",2,"WEAVER, Alabama (36277)",2,3,19,1,2,5,3,1,,,,,4,1,3,3,,,,1,,,1,1,3,2,4,2,3,4,1,3,3,3,1,4,4,3,3,4,5,4,4,4,5,4,5,4
+104607875,Completed,US,NJ,1,4,6,8,1,6,"LISMAN, Alabama (36912)",5,"ETHRIDGE, Tennessee (38456)",4,5,19,1,3,3,1,2,9,Marketing Manager,4,2,4,6,3,3,,,,,1,,1,1,3,2,4,2,4,3,1,3,2,2,1,4,4,3,5,3,3,4,4,3,5,3,5,3
+104607876,Completed,US,NY,1,6,5,4,6,6,"EATON, Ohio (45320)",2,"MOUNTAIN HOME, Arkansas (72653)",1,4,25,1,3,4,1,4,6,Dentist,3,2,3,2,3,4,1,,,,,,1,2,1,3,4,1,2,3,4,3,3,2,1,4,3,4,3,5,4,5,5,4,5,4,4,5
+104607878,Completed,US,NY,1,7,1,2,5,4,"EATON, Ohio (45320)",6,"EATON, Ohio (45320)",4,3,15,1,3,2,2,4,1,Veterinarian.,3,2,5,1,3,3,,,,,,1,1,1,2,3,4,3,2,1,4,3,2,3,1,4,5,5,4,3,3,3,4,3,3,4,3,4
+104607880,Completed,US,NY,1,6,3,5,4,3,"EATON, Ohio (45320)",7,"ETHRIDGE, Tennessee (38456)",2,4,14,1,3,3,3,2,16,Software Developer,2,2,3,5,3,3,,1,,,,,1,2,3,1,4,4,3,2,1,4,3,3,1,4,5,4,4,3,5,4,5,5,3,5,5,5
+104607882,Completed,US,CA,2,2,1,5,8,6,"ASHLAND, Alabama (36251)",5,"YORK, Alabama (36925)",4,2,9,1,2,3,4,1,,,,,3,4,3,4,1,,,,,,1,4,1,2,3,4,2,1,3,3,2,1,1,4,4,3,5,5,5,3,4,5,4,5,3,3
+104607884,Completed,US,NY,1,5,5,1,6,1,"EATON, Ohio (45320)",1,"ASHLAND, Alabama (36251)",5,1,30,1,2,4,4,4,,,,,3,4,3,4,,,1,,,,1,3,1,2,4,1,3,2,4,5,2,1,1,3,4,3,4,5,3,5,3,5,3,4,4,3
+104607885,Completed,US,NY,2,3,4,6,4,4,"YORK, Alabama (36925)",1,"MOUNTAIN HOME, Arkansas (72653)",5,5,9,1,3,4,4,1,4,Attorney,4,2,5,5,3,5,,,1,,,,1,3,4,1,2,4,2,3,1,5,2,3,1,3,5,3,3,4,4,5,4,3,4,3,5,3
+104607888,Completed,US,CA,2,4,2,1,6,6,"MCCAMMON, Idaho (83250)",4,"MCCAMMON, Idaho (83250)",4,2,14,1,3,4,4,2,9,administration,3,3,3,2,2,4,1,,1,,,,4,2,1,3,4,2,1,3,4,4,1,2,2,3,3,3,1,2,2,3,5,3,4,2,3,4
+104607916,Completed,US,NY,2,5,1,5,2,2,"RAINELLE, West Virginia (25962)",7,"LISMAN, Alabama (36912)",5,4,10,1,2,2,3,3,,,,,3,5,3,3,,,,1,,,1,3,1,2,4,4,3,1,2,5,3,1,1,3,3,3,3,3,4,4,5,4,3,5,4,3
+104607919,Completed,US,NY,1,7,4,5,4,3,"FRANKLIN, Virginia (23851)",3,"FRANKLIN, Virginia (23851)",5,5,12,1,2,1,1,3,,,,,4,5,3,5,1,,,,,,1,1,4,2,3,3,1,4,2,5,2,2,1,4,4,5,3,4,4,4,3,4,4,5,5,3
+104607920,Completed,US,NY,2,4,2,7,4,2,"ETHRIDGE, Tennessee (38456)",2,"MOUNTAIN HOME, Arkansas (72653)",1,3,10,1,1,5,4,2,15,Nurse,1,2,3,4,3,4,,1,,,,,1,1,3,2,4,1,4,3,2,5,1,1,1,5,3,5,3,4,4,3,5,3,3,5,3,3
+104607922,Completed,US,NY,1,7,6,6,6,4,"EATON, Ohio (45320)",2,"RAINELLE, West Virginia (25962)",1,2,30,1,3,1,3,4,,,,,4,2,3,5,,,,1,,,1,2,4,3,1,3,4,1,2,5,3,2,1,4,4,4,4,3,4,3,3,3,4,3,3,5
+104607924,Completed,US,NY,1,6,3,1,1,1,"LISMAN, Alabama (36912)",4,"KENNEDY, Alabama (35574)",1,5,13,1,1,1,1,2,,,,,4,2,3,3,,1,,,,,1,2,3,1,4,1,2,4,3,5,3,3,1,4,3,4,4,4,3,5,5,5,4,4,4,5
+104607925,Completed,US,NY,2,3,2,4,4,6,"RAINELLE, West Virginia (25962)",6,"YORK, Alabama (36925)",2,4,16,1,1,2,4,4,,,,,3,1,3,3,,,1,,,,1,4,3,1,2,4,2,3,1,4,1,3,1,4,3,3,4,4,3,4,5,3,5,3,3,5
+104607926,Completed,US,NJ,1,7,5,4,2,4,"FRANKLIN, Virginia (23851)",4,"WEAVER, Alabama (36277)",2,5,12,1,3,3,2,3,,,,,3,5,3,5,1,,,,,,1,1,2,3,4,2,3,4,1,4,1,3,1,3,5,5,3,3,5,3,4,4,4,3,4,4
+104607927,Completed,US,NY,1,6,2,2,3,6,"ETHRIDGE, Tennessee (38456)",1,"FRANKLIN, Virginia (23851)",3,1,25,1,3,1,4,4,,,,,3,1,3,5,,,,,,1,1,1,2,4,3,1,3,4,2,4,2,1,1,5,5,3,5,3,4,3,4,5,5,3,4,4
+104607928,Completed,US,NY,1,4,2,1,6,6,"FRANKLIN, Virginia (23851)",5,"EATON, Ohio (45320)",4,2,30,1,2,1,4,2,,,,,5,2,3,4,,,,,1,,1,3,2,1,4,1,2,3,4,3,3,3,1,3,5,4,3,3,3,3,4,4,3,5,3,3
+104607929,Completed,US,NY,2,7,3,8,5,5,"MOUNTAIN HOME, Arkansas (72653)",2,"ETHRIDGE, Tennessee (38456)",5,2,20,1,1,5,4,3,,,,,4,6,3,5,,,1,,,,1,1,4,3,2,4,2,3,1,5,2,3,1,4,4,4,4,3,4,4,4,5,3,5,5,3
+104607930,Completed,US,NY,2,6,6,1,2,1,"FRANKLIN, Virginia (23851)",7,"LISMAN, Alabama (36912)",2,1,30,1,1,3,4,2,,,,,5,4,3,3,,1,,,,,1,2,1,3,4,2,4,3,1,4,3,2,1,4,4,5,5,5,5,3,3,4,4,3,3,5
+104607931,Completed,US,NJ,1,5,5,6,5,2,"FRANKLIN, Virginia (23851)",3,"WEAVER, Alabama (36277)",4,3,8,1,1,5,1,4,,,,,3,2,3,4,,,,1,,,1,2,3,4,1,1,2,4,3,5,1,3,1,5,3,3,3,3,5,4,4,5,3,4,5,5
+104607932,Completed,US,NY,2,4,1,1,2,5,"ETHRIDGE, Tennessee (38456)",5,"FRANKLIN, Virginia (23851)",4,2,30,1,3,4,1,4,,,,,3,2,3,3,,,,1,,,1,4,2,1,3,3,4,2,1,3,3,3,1,5,3,4,4,4,3,4,4,4,3,4,5,3
+104607933,Completed,US,NY,1,3,1,7,4,4,"EATON, Ohio (45320)",2,"EATON, Ohio (45320)",3,5,12,1,2,5,3,1,,,,,3,5,3,4,1,,,,,,1,2,4,3,1,1,4,2,3,5,3,2,1,3,4,3,3,3,5,5,5,5,3,3,5,5
+104607935,Completed,US,NY,2,4,6,3,5,5,"KENNEDY, Alabama (35574)",7,"ETHRIDGE, Tennessee (38456)",4,3,9,1,1,4,2,3,14,Accountant,1,2,4,3,3,5,,1,,,,,1,2,4,3,1,2,3,1,4,3,2,1,1,4,4,3,3,5,3,4,5,5,4,5,4,3
+104607936,Completed,US,NY,1,5,5,5,7,4,"ASHLAND, Alabama (36251)",7,"LISMAN, Alabama (36912)",2,2,18,1,2,2,5,2,13,Physician/Doctor,4,2,3,3,3,3,,,,,1,,1,1,2,4,3,2,4,1,3,5,1,2,1,5,4,3,4,4,5,5,5,3,3,5,5,4
+104607937,Completed,US,NY,2,1,6,2,4,2,"LISMAN, Alabama (36912)",2,"WEAVER, Alabama (36277)",1,4,10,1,1,4,5,3,,,,,4,6,3,3,,1,,,,,1,3,2,4,1,4,3,1,2,5,2,3,1,5,4,3,4,4,4,4,5,4,5,4,5,3
+104607938,Completed,US,NY,2,7,1,7,6,2,"ETHRIDGE, Tennessee (38456)",7,"EATON, Ohio (45320)",2,3,10,1,2,5,5,4,19,Writer/Journalist,2,2,3,4,3,4,,,,1,,,1,4,2,1,3,3,1,2,4,3,1,3,1,4,5,4,3,4,3,5,4,4,5,5,5,4
+104607939,Completed,US,NY,1,1,2,3,6,2,"MOUNTAIN HOME, Arkansas (72653)",7,"ASHLAND, Alabama (36251)",1,5,15,1,2,4,1,1,,,,,3,3,3,3,,,,,1,,1,2,4,3,1,3,1,2,4,5,1,3,1,5,4,5,4,4,5,5,3,3,3,5,4,3
+104607942,Completed,US,NY,,,,,,,,,,,,,,,,,,15,Engineer,3,2,3,2,3,3,,1,,,,,1,1,3,2,4,2,1,4,3,4,2,2,1,5,5,3,5,4,3,5,5,4,4,3,5,4
+104607943,Completed,US,NY,1,3,1,5,4,3,"MOUNTAIN HOME, Arkansas (72653)",5,"LISMAN, Alabama (36912)",4,2,9,1,1,2,5,3,,,,,4,2,3,4,,,,,,1,1,3,1,4,2,2,4,3,1,3,3,1,1,4,3,4,5,3,3,5,5,4,3,5,5,5
+104607987,Completed,PS,NBS,2,3,2,1,6,,"SEYMOUR, Indiana (47274)",4,"MONROE, Louisiana (71210)",2,3,59,1,2,2,1,2,10,manager,1,2,3,4,3,3,1,,,,,,2,2,1,4,3,3,2,1,4,3,1,1,2,5,3,4,2,2,5,4,3,3,2,4,3,5
+104607991,Completed,US,NY,2,5,2,5,4,3,"LISMAN, Alabama (36912)",4,"ETHRIDGE, Tennessee (38456)",1,3,9,1,3,5,5,2,,,,,3,6,3,3,,,,,,1,1,1,4,2,3,4,1,2,3,5,3,3,1,5,4,4,5,3,4,4,5,5,3,5,3,3
+104607992,Completed,US,NY,2,7,4,1,5,1,"EATON, Ohio (45320)",3,"ASHLAND, Alabama (36251)",1,1,12,1,1,2,3,1,,,,,4,3,3,3,,,,,,1,1,2,3,1,4,3,1,4,2,4,1,1,1,3,4,4,3,5,4,5,5,4,3,3,3,3
+104607994,Completed,US,NY,1,6,6,6,2,5,"LISMAN, Alabama (36912)",3,"EATON, Ohio (45320)",5,3,30,1,1,2,5,4,,,,,5,5,3,3,,1,,,,,1,2,1,3,4,1,4,2,3,4,3,3,1,5,4,3,3,3,5,5,5,4,4,3,5,3
+104607995,Completed,US,NY,2,2,3,3,8,3,"FRANKLIN, Virginia (23851)",1,"MOUNTAIN HOME, Arkansas (72653)",3,4,13,1,1,1,2,4,,,,,4,4,3,5,,1,,,,,1,2,1,3,4,4,3,2,1,5,3,3,1,3,4,5,4,4,5,5,5,3,4,3,3,3
+104607996,Completed,US,NJ,1,3,4,2,1,2,"LISMAN, Alabama (36912)",7,"FRANKLIN, Virginia (23851)",2,3,14,1,1,2,2,3,13,Web Developer,4,2,,,,,,,,,,,1,3,4,1,2,4,2,1,3,4,3,1,1,5,3,3,5,3,3,3,3,5,5,3,4,4
+104607999,Completed,US,NY,1,1,6,1,5,2,"KENNEDY, Alabama (35574)",4,"RAINELLE, West Virginia (25962)",3,5,14,1,1,3,4,3,,,,,4,6,3,5,,,,,1,,1,2,3,1,4,2,4,1,3,4,3,2,1,4,5,3,4,5,4,5,3,5,5,3,5,4
+104608003,Completed,US,NY,2,1,5,4,7,1,"FRANKLIN, Virginia (23851)",6,"ETHRIDGE, Tennessee (38456)",1,3,22,1,2,1,5,3,,,,,4,5,3,5,,,,,,1,1,2,1,4,3,4,1,3,2,4,1,2,1,5,5,5,3,5,3,3,5,3,5,3,5,4
+104608005,Completed,US,NY,2,6,5,8,8,3,"FRANKLIN, Virginia (23851)",6,"FRANKLIN, Virginia (23851)",5,4,30,1,1,2,2,2,,,,,3,2,3,5,,,,,1,,1,4,3,1,2,1,3,4,2,3,2,3,1,3,3,5,3,3,3,3,3,3,5,4,5,3
+104608009,Completed,US,NY,2,1,5,2,3,6,"YORK, Alabama (36925)",1,"RAINELLE, West Virginia (25962)",1,4,8,1,3,2,4,2,,,,,5,1,3,5,,,1,,,,1,3,4,2,1,1,4,2,3,5,1,2,1,5,5,4,5,4,4,3,3,5,4,5,3,4
+104608011,Completed,GB,ESX,2,2,2,2,8,1,"WEST PALM BEACH, Florida (33401)",5,"SAINT LOUIS, Missouri (63132)",2,4,34,2,2,2,2,1,11,sales,1,3,2,4,1,3,,,1,,,,3,4,2,1,3,2,1,3,4,2,3,2,1,5,3,4,2,3,4,3,3,4,2,3,5,4
+104608012,Completed,US,NJ,2,3,6,4,2,6,"MOUNTAIN HOME, Arkansas (72653)",1,"YORK, Alabama (36925)",5,4,11,1,2,1,1,3,,,,,4,6,3,3,,,1,,,,1,1,3,2,4,4,2,3,1,3,1,1,1,3,3,5,4,3,4,3,4,3,5,5,4,3
+104608015,Completed,US,NY,1,6,2,2,6,3,"YORK, Alabama (36925)",6,"EATON, Ohio (45320)",1,3,13,1,1,3,4,3,20,Writer/Journalist,4,2,3,4,3,3,1,,,,,,1,3,2,4,1,2,1,3,4,3,1,2,1,4,3,5,5,4,4,5,3,5,4,4,3,5
+104608019,Completed,US,NY,1,2,5,2,4,3,"ASHLAND, Alabama (36251)",3,"KENNEDY, Alabama (35574)",2,3,15,1,1,2,5,4,,,,,3,1,3,4,,,,,1,,1,3,1,4,2,1,4,3,2,3,2,3,1,5,5,4,3,4,5,3,4,5,4,5,4,5
+104608020,Completed,US,NY,1,5,5,1,1,4,"FRANKLIN, Virginia (23851)",7,"WEAVER, Alabama (36277)",4,4,22,1,2,4,5,4,10,Writer/Journalist,2,2,,,,,,,,,,,1,3,4,2,1,4,3,1,2,4,2,3,1,3,4,3,3,5,4,5,3,4,5,4,3,4
+104608022,Completed,US,NY,2,1,4,1,6,4,"EATON, Ohio (45320)",4,"LISMAN, Alabama (36912)",5,4,15,1,3,4,1,1,13,Web Developer,3,2,,,,,,,,,,,1,1,2,4,3,2,3,4,1,5,3,2,1,3,5,4,3,4,5,3,3,3,5,5,5,3
+104608023,Completed,US,NY,2,6,1,6,1,3,"LISMAN, Alabama (36912)",1,"KENNEDY, Alabama (35574)",1,1,10,1,1,5,3,1,15,Engineer,1,2,,,,,,,,,,,1,1,4,2,3,1,2,4,3,3,1,2,1,3,3,4,4,4,5,4,5,5,4,4,3,4
+104608072,Completed,US,NC,2,3,2,2,3,4,"ROANOKE, Illinois (61561)",3,"ROANOKE, Illinois (61561)",5,4,12,1,1,3,3,2,4,architect,2,3,2,4,3,5,1,,,,,,1,0,0,0,1,0,0,1,0,3,2,2,1,5,5,5,5,5,5,5,5,5,5,5,5,5
+104608087,Completed,US,UT,1,4,2,1,5,2,"NEW YORK, New York (10041)",2,"NEW YORK, New York (10041)",4,3,21,1,2,4,4,3,13,manager,3,3,4,2,2,5,1,,,,,,3,1,2,3,4,1,2,3,4,3,1,1,3,4,5,5,1,5,3,5,5,5,5,3,5,5
+104608114,Completed,US,NY,1,3,5,6,5,5,"RAINELLE, West Virginia (25962)",6,"ASHLAND, Alabama (36251)",4,1,16,1,3,1,3,1,17,Physician/Doctor,2,2,3,1,3,4,,,1,,,,1,2,1,4,3,1,4,2,3,3,1,2,1,4,5,3,3,3,5,3,5,4,3,3,3,3
+104608115,Completed,US,NY,1,6,4,1,8,6,"MOUNTAIN HOME, Arkansas (72653)",3,"LISMAN, Alabama (36912)",3,1,20,1,3,5,3,3,11,Graphic Designer,1,2,3,5,3,5,,,1,,,,1,2,3,4,1,4,3,1,2,5,1,3,1,5,3,3,5,4,4,5,5,4,3,4,5,4
+104608116,Completed,US,CA,1,6,3,5,5,1,"LISMAN, Alabama (36912)",6,"RAINELLE, West Virginia (25962)",3,5,30,1,1,3,3,1,20,Police Officer,1,2,5,4,3,3,,1,,,,,1,4,1,3,2,4,2,1,3,3,3,1,1,3,3,4,3,3,3,4,4,5,5,3,3,4
+104608118,Completed,US,NY,2,3,6,6,7,6,"RAINELLE, West Virginia (25962)",7,"LISMAN, Alabama (36912)",4,5,18,1,3,5,2,2,9,Real Estate Agent,4,2,5,5,3,3,,,,,1,,1,2,4,1,3,4,1,3,2,4,3,1,1,3,4,3,3,4,4,3,5,3,4,4,3,4
+104608119,Completed,US,NY,2,3,6,3,1,6,"MOUNTAIN HOME, Arkansas (72653)",2,"MOUNTAIN HOME, Arkansas (72653)",2,4,18,1,2,5,4,3,1,Attorney,2,2,3,5,3,3,,1,,,,,1,3,1,2,4,2,4,3,1,5,2,2,1,4,5,4,3,4,3,4,5,5,4,3,5,3
+104608120,Completed,US,NY,2,3,6,1,6,3,"ETHRIDGE, Tennessee (38456)",3,"WEAVER, Alabama (36277)",5,5,25,1,2,4,5,1,6,Teacher,4,2,3,3,3,4,,,,,,1,1,2,4,3,1,4,2,1,3,5,1,3,1,5,3,5,4,5,3,3,5,4,3,3,4,5
+104608121,Completed,US,NY,2,1,4,3,8,6,"KENNEDY, Alabama (35574)",6,"EATON, Ohio (45320)",4,3,12,1,2,2,5,4,13,Graphic Designer,3,2,4,6,3,5,,,,1,,,1,1,3,4,2,3,4,1,2,3,3,1,1,5,5,3,4,5,3,4,4,5,5,3,3,3
+104608122,Completed,US,NY,2,4,2,6,2,1,"ASHLAND, Alabama (36251)",4,"EATON, Ohio (45320)",2,3,15,1,3,1,5,3,1,Chef,4,2,4,4,3,4,,1,,,,,1,2,1,3,4,2,1,3,4,3,2,1,1,4,4,3,3,3,5,4,5,3,3,3,5,5
+104608123,Completed,US,NY,2,7,3,4,5,5,"MOUNTAIN HOME, Arkansas (72653)",3,"ETHRIDGE, Tennessee (38456)",5,1,14,1,2,4,2,2,17,Electrician,1,2,3,5,3,3,,,,1,,,1,4,1,2,3,3,4,1,2,3,3,3,1,5,3,5,3,4,3,5,3,5,5,3,4,4
+104608124,Completed,US,NY,1,3,4,3,7,6,"MOUNTAIN HOME, Arkansas (72653)",4,"WEAVER, Alabama (36277)",3,3,15,1,3,1,5,4,11,Architect,2,2,5,3,3,3,,,,1,,,1,1,2,3,4,3,4,1,2,3,3,3,1,3,4,4,4,4,5,3,5,3,5,5,4,3
+104608125,Completed,US,NY,2,1,3,8,8,3,"KENNEDY, Alabama (35574)",4,"YORK, Alabama (36925)",4,1,19,1,2,1,5,3,8,Teacher,3,2,3,2,3,4,,,,1,,,1,4,1,3,2,2,4,3,1,4,1,1,1,5,4,5,3,4,4,3,3,4,5,5,5,5
+104608126,Completed,US,NY,1,4,3,5,5,5,"KENNEDY, Alabama (35574)",3,"KENNEDY, Alabama (35574)",3,2,8,1,2,1,4,1,19,Marketing Manager,1,2,5,1,3,5,,,,,,1,1,1,3,2,4,2,3,1,4,4,2,1,1,4,5,4,5,5,4,5,5,3,5,5,5,4
+104608127,Completed,US,,2,2,2,6,6,5,"YORK, Alabama (36925)",1,"ASHLAND, Alabama (36251)",2,4,18,1,3,1,5,2,8,Teacher,3,2,3,5,3,4,,1,,,,,1,2,1,4,3,1,3,4,2,4,1,3,1,3,4,3,5,4,5,5,4,5,5,4,4,4
+104608128,Completed,US,NY,2,6,2,6,5,2,"MOUNTAIN HOME, Arkansas (72653)",2,"ASHLAND, Alabama (36251)",3,2,10,1,2,1,5,2,1,Sales Representative,1,2,5,2,3,5,,,,,1,,1,2,3,1,4,4,2,3,1,4,2,2,1,3,5,5,5,3,3,4,5,5,5,3,4,5
+104608129,Completed,US,NY,1,1,5,6,2,5,"LISMAN, Alabama (36912)",1,"EATON, Ohio (45320)",3,2,16,1,1,5,1,1,11,Nurse,2,2,3,4,3,4,1,,,,,,1,2,3,4,1,2,4,3,1,5,2,3,1,5,3,4,4,4,3,5,4,3,3,3,4,3
+104608130,Completed,US,NJ,1,5,1,5,6,5,"ASHLAND, Alabama (36251)",4,"RAINELLE, West Virginia (25962)",1,2,13,1,2,2,3,3,14,Nurse,2,2,3,5,3,4,,,,,1,,1,2,1,4,3,4,2,3,1,4,3,2,1,3,4,5,3,4,3,4,3,5,5,4,3,3
+104608131,Completed,US,NY,1,6,5,3,4,3,"FRANKLIN, Virginia (23851)",2,"LISMAN, Alabama (36912)",4,5,18,1,1,2,2,3,7,Dentist,3,2,5,2,3,5,,,,1,,,1,4,1,2,3,3,1,2,4,5,2,3,1,4,5,5,5,3,5,3,4,4,3,5,4,4
+104608187,Completed,US,NY,1,2,2,4,6,1,"FRANKLIN, Virginia (23851)",5,"YORK, Alabama (36925)",3,3,18,1,1,4,1,2,,,,,5,3,3,4,,,1,,,,1,2,1,4,3,1,4,3,2,4,2,2,1,4,4,4,5,4,4,3,3,3,3,4,3,4
+104608299,Completed,US,NJ,2,1,2,3,3,1,"ETHRIDGE, Tennessee (38456)",6,"ASHLAND, Alabama (36251)",3,5,19,1,2,2,1,3,8,Marketing Manager,4,2,3,2,3,5,,,1,,,,1,4,2,1,3,2,4,1,3,5,1,1,1,3,3,5,5,3,4,4,3,3,4,3,3,3
+104608300,Completed,US,NY,2,6,2,5,8,1,"EATON, Ohio (45320)",2,"EATON, Ohio (45320)",1,5,16,1,3,4,3,1,4,Police Officer,2,2,4,2,3,4,,,1,,,,1,1,3,2,4,2,1,3,4,3,3,3,1,3,4,4,5,5,5,4,5,5,4,4,5,4
+104608301,Completed,US,NY,1,5,3,7,5,5,"ETHRIDGE, Tennessee (38456)",3,"MOUNTAIN HOME, Arkansas (72653)",3,4,12,1,3,5,3,1,5,Human Resources Manager,3,2,5,4,3,5,,,1,,,,1,2,4,3,1,1,2,4,3,3,3,1,1,3,4,5,5,5,4,5,3,3,3,4,5,5
+104608302,Completed,US,NY,1,2,2,8,8,4,"RAINELLE, West Virginia (25962)",1,"RAINELLE, West Virginia (25962)",5,2,30,1,1,2,5,1,6,Real Estate Agent,4,2,5,4,3,4,,,1,,,,1,2,1,3,4,4,1,2,3,4,3,3,1,3,5,5,3,3,4,4,4,3,5,5,5,4
+104608303,Completed,US,NJ,2,6,2,5,8,4,"EATON, Ohio (45320)",7,"WEAVER, Alabama (36277)",5,3,18,1,3,3,1,4,14,Electrician,3,2,5,5,3,3,,,,,1,,1,4,2,3,1,4,3,2,1,4,3,2,1,5,4,3,4,3,3,3,5,3,4,5,5,3
+104608304,Completed,US,NY,1,6,5,7,3,1,"YORK, Alabama (36925)",7,"WEAVER, Alabama (36277)",5,2,16,1,2,1,5,2,19,Graphic Designer,4,2,,,,,,,,,,,1,2,4,1,3,2,1,3,4,3,1,2,1,5,5,5,3,3,4,5,5,3,5,3,4,4
+104608305,Completed,US,NY,1,1,4,4,4,4,"EATON, Ohio (45320)",7,"WEAVER, Alabama (36277)",3,4,12,1,1,2,1,2,,,,,3,5,3,3,,,,,1,,1,1,4,2,3,2,4,3,1,3,2,1,1,4,5,3,3,4,3,4,4,5,4,4,4,4
+104608306,Completed,US,NY,1,3,5,1,5,3,"ETHRIDGE, Tennessee (38456)",7,"RAINELLE, West Virginia (25962)",3,4,10,1,1,4,4,1,18,Physician/Doctor,2,2,3,5,3,5,,,,,1,,1,3,4,2,1,3,4,2,1,5,1,1,1,5,5,3,4,4,3,5,5,5,4,3,3,3
+104608307,Completed,US,NJ,2,7,4,6,2,5,"ASHLAND, Alabama (36251)",3,"EATON, Ohio (45320)",5,3,19,1,3,4,1,2,4,Attorney,3,2,,,,,,,,,,,1,4,1,3,2,4,3,1,2,3,1,1,1,4,5,5,3,4,5,4,3,3,4,3,3,4
+104608309,Completed,US,NY,2,1,1,1,2,2,"ETHRIDGE, Tennessee (38456)",2,"FRANKLIN, Virginia (23851)",4,5,16,1,1,4,2,1,18,Dentist,3,2,3,4,3,4,,,,,1,,1,4,2,3,1,2,1,3,4,3,3,1,1,3,3,5,3,3,5,3,5,3,5,3,4,3
+104608310,Completed,US,NY,2,3,1,7,3,6,"RAINELLE, West Virginia (25962)",4,"RAINELLE, West Virginia (25962)",1,3,10,1,2,5,2,4,,,,,3,2,3,5,,,,1,,,1,1,4,3,2,2,1,3,4,4,1,2,1,5,4,5,3,5,4,5,3,5,4,5,4,4
+104608311,Completed,US,NY,1,2,5,1,4,4,"ASHLAND, Alabama (36251)",4,"KENNEDY, Alabama (35574)",3,2,15,1,3,3,4,3,13,Marketing Manager,4,2,4,3,3,3,,,1,,,,1,3,4,2,1,3,4,2,1,4,2,3,1,3,3,5,5,3,5,3,4,4,4,5,3,3
+104608313,Completed,US,NY,1,4,1,5,1,6,"KENNEDY, Alabama (35574)",6,"LISMAN, Alabama (36912)",4,4,10,1,2,5,4,4,15,Graphic Designer,1,2,3,3,3,4,1,,,,,,1,3,4,2,1,2,1,3,4,5,2,1,1,5,3,5,5,3,5,5,4,4,5,5,5,4
+104608315,Completed,US,NY,1,7,3,4,6,2,"KENNEDY, Alabama (35574)",3,"KENNEDY, Alabama (35574)",1,5,14,1,2,4,2,3,19,Dentist,2,2,3,5,3,4,1,,,,,,1,4,3,1,2,2,1,3,4,3,2,2,1,3,5,4,4,5,3,3,4,3,3,5,3,3
+104608318,Completed,US,NY,2,3,2,4,6,5,"ETHRIDGE, Tennessee (38456)",6,"LISMAN, Alabama (36912)",2,5,11,1,3,3,3,1,15,Writer/Journalist,4,2,,,,,,,,,,,1,2,4,1,3,2,4,3,1,4,2,1,1,5,5,4,3,5,4,5,5,5,4,4,4,4
+104608320,Completed,US,NY,2,6,6,1,3,6,"WEAVER, Alabama (36277)",7,"FRANKLIN, Virginia (23851)",4,1,10,1,3,2,3,1,,,,,3,4,3,4,1,,,,,,1,3,2,1,4,3,1,2,4,3,3,3,1,5,4,4,4,4,4,3,4,4,5,3,3,5
+104608322,Completed,US,NY,1,6,4,8,1,6,"RAINELLE, West Virginia (25962)",1,"FRANKLIN, Virginia (23851)",2,4,8,1,2,4,1,3,8,Nurse,2,2,5,2,3,4,1,,,,,,1,4,2,1,3,2,4,3,1,3,3,2,1,4,3,5,3,5,3,4,3,4,4,5,5,5
+104608323,Completed,US,NY,1,5,3,3,4,1,"MOUNTAIN HOME, Arkansas (72653)",7,"ETHRIDGE, Tennessee (38456)",4,5,18,1,3,1,5,2,6,Chef,2,2,5,2,3,3,,1,,,,,1,2,4,3,1,2,4,1,3,3,1,3,1,5,3,4,4,3,5,3,4,3,5,4,5,3
+104608325,Completed,US,NY,2,7,5,2,7,5,"FRANKLIN, Virginia (23851)",3,"FRANKLIN, Virginia (23851)",5,1,12,1,1,1,1,1,7,Attorney,1,2,3,5,3,5,,,1,,,,1,1,3,2,4,1,3,2,4,3,3,3,1,5,4,3,5,4,4,3,3,4,3,3,3,4
+104608429,Completed,US,NY,1,3,3,7,5,3,"ETHRIDGE, Tennessee (38456)",2,"FRANKLIN, Virginia (23851)",3,1,19,1,1,2,3,2,14,Veterinarian.,1,2,5,1,3,3,,,,1,,,1,3,4,1,2,1,2,4,3,3,2,1,1,4,4,5,4,4,3,4,3,4,4,5,5,5
+104608430,Completed,US,NY,1,3,5,6,2,3,"RAINELLE, West Virginia (25962)",6,"LISMAN, Alabama (36912)",5,4,19,1,3,1,3,3,,,,,3,2,3,5,,,1,,,,1,2,1,3,4,4,2,1,3,3,2,3,1,5,3,4,3,3,4,4,3,5,3,4,5,3
+104608431,Completed,US,NY,2,7,1,5,7,2,"RAINELLE, West Virginia (25962)",4,"WEAVER, Alabama (36277)",1,4,22,1,1,2,3,3,,,,,3,3,3,4,,,,,1,,1,2,3,1,4,3,1,2,4,5,3,2,1,5,5,4,4,4,4,4,4,5,5,5,4,5
+104608432,Completed,US,NY,2,6,2,6,3,2,"WEAVER, Alabama (36277)",5,"ETHRIDGE, Tennessee (38456)",3,2,13,1,1,1,1,2,12,Attorney,2,2,4,6,3,5,1,,,,,,1,3,2,4,1,3,2,1,4,3,2,2,1,5,3,5,3,5,5,5,4,4,5,5,4,3
+104608433,Completed,US,NY,2,3,3,8,7,3,"ASHLAND, Alabama (36251)",5,"ASHLAND, Alabama (36251)",2,2,20,1,3,4,3,1,,,,,5,6,3,4,,,,1,,,1,4,2,1,3,1,4,3,2,3,1,1,1,3,5,4,5,4,4,4,3,4,5,3,4,3
+104608435,Completed,US,NY,2,2,4,7,8,2,"ASHLAND, Alabama (36251)",5,"ASHLAND, Alabama (36251)",1,5,25,1,2,4,4,2,,,,,3,4,3,4,1,,,,,,1,1,2,4,3,2,4,1,3,5,2,2,1,4,5,5,5,5,4,4,4,3,4,3,4,5
+104608436,Completed,US,MA,2,3,2,7,8,3,"LISMAN, Alabama (36912)",6,"KENNEDY, Alabama (35574)",2,3,14,1,2,3,3,1,11,Engineer,1,2,3,1,3,3,1,,,,,,1,1,2,3,4,3,4,2,1,3,3,3,1,3,5,5,4,5,3,4,3,3,3,5,4,4
+104608437,Completed,US,NY,2,5,4,5,7,1,"ASHLAND, Alabama (36251)",1,"KENNEDY, Alabama (35574)",3,2,30,1,2,3,4,4,,,,,4,6,3,4,1,,,,,,1,3,4,1,2,4,1,2,3,3,3,1,1,5,4,4,4,4,3,4,3,4,3,4,4,4
+104608438,Completed,US,NY,1,4,2,1,2,1,"WEAVER, Alabama (36277)",5,"WEAVER, Alabama (36277)",4,5,9,1,3,5,5,2,,,,,4,5,3,5,,,,,,1,1,4,3,2,1,2,3,1,4,3,1,1,1,4,4,4,3,4,5,3,5,4,4,3,5,5
+104608440,Completed,US,NY,2,3,4,8,3,4,"WEAVER, Alabama (36277)",7,"ETHRIDGE, Tennessee (38456)",1,5,10,1,1,1,5,3,1,Web Developer,3,2,,,,,,,,,,,1,2,3,4,1,2,1,4,3,3,3,3,1,4,3,4,4,4,4,4,5,4,4,3,4,3
+104608441,Completed,US,NY,1,4,2,2,7,1,"EATON, Ohio (45320)",6,"EATON, Ohio (45320)",5,5,15,1,3,4,2,3,19,Electrician,2,2,5,6,3,5,1,,,,,,1,1,2,3,4,1,4,3,2,5,1,1,1,3,5,5,4,5,3,3,4,4,3,3,4,5
+104608442,Completed,US,NY,2,4,3,7,4,6,"ETHRIDGE, Tennessee (38456)",3,"EATON, Ohio (45320)",4,3,20,1,2,4,2,2,,,,,3,6,3,3,,,,,,1,1,3,1,2,4,4,3,2,1,3,2,2,1,4,5,5,3,4,3,4,3,3,4,4,3,3
+104608444,Completed,US,NY,1,2,5,7,8,5,"RAINELLE, West Virginia (25962)",6,"LISMAN, Alabama (36912)",1,4,10,1,1,2,1,2,12,Teacher,3,2,5,3,3,4,1,,,,,,1,1,3,4,2,4,1,2,3,3,1,2,1,4,5,3,3,4,5,3,3,5,4,5,5,5
+104608445,Completed,US,NY,2,5,5,7,8,4,"MOUNTAIN HOME, Arkansas (72653)",1,"ASHLAND, Alabama (36251)",5,2,16,1,1,1,4,4,13,Veterinarian.,2,2,5,4,3,5,1,,,,,,1,2,3,4,1,1,3,2,4,4,1,3,1,5,4,4,4,3,3,5,3,4,3,3,3,4
+104608446,Completed,US,NY,1,6,4,1,3,1,"RAINELLE, West Virginia (25962)",5,"LISMAN, Alabama (36912)",1,2,17,1,3,5,3,2,,,,,5,3,3,3,,,,1,,,1,4,3,1,2,2,3,1,4,3,3,2,1,5,3,4,3,4,3,3,3,5,4,3,3,5
+104608447,Completed,US,NY,2,7,3,6,1,1,"MOUNTAIN HOME, Arkansas (72653)",5,"EATON, Ohio (45320)",1,1,9,1,1,4,5,3,1,Sales Representative,1,2,4,3,3,3,,,,,,1,1,4,1,2,3,4,2,3,1,5,3,3,1,5,5,4,5,5,5,3,5,4,5,4,3,5
+104608449,Started,US,NY,2,1,1,2,8,1,"KENNEDY, Alabama (35574)",4,"FRANKLIN, Virginia (23851)",2,5,17,1,2,2,5,1,5,Marketing Manager,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104608450,Completed,US,,1,4,1,3,5,5,"ASHLAND, Alabama (36251)",2,"MOUNTAIN HOME, Arkansas (72653)",2,1,15,1,2,5,1,1,15,Real Estate Agent,2,2,5,4,3,5,,,,,,1,1,4,3,2,1,2,4,3,1,5,3,3,1,4,4,4,5,4,5,5,5,3,4,5,4,5
+104608452,Completed,US,NJ,2,5,1,1,6,6,"KENNEDY, Alabama (35574)",2,"YORK, Alabama (36925)",5,1,14,1,2,5,4,1,12,Veterinarian.,3,2,,,,,,,,,,,1,3,1,2,4,3,2,1,4,3,3,3,1,4,5,5,3,4,5,3,5,3,5,3,3,5
+104608453,Completed,US,NY,1,5,4,7,4,1,"YORK, Alabama (36925)",4,"FRANKLIN, Virginia (23851)",5,2,9,1,1,5,3,4,,,,,4,1,3,5,,,,,1,,1,4,1,3,2,2,4,3,1,3,1,2,1,4,4,5,4,4,3,5,5,3,3,4,5,3
+104608455,Completed,US,NY,1,5,1,6,1,3,"KENNEDY, Alabama (35574)",7,"MOUNTAIN HOME, Arkansas (72653)",1,4,9,1,3,4,2,2,,,,,3,2,3,4,,,,1,,,1,1,4,3,2,1,2,3,4,3,3,3,1,5,4,5,4,3,5,5,3,3,4,3,5,5
+104608456,Completed,US,NY,2,1,6,1,1,1,"WEAVER, Alabama (36277)",6,"RAINELLE, West Virginia (25962)",4,5,30,1,1,4,2,2,14,Nurse,3,2,,,,,,,,,,,1,4,1,3,2,4,3,1,2,3,1,2,1,4,3,4,5,4,3,5,3,4,4,4,5,3
+104608457,Completed,US,NY,2,7,6,6,6,4,"LISMAN, Alabama (36912)",6,"YORK, Alabama (36925)",4,2,30,1,2,2,4,2,8,Real Estate Agent,3,2,3,1,3,5,,,,,1,,1,4,2,3,1,1,4,2,3,5,3,2,1,4,5,4,3,3,5,5,3,5,4,5,5,4
+104608458,Completed,US,NY,1,7,3,5,1,4,"YORK, Alabama (36925)",4,"LISMAN, Alabama (36912)",5,2,14,1,3,3,4,4,12,Writer/Journalist,4,2,4,6,3,3,,,,1,,,1,1,2,3,4,2,1,4,3,4,1,1,1,5,5,3,5,5,3,5,5,3,3,3,5,4
+104608459,Completed,US,NY,1,3,5,6,7,1,"ETHRIDGE, Tennessee (38456)",2,"YORK, Alabama (36925)",1,1,11,1,2,2,2,1,18,Police Officer,3,2,5,5,3,3,1,,,,,,1,1,3,4,2,2,4,3,1,5,1,1,1,4,5,4,3,5,5,4,5,3,5,3,3,4
+104608460,Completed,US,NY,1,1,3,2,8,3,"MOUNTAIN HOME, Arkansas (72653)",7,"EATON, Ohio (45320)",2,5,12,1,2,4,1,4,16,Marketing Manager,4,2,,,,,,,,,,,1,2,1,3,4,4,2,3,1,4,3,3,1,4,5,4,4,3,3,4,4,5,3,4,3,4
+104608461,Completed,US,NY,2,5,6,8,2,1,"MOUNTAIN HOME, Arkansas (72653)",2,"KENNEDY, Alabama (35574)",5,3,16,1,3,3,4,3,,,,,4,2,3,3,,,1,,,,1,1,4,2,3,3,4,1,2,4,1,1,1,4,3,4,5,5,4,5,5,3,4,4,5,5
+104608462,Completed,US,NY,1,2,5,7,8,3,"KENNEDY, Alabama (35574)",7,"KENNEDY, Alabama (35574)",3,1,17,1,2,3,2,3,,,,,3,5,3,5,,,1,,,,1,3,2,4,1,2,1,4,3,4,1,3,1,5,4,4,5,5,5,4,4,4,3,5,5,5
+104608463,Completed,US,NY,2,2,6,8,1,1,"MOUNTAIN HOME, Arkansas (72653)",1,"KENNEDY, Alabama (35574)",4,3,16,1,1,2,2,2,4,Real Estate Agent,3,2,3,5,3,3,,,,1,,,1,1,2,4,3,1,4,2,3,4,2,2,1,3,3,5,3,3,4,4,5,4,3,5,5,4
+104608464,Completed,US,NY,2,7,2,7,3,1,"WEAVER, Alabama (36277)",3,"KENNEDY, Alabama (35574)",3,2,13,1,3,4,4,1,,,,,5,6,3,5,,,1,,,,1,3,2,1,4,3,2,1,4,3,2,1,1,3,4,4,3,3,5,3,5,5,3,5,3,4
+104608465,Completed,US,NY,2,7,3,4,2,2,"ETHRIDGE, Tennessee (38456)",5,"LISMAN, Alabama (36912)",5,5,10,1,2,2,1,4,7,Attorney,1,2,4,2,3,3,,,1,,,,1,2,1,4,3,4,1,2,3,5,3,2,1,5,3,4,5,4,5,3,4,3,5,3,4,3
+104608466,Completed,US,NY,2,5,4,7,6,2,"KENNEDY, Alabama (35574)",7,"RAINELLE, West Virginia (25962)",4,3,8,1,1,4,3,2,5,Real Estate Agent,3,2,5,6,3,3,,1,,,,,1,2,1,4,3,2,3,1,4,4,1,3,1,3,5,5,4,4,4,4,5,4,5,3,4,3
+104608467,Completed,US,NY,2,2,5,1,5,1,"EATON, Ohio (45320)",6,"ASHLAND, Alabama (36251)",2,5,17,1,3,1,5,1,1,Veterinarian.,1,2,4,2,3,4,,,1,,,,1,1,2,4,3,1,4,2,3,3,2,1,1,4,4,4,5,4,5,4,5,3,3,4,3,4
+104608468,Completed,US,NY,1,1,1,3,4,3,"ETHRIDGE, Tennessee (38456)",7,"MOUNTAIN HOME, Arkansas (72653)",5,3,8,1,1,3,3,1,7,Electrician,4,2,5,5,3,4,,1,,,,,1,4,3,2,1,3,2,1,4,5,2,3,1,4,5,4,5,5,3,4,4,4,3,4,3,4
+104608469,Completed,US,NY,2,3,2,1,7,4,"FRANKLIN, Virginia (23851)",2,"LISMAN, Alabama (36912)",1,3,17,1,3,5,2,4,7,Physician/Doctor,4,2,3,2,3,4,,,,1,,,1,3,1,4,2,1,3,4,2,4,3,1,1,4,4,5,4,5,5,3,5,5,5,3,5,5
+104608477,Completed,US,NY,1,1,1,8,7,6,"LISMAN, Alabama (36912)",6,"KENNEDY, Alabama (35574)",5,5,19,1,2,3,5,1,,,,,4,3,3,3,,,,,,1,1,2,4,3,1,1,4,3,2,5,1,3,1,3,5,5,4,3,3,4,4,4,5,5,3,5
+104608499,Completed,US,NJ,2,4,4,7,2,3,"YORK, Alabama (36925)",5,"KENNEDY, Alabama (35574)",3,4,10,1,1,1,3,4,18,Graphic Designer,1,2,4,6,3,4,,,1,,,,1,1,4,3,2,3,1,4,2,3,1,2,1,5,3,3,3,4,5,4,4,5,5,5,3,3
+104608500,Completed,US,NY,2,1,4,7,2,2,"FRANKLIN, Virginia (23851)",7,"RAINELLE, West Virginia (25962)",4,1,8,1,1,3,1,3,,,,,3,3,3,5,,,,1,,,1,1,3,4,2,4,1,2,3,3,1,3,1,4,4,4,4,5,5,3,3,5,3,4,3,3
+104608502,Completed,US,NY,1,4,6,6,5,6,"WEAVER, Alabama (36277)",3,"ASHLAND, Alabama (36251)",3,4,10,1,3,5,1,2,,,,,3,4,3,5,1,,,,,,1,1,2,3,4,3,1,2,4,5,3,2,1,4,4,3,4,5,3,4,3,4,5,5,5,5
+104608503,Completed,US,NY,1,7,6,7,2,2,"LISMAN, Alabama (36912)",2,"LISMAN, Alabama (36912)",5,1,12,1,2,3,2,3,,,,,4,1,3,5,1,,,,,,1,3,1,2,4,4,2,3,1,3,3,1,1,4,4,4,3,4,4,4,3,4,4,4,3,3
+104608504,Completed,US,NY,1,4,1,2,1,6,"FRANKLIN, Virginia (23851)",4,"YORK, Alabama (36925)",1,1,22,1,3,1,3,3,,,,,3,3,3,3,1,,,,,,1,1,2,4,3,3,4,2,1,4,3,1,1,4,4,5,5,5,5,5,4,4,3,4,3,3
+104608505,Completed,US,NY,1,1,1,1,1,5,"ETHRIDGE, Tennessee (38456)",3,"YORK, Alabama (36925)",5,2,14,1,2,4,2,4,,,,,5,6,3,5,,1,,,,,1,2,1,3,4,3,2,4,1,3,1,1,1,3,3,3,4,4,4,3,5,5,5,5,4,4
+104608507,Completed,US,NY,2,3,1,6,2,1,"LISMAN, Alabama (36912)",7,"MOUNTAIN HOME, Arkansas (72653)",3,5,17,1,3,2,5,1,,,,,3,5,3,3,,1,,,,,1,3,2,4,1,2,3,1,4,3,1,1,1,5,5,5,3,5,4,4,3,4,4,3,5,4
+104608509,Completed,US,NJ,2,6,6,3,5,3,"LISMAN, Alabama (36912)",7,"RAINELLE, West Virginia (25962)",2,2,17,1,3,3,2,1,6,Marketing Manager,2,2,4,2,3,5,,,,,,1,1,2,3,1,4,3,4,1,2,4,3,2,1,3,5,5,5,5,3,3,4,4,5,4,4,3
+104608511,Completed,US,NY,2,1,4,6,2,4,"FRANKLIN, Virginia (23851)",5,"LISMAN, Alabama (36912)",1,2,8,1,2,5,3,3,,,,,3,5,3,4,,,,1,,,1,3,1,2,4,4,1,2,3,4,2,1,1,3,3,5,4,5,4,4,3,3,3,5,5,5
+104608512,Completed,US,NY,2,6,2,6,2,3,"ASHLAND, Alabama (36251)",3,"LISMAN, Alabama (36912)",1,3,18,1,3,1,4,1,,,,,3,3,3,4,,1,,,,,1,2,1,3,4,3,1,4,2,4,1,1,1,4,5,3,5,3,3,5,4,3,3,5,4,3
+104608513,Completed,US,NJ,1,1,2,2,5,6,"FRANKLIN, Virginia (23851)",3,"EATON, Ohio (45320)",3,5,9,1,3,3,1,1,,,,,5,5,3,4,,1,,,,,1,1,2,4,3,4,2,3,1,4,2,3,1,3,4,4,5,3,3,3,5,4,5,3,5,3
+104608515,Completed,US,NY,1,7,5,4,3,4,"MOUNTAIN HOME, Arkansas (72653)",1,"MOUNTAIN HOME, Arkansas (72653)",2,1,30,1,3,1,4,2,,,,,4,5,3,4,,,,1,,,1,2,1,4,3,2,4,1,3,4,2,3,1,3,4,4,4,3,3,5,3,3,5,4,5,3
+104608522,Completed,US,NY,1,1,4,7,6,2,"WEAVER, Alabama (36277)",5,"MOUNTAIN HOME, Arkansas (72653)",2,5,22,1,3,1,2,3,,,,,4,2,3,4,,,,,1,,1,1,3,2,4,1,2,3,4,5,1,3,1,4,5,3,3,5,4,4,5,3,3,3,4,4
+104608524,Completed,US,,2,1,1,5,4,1,"MOUNTAIN HOME, Arkansas (72653)",5,"KENNEDY, Alabama (35574)",5,3,16,1,2,5,2,1,,,,,3,4,3,4,1,,,,,,1,1,2,4,3,2,4,3,1,4,3,1,1,5,3,4,3,5,3,4,4,4,4,4,5,5
+104608615,Completed,US,NY,2,3,2,6,2,2,"ETHRIDGE, Tennessee (38456)",1,"FRANKLIN, Virginia (23851)",3,3,17,1,2,4,3,4,1,Software Developer,1,2,3,5,3,4,,1,,,,,1,1,3,2,4,3,1,2,4,5,2,3,1,3,4,4,4,4,3,3,4,4,3,3,3,3
+104608616,Completed,US,NY,1,5,5,8,4,4,"MOUNTAIN HOME, Arkansas (72653)",7,"WEAVER, Alabama (36277)",1,5,16,1,1,1,5,3,,,,,3,4,3,4,,,,,1,,1,4,2,1,3,1,2,3,4,5,3,1,1,4,4,5,3,4,3,4,5,5,5,4,4,4
+104608618,Completed,US,NY,1,5,4,3,5,2,"RAINELLE, West Virginia (25962)",6,"RAINELLE, West Virginia (25962)",5,4,13,1,2,5,4,2,,,,,5,1,3,3,,,1,,,,1,1,2,4,3,1,4,3,2,3,3,2,1,4,4,4,3,4,4,4,4,5,5,5,4,3
+104608619,Completed,US,NY,1,3,4,5,3,5,"ASHLAND, Alabama (36251)",4,"WEAVER, Alabama (36277)",3,1,20,1,1,5,2,1,7,Attorney,4,2,,,,,,,,,,,1,2,3,1,4,4,1,3,2,3,1,3,1,3,4,4,3,4,3,3,3,4,3,5,5,4
+104608620,Completed,US,NY,2,2,6,8,5,4,"ASHLAND, Alabama (36251)",7,"MOUNTAIN HOME, Arkansas (72653)",3,4,30,1,1,5,5,1,10,Software Developer,3,2,5,5,3,5,1,,,,,,1,2,3,4,1,3,4,2,1,5,3,1,1,4,4,4,3,4,4,4,4,3,3,3,4,5
+104608622,Completed,US,NY,2,1,4,4,4,6,"ETHRIDGE, Tennessee (38456)",6,"RAINELLE, West Virginia (25962)",5,1,19,1,1,3,2,2,,,,,4,2,3,5,1,,,,,,1,4,2,3,1,3,4,1,2,3,3,3,1,5,4,4,3,4,5,4,4,3,4,4,3,5
+104608624,Completed,US,NY,2,5,4,7,6,6,"LISMAN, Alabama (36912)",7,"RAINELLE, West Virginia (25962)",5,4,16,1,1,2,3,3,2,Real Estate Agent,2,2,,,,,,,,,,,1,2,3,4,1,2,3,4,1,4,2,1,1,3,3,5,5,4,4,3,5,4,3,5,5,3
+104608625,Completed,US,NY,1,2,1,6,5,1,"MOUNTAIN HOME, Arkansas (72653)",7,"YORK, Alabama (36925)",3,4,18,1,3,4,3,2,13,Marketing Manager,2,2,5,6,3,5,,,1,,,,1,1,4,2,3,4,3,2,1,5,1,1,1,3,5,4,4,5,5,4,3,3,3,3,4,3
+104608626,Completed,US,NY,1,3,5,5,2,6,"EATON, Ohio (45320)",4,"EATON, Ohio (45320)",1,1,8,1,3,3,1,3,,,,,3,1,3,4,,,1,,,,1,2,3,4,1,3,1,2,4,5,1,1,1,4,5,5,3,3,5,3,4,3,5,4,3,3
+104608627,Completed,US,NY,1,1,5,7,2,2,"EATON, Ohio (45320)",1,"EATON, Ohio (45320)",1,2,8,1,3,3,3,3,10,Veterinarian.,1,2,5,1,3,5,,,,,1,,1,4,2,1,3,2,1,3,4,4,1,1,1,3,3,4,3,3,5,3,3,5,4,3,5,5
+104608628,Completed,US,NY,1,3,4,7,6,5,"KENNEDY, Alabama (35574)",6,"KENNEDY, Alabama (35574)",1,5,22,1,3,2,1,3,,,,,5,2,3,4,,1,,,,,1,2,3,4,1,2,4,3,1,4,3,1,1,5,3,4,4,4,4,4,5,3,3,5,5,3
+104608629,Completed,US,NY,1,3,6,8,8,6,"KENNEDY, Alabama (35574)",4,"LISMAN, Alabama (36912)",1,1,14,1,2,4,2,2,,,,,4,6,3,4,,1,,,,,1,4,3,1,2,1,2,3,4,3,1,3,1,4,3,4,5,4,5,3,5,3,3,4,3,3
+104608630,Completed,US,NY,1,3,3,8,5,6,"MOUNTAIN HOME, Arkansas (72653)",7,"FRANKLIN, Virginia (23851)",3,4,10,1,2,3,4,4,,,,,5,4,3,4,,1,,,,,1,2,1,4,3,4,2,3,1,5,2,2,1,3,5,4,3,5,4,5,3,3,3,4,4,3
+104608632,Completed,US,NJ,1,4,2,7,8,1,"LISMAN, Alabama (36912)",6,"RAINELLE, West Virginia (25962)",2,2,13,1,3,2,1,4,10,Chef,2,2,3,3,3,4,,,,,,1,1,1,2,3,4,2,3,1,4,5,3,1,1,3,3,4,3,3,5,4,4,3,5,4,4,3
+104608633,Completed,US,NY,2,2,6,1,3,4,"ETHRIDGE, Tennessee (38456)",4,"ASHLAND, Alabama (36251)",5,4,25,1,1,4,2,1,,,,,4,3,3,4,,,,,,1,1,3,2,1,4,1,2,3,4,3,3,3,1,4,3,4,4,3,4,4,5,3,5,5,4,3
+104608634,Completed,US,NY,,,,,,,,,,,,,,,,,,20,Attorney,4,2,4,1,3,5,,,,1,,,1,1,3,2,4,2,3,4,1,4,3,1,1,4,4,4,4,4,5,5,4,4,5,5,5,4
+104608635,Completed,US,NY,2,2,5,8,8,6,"MOUNTAIN HOME, Arkansas (72653)",2,"EATON, Ohio (45320)",2,1,22,1,1,5,3,2,,,,,5,1,3,5,1,,,,,,1,2,3,4,1,1,2,4,3,5,1,3,1,5,4,4,5,3,3,4,4,5,5,4,3,5
+104608637,Completed,US,NY,2,2,4,6,5,1,"MOUNTAIN HOME, Arkansas (72653)",2,"YORK, Alabama (36925)",4,1,18,1,2,5,3,3,,,,,3,2,3,4,,,,,,1,1,3,2,4,1,2,3,1,4,3,2,2,1,5,4,4,3,5,4,5,5,3,5,5,4,3
+104608647,Completed,US,NY,1,4,5,1,6,6,"YORK, Alabama (36925)",5,"YORK, Alabama (36925)",2,4,15,1,2,4,5,1,20,Web Developer,4,2,4,4,3,4,,,1,,,,1,4,3,1,2,3,2,1,4,4,1,2,1,5,4,5,3,3,3,5,3,5,5,5,4,5
+104608648,Completed,US,NY,1,2,2,3,8,4,"ETHRIDGE, Tennessee (38456)",2,"EATON, Ohio (45320)",5,3,16,1,2,2,3,3,13,Teacher,4,2,,,,,,,,,,,1,2,3,1,4,3,1,4,2,3,2,2,1,5,4,3,3,5,4,3,5,3,4,4,3,3
+104608649,Completed,US,NY,2,5,2,7,3,1,"FRANKLIN, Virginia (23851)",7,"FRANKLIN, Virginia (23851)",4,4,12,1,3,1,5,2,,,,,5,6,3,5,,,1,,,,1,3,1,2,4,1,3,4,2,5,3,3,1,4,5,4,5,4,3,5,5,5,5,3,5,3
+104608650,Completed,US,NY,1,7,2,2,5,4,"KENNEDY, Alabama (35574)",4,"MOUNTAIN HOME, Arkansas (72653)",3,3,11,1,2,1,5,1,,,,,3,2,3,3,,,,1,,,1,3,2,4,1,1,2,4,3,3,1,1,1,3,3,5,5,4,3,4,5,5,5,4,5,5
+104608651,Completed,US,GA,1,4,5,4,7,4,"RAINELLE, West Virginia (25962)",1,"ASHLAND, Alabama (36251)",5,5,8,1,2,1,3,1,11,Engineer,2,2,,,,,,,,,,,1,4,3,2,1,4,2,1,3,4,2,2,1,3,3,5,5,3,3,3,4,5,5,3,5,3
+104608652,Completed,US,NY,1,1,2,7,8,2,"RAINELLE, West Virginia (25962)",5,"ASHLAND, Alabama (36251)",1,1,15,1,3,4,3,1,19,Nurse,1,2,3,5,3,3,,,1,,,,1,1,3,2,4,1,2,3,4,4,1,3,1,3,4,5,5,4,5,5,4,4,5,5,4,5
+104608653,Started,US,NY,2,1,6,5,3,4,"ETHRIDGE, Tennessee (38456)",4,"MOUNTAIN HOME, Arkansas (72653)",3,1,19,1,2,1,1,3,5,Human Resources Manager,2,2,3,1,3,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104608656,Completed,US,NY,2,5,4,5,2,1,"FRANKLIN, Virginia (23851)",1,"ASHLAND, Alabama (36251)",1,4,18,1,2,5,3,1,12,Accountant,4,2,,,,,,,,,,,1,1,2,4,3,1,2,3,4,5,3,2,1,5,4,3,3,5,3,5,5,5,5,3,5,5
+104608657,Completed,US,NY,2,4,4,5,3,1,"LISMAN, Alabama (36912)",7,"MOUNTAIN HOME, Arkansas (72653)",3,5,30,1,1,1,3,2,12,Nurse,3,2,3,3,3,3,,,,1,,,1,2,4,3,1,4,1,2,3,4,2,2,1,4,3,3,4,3,5,4,5,4,5,5,4,5
+104608658,Completed,US,NY,2,4,2,8,2,6,"WEAVER, Alabama (36277)",4,"YORK, Alabama (36925)",1,5,14,1,2,1,1,4,,,,,3,2,3,4,1,,,,,,1,1,4,2,3,4,3,1,2,3,3,3,1,5,4,4,5,3,5,5,4,3,3,5,4,4
+104608659,Completed,US,NY,2,2,1,8,5,4,"FRANKLIN, Virginia (23851)",5,"ETHRIDGE, Tennessee (38456)",1,3,16,1,2,5,2,2,20,Marketing Manager,3,2,3,3,3,5,,,,,1,,1,4,2,3,1,1,2,4,3,3,3,2,1,5,5,4,5,3,4,4,3,4,4,4,4,5
+104608660,Completed,US,NY,1,4,1,2,6,3,"MOUNTAIN HOME, Arkansas (72653)",4,"RAINELLE, West Virginia (25962)",5,2,18,1,3,5,1,1,15,Sales Representative,4,2,5,3,3,5,,,,,1,,1,1,2,3,4,3,1,4,2,3,3,2,1,4,5,4,3,4,4,4,4,3,3,3,5,4
+104608661,Completed,US,NY,1,7,2,3,3,2,"YORK, Alabama (36925)",6,"ASHLAND, Alabama (36251)",3,2,11,1,2,5,4,2,20,Marketing Manager,2,2,3,5,3,4,1,,,,,,1,2,1,3,4,4,2,3,1,3,3,3,1,4,4,5,3,4,3,5,4,4,5,5,4,5
+104608662,Completed,US,NY,1,5,1,4,4,4,"ETHRIDGE, Tennessee (38456)",7,"MOUNTAIN HOME, Arkansas (72653)",5,3,8,1,3,4,3,1,,,,,5,6,3,3,,,,,1,,1,1,4,2,3,4,2,1,3,4,1,2,1,3,3,3,4,3,3,5,4,4,3,4,5,4
+104608663,Completed,US,NJ,2,1,5,8,5,4,"YORK, Alabama (36925)",7,"WEAVER, Alabama (36277)",3,4,10,1,3,2,2,2,,,,,3,2,3,4,,,1,,,,1,1,4,2,3,4,2,3,1,5,1,3,1,5,3,3,5,3,4,3,3,3,4,5,4,5
+104608664,Completed,US,NY,2,1,5,4,1,4,"RAINELLE, West Virginia (25962)",7,"ASHLAND, Alabama (36251)",3,5,30,1,3,4,5,1,,,,,4,6,3,4,1,,,,,,1,4,1,3,2,2,1,3,4,5,3,2,1,3,4,3,3,3,5,3,5,5,4,5,3,5
+104608665,Completed,US,NY,2,2,4,1,1,6,"LISMAN, Alabama (36912)",5,"MOUNTAIN HOME, Arkansas (72653)",2,3,16,1,2,5,4,4,,,,,4,6,3,5,,,,,1,,1,2,3,4,1,2,1,4,3,5,1,1,1,3,3,3,4,3,3,4,4,4,5,3,4,3
+104608667,Completed,US,CT,2,4,6,3,6,1,"LISMAN, Alabama (36912)",2,"RAINELLE, West Virginia (25962)",4,2,15,1,1,5,1,1,3,Real Estate Agent,3,2,3,6,3,4,,,1,,,,1,4,2,3,1,3,2,1,4,3,1,2,1,3,4,4,5,3,4,5,4,5,4,3,4,5
+104608669,Completed,US,NY,1,2,6,1,4,5,"RAINELLE, West Virginia (25962)",1,"ETHRIDGE, Tennessee (38456)",3,1,22,1,1,3,3,2,,,,,4,1,3,3,,,,,1,,1,1,4,2,3,2,4,1,3,3,2,3,1,5,5,5,5,5,5,3,4,4,3,4,4,3
+104608685,Completed,US,NY,2,1,1,1,1,1,"ETHRIDGE, Tennessee (38456)",6,"MOUNTAIN HOME, Arkansas (72653)",4,4,9,1,1,1,2,3,5,Marketing Manager,1,2,3,4,3,3,1,,,,,,1,3,2,4,1,3,2,4,1,3,2,2,1,4,3,3,3,3,3,4,4,3,4,4,5,5
+104608707,Started,US,NY,1,5,5,3,4,6,"YORK, Alabama (36925)",4,"WEAVER, Alabama (36277)",2,5,25,1,3,2,1,1,7,,4,3,,,,,,,,,,,2,2,3,1,4,3,4,1,2,2,2,1,2,4,5,1,4,4,3,3,1,2,4,1,2,5
+104608777,Completed,US,NY,1,6,3,8,4,2,,3,,3,1,,1,3,2,4,4,,,,,3,3,2,5,,1,,,,,2,1,3,4,2,3,2,1,4,3,2,1,3,5,2,1,3,1,1,3,4,5,5,1,5,4
+104608778,Completed,US,NY,1,2,4,8,7,4,,4,,2,3,,2,3,1,2,4,,,,,2,6,3,5,1,1,,,,,2,3,4,1,2,3,2,4,1,5,1,3,3,2,4,3,1,4,5,3,3,3,3,4,3,2
+104608781,Completed,US,NY,2,5,6,3,5,6,,5,,5,2,,2,2,3,4,2,,,,,1,3,1,5,1,1,1,,1,,1,1,2,3,4,2,4,3,1,1,1,2,3,1,3,4,1,4,3,2,3,4,2,4,5,1
+104608783,Completed,US,NY,1,5,4,7,8,6,,5,,5,2,,1,3,1,5,4,,,,,2,3,3,2,1,,1,,,,4,3,1,4,2,3,2,4,1,2,1,1,3,5,3,5,4,3,1,3,3,3,5,2,3,3
+104608785,Completed,US,NY,1,5,5,7,3,6,,2,,4,3,,1,2,2,5,2,,,,,2,6,2,2,1,,1,,,,1,4,3,2,1,2,1,3,4,2,2,3,3,5,1,2,3,2,5,1,3,4,5,4,5,4
+104608786,Completed,US,NY,2,4,1,6,3,2,,4,,4,1,,1,3,3,2,4,,,,,1,6,2,4,1,,,1,,,1,2,3,4,1,1,4,3,2,4,1,1,1,3,1,2,3,1,4,1,4,3,5,1,1,2
+104608787,Completed,US,NY,1,4,3,7,8,6,,3,,4,3,,1,3,3,2,1,,,,,4,4,3,3,1,,1,,,,4,4,3,1,2,3,1,4,2,5,2,1,1,4,3,3,5,1,1,1,2,2,5,2,2,2
+104608788,Completed,US,CA,1,3,1,5,5,4,,7,,2,4,,1,2,5,2,3,,,,,1,1,1,5,1,,,,1,,1,2,3,4,1,2,4,3,1,4,2,3,1,3,3,1,5,2,4,4,1,5,5,1,5,1
+104608789,Completed,US,NY,1,4,3,1,4,1,,7,,1,4,,1,2,4,1,3,,,,,1,1,2,1,,1,,,,,3,4,3,1,2,3,2,1,4,5,2,1,1,3,5,1,1,1,4,2,5,5,1,3,3,2
+104608791,Completed,US,NY,1,1,3,6,5,4,,4,,1,4,,2,1,3,2,2,,,,,2,2,2,5,1,,,,1,,1,4,1,3,2,3,2,4,1,1,2,1,2,4,4,1,2,4,3,2,1,2,5,1,4,2
+104608792,Completed,US,NY,1,1,2,5,5,2,,2,,3,3,,1,1,4,4,2,,,,,5,6,3,1,,1,1,1,,,3,2,1,3,4,1,4,2,3,5,2,1,2,5,3,3,4,5,3,4,3,1,5,5,5,2
+104608793,Completed,US,NY,1,3,3,8,1,4,,7,,1,1,,1,2,5,5,4,,,,,1,3,1,1,1,,1,,,,2,1,3,2,4,4,3,2,1,1,3,1,3,5,1,3,5,4,1,2,2,4,1,1,2,1
+104608794,Completed,US,,2,3,6,2,2,2,,5,,2,2,,2,2,4,4,1,,,,,3,4,2,5,,,,,,1,1,1,4,3,2,3,1,2,4,5,3,1,1,2,5,1,4,1,2,3,4,3,5,4,3,2
+104608796,Completed,US,NY,2,1,3,2,2,2,,5,,3,3,,1,1,2,3,3,,,,,1,3,3,1,1,,,,,,1,3,2,4,1,1,3,4,2,3,2,3,1,2,5,2,3,5,5,2,3,3,3,2,5,1
+104608799,Completed,US,NY,1,7,6,2,4,5,,7,,3,2,,1,3,5,1,1,,,,,2,6,2,2,1,1,,,1,,1,3,1,4,2,4,1,2,3,2,2,1,2,4,4,3,1,3,2,3,1,3,2,1,2,1
+104608800,Completed,US,NJ,2,7,3,7,1,3,,3,,3,5,,2,1,2,3,3,,,,,2,4,3,4,,1,,1,,,3,4,1,2,3,3,4,2,1,3,3,3,3,5,1,4,5,1,4,1,1,1,5,5,1,2
+104608801,Completed,US,NY,1,1,4,2,4,1,,2,,5,3,,2,3,4,2,1,,,,,3,5,3,4,1,1,,1,1,,1,1,2,3,4,1,2,3,4,2,3,2,1,3,2,3,1,1,1,1,1,5,4,3,1,4
+104608810,Completed,US,NY,1,6,2,5,5,3,,7,,5,4,,2,1,2,4,1,,,,,4,3,1,5,,1,1,,,,2,2,3,4,1,3,2,4,1,3,2,1,2,5,2,2,4,3,4,5,5,2,1,5,1,1
+104608905,Completed,US,NY,1,5,4,1,7,2,"LISMAN, Alabama (36912)",6,"EATON, Ohio (45320)",5,1,18,1,1,3,1,3,10,Chef,4,2,,,,,,,,,,,1,4,2,1,3,1,3,4,2,3,2,3,1,5,3,4,5,5,3,4,5,3,4,5,5,5
+104608906,Completed,US,NY,1,3,6,5,1,6,"YORK, Alabama (36925)",6,"YORK, Alabama (36925)",5,2,8,1,3,5,4,3,11,Teacher,1,2,,,,,,,,,,,1,2,4,1,3,2,4,1,3,4,1,3,1,4,3,3,5,5,3,4,4,3,4,3,3,3
+104608910,Completed,US,NY,2,7,3,4,2,6,"ETHRIDGE, Tennessee (38456)",6,"ASHLAND, Alabama (36251)",4,4,10,1,1,1,4,3,2,Nurse,1,2,,,,,,,,,,,1,4,2,3,1,4,2,1,3,5,1,3,1,3,4,5,3,4,3,5,3,5,3,4,3,5
+104608914,Completed,US,NY,2,4,3,1,1,5,"LISMAN, Alabama (36912)",2,"KENNEDY, Alabama (35574)",1,3,11,1,1,3,3,1,6,Accountant,1,2,,,,,,,,,,,1,3,1,4,2,2,3,1,4,4,1,2,1,3,3,5,3,3,4,5,3,4,5,3,4,3
+104608921,Completed,US,NY,2,2,6,1,5,2,"MOUNTAIN HOME, Arkansas (72653)",1,"KENNEDY, Alabama (35574)",4,1,30,1,1,1,3,3,,,,,4,1,3,4,,,,,,1,1,1,3,4,2,2,4,3,1,4,1,3,1,4,4,3,4,4,4,4,5,3,4,4,3,3
+104608943,Completed,US,NY,2,4,6,6,3,3,"ETHRIDGE, Tennessee (38456)",5,"MOUNTAIN HOME, Arkansas (72653)",1,4,16,1,2,2,2,3,18,Dentist,1,2,,,,,,,,,,,1,1,3,2,4,3,2,1,4,3,1,1,1,3,4,3,5,5,5,5,3,3,3,4,4,3
+104608958,Completed,US,NY,,,,,,,,,,,,,,,,,,19,Nurse,2,2,,,,,,,,,,,1,3,4,2,1,4,1,3,2,4,3,3,1,5,4,3,4,3,4,5,3,3,5,5,4,3
+104608960,Completed,US,NY,1,7,2,4,7,5,"EATON, Ohio (45320)",6,"RAINELLE, West Virginia (25962)",5,2,25,1,3,5,3,2,19,Electrician,1,2,,,,,,,,,,,1,2,4,3,1,3,1,2,4,3,2,1,1,3,5,3,5,4,4,4,4,4,5,3,5,3
+104608962,Completed,US,NY,,,,,,,,,,,,,,,,,,12,Chef,2,2,,,,,,,,,,,1,3,1,2,4,2,1,3,4,3,1,1,1,5,5,4,4,3,4,5,3,4,3,5,5,3
+104608963,Completed,US,NY,1,7,2,7,6,6,"FRANKLIN, Virginia (23851)",6,"ETHRIDGE, Tennessee (38456)",2,3,19,1,2,2,2,2,14,Nurse,2,2,,,,,,,,,,,1,3,1,2,4,1,3,2,4,3,2,2,1,5,5,5,3,4,4,3,5,4,4,3,5,5
+104608964,Completed,US,NY,2,2,4,5,3,4,"ETHRIDGE, Tennessee (38456)",3,"RAINELLE, West Virginia (25962)",1,5,15,1,1,5,5,4,8,Electrician,3,2,,,,,,,,,,,1,2,1,3,4,2,3,1,4,5,3,2,1,5,5,4,5,4,4,3,5,3,4,3,3,4
+104608971,Completed,US,NY,2,2,5,7,1,5,"FRANKLIN, Virginia (23851)",6,"KENNEDY, Alabama (35574)",3,3,14,1,3,1,1,1,,,,,4,5,3,5,,,,1,,,1,2,1,3,4,3,4,1,2,5,3,2,1,5,5,3,3,3,4,5,5,3,5,3,3,4
+104609101,Completed,US,NY,1,1,6,7,2,2,"LISMAN, Alabama (36912)",7,"WEAVER, Alabama (36277)",5,3,15,1,2,3,1,2,18,Software Developer,3,2,5,3,3,3,,,,1,,,1,2,4,1,3,3,4,2,1,3,2,1,1,5,5,4,4,5,4,5,5,4,4,3,5,4
+104609102,Completed,US,,1,4,6,2,1,4,"LISMAN, Alabama (36912)",7,"MOUNTAIN HOME, Arkansas (72653)",5,1,22,1,3,2,4,3,,,,,3,6,3,4,,1,,,,,1,3,1,4,2,1,4,2,3,5,1,1,1,5,4,4,3,3,4,4,4,4,5,5,5,4
+104609103,Completed,US,NY,2,3,5,2,4,5,"FRANKLIN, Virginia (23851)",7,"WEAVER, Alabama (36277)",3,5,20,1,2,1,3,4,3,Engineer,1,2,3,5,3,3,,,1,,,,1,2,1,3,4,1,2,4,3,5,3,1,1,5,5,4,4,5,5,3,3,4,3,3,5,4
+104609105,Completed,US,NY,2,2,2,3,8,2,"ETHRIDGE, Tennessee (38456)",3,"YORK, Alabama (36925)",3,3,13,1,3,4,5,3,10,Real Estate Agent,2,2,5,3,3,4,,,,,,1,1,1,3,2,4,1,2,3,4,4,3,3,1,4,5,4,3,4,3,4,4,4,5,3,5,3
+104609106,Completed,US,NY,2,2,1,8,2,2,"FRANKLIN, Virginia (23851)",1,"LISMAN, Alabama (36912)",3,2,13,1,2,4,2,2,6,Software Developer,4,2,3,2,3,5,,,1,,,,1,4,1,2,3,1,4,2,3,5,3,3,1,5,3,5,3,5,5,4,5,4,5,4,4,5
+104609107,Completed,US,NY,2,1,3,2,7,4,"RAINELLE, West Virginia (25962)",5,"RAINELLE, West Virginia (25962)",2,3,16,1,1,4,2,3,5,Marketing Manager,4,2,4,5,3,4,,,,,,1,1,4,3,2,1,1,2,4,3,3,3,2,1,4,5,4,4,5,4,5,4,3,4,4,4,5
+104609108,Completed,US,NY,1,1,6,4,7,6,"RAINELLE, West Virginia (25962)",5,"FRANKLIN, Virginia (23851)",4,1,11,1,2,2,1,4,,,,,3,6,3,5,,1,,,,,1,3,4,1,2,4,2,3,1,4,3,1,1,4,4,5,3,5,4,4,4,3,3,5,4,3
+104609109,Completed,US,NY,2,5,4,7,1,5,"WEAVER, Alabama (36277)",1,"MOUNTAIN HOME, Arkansas (72653)",1,4,9,1,1,5,1,2,18,Sales Representative,3,2,3,3,3,4,,1,,,,,1,1,3,2,4,2,1,3,4,4,1,1,1,4,4,3,4,5,4,4,4,4,3,3,4,4
+104609110,Completed,US,NJ,1,6,4,5,6,4,"EATON, Ohio (45320)",3,"ETHRIDGE, Tennessee (38456)",1,5,22,1,1,4,4,1,19,Architect,2,2,3,6,3,5,,,1,,,,1,4,3,2,1,3,1,2,4,5,3,2,1,3,4,4,5,5,5,5,5,4,4,5,4,4
+104609111,Completed,US,NY,1,5,2,6,2,4,"MOUNTAIN HOME, Arkansas (72653)",7,"EATON, Ohio (45320)",5,4,19,1,1,2,5,3,,,,,5,2,3,4,,,,,1,,1,2,3,4,1,4,1,2,3,3,1,2,1,3,5,5,5,3,3,4,4,5,5,3,5,3
+104609112,Completed,US,NY,1,4,2,6,6,1,"MOUNTAIN HOME, Arkansas (72653)",1,"YORK, Alabama (36925)",4,4,8,1,3,2,4,2,,,,,4,3,3,4,,,1,,,,1,4,1,2,3,3,4,1,2,4,1,2,1,3,3,4,4,5,4,3,4,3,4,3,3,4
+104609113,Completed,US,NY,2,6,3,8,6,2,"WEAVER, Alabama (36277)",4,"EATON, Ohio (45320)",5,1,22,1,3,2,3,2,6,Sales Representative,2,2,5,3,3,4,,,1,,,,1,2,1,4,3,4,2,3,1,5,2,1,1,4,5,3,3,3,5,3,3,5,5,4,3,5
+104609114,Completed,US,NY,2,4,6,8,1,6,"WEAVER, Alabama (36277)",7,"ASHLAND, Alabama (36251)",1,2,11,1,1,4,5,4,8,Dentist,4,2,3,5,3,3,1,,,,,,1,4,3,2,1,1,4,2,3,5,2,3,1,4,3,5,3,3,3,4,3,3,5,5,5,3
+104609117,Completed,US,NY,2,2,6,7,3,2,"KENNEDY, Alabama (35574)",4,"RAINELLE, West Virginia (25962)",3,1,18,1,1,5,5,4,,,,,3,1,3,5,,,1,,,,1,2,4,1,3,4,3,2,1,3,3,3,1,3,5,4,5,3,3,3,4,5,5,3,4,3
+104609118,Completed,US,NY,1,2,6,3,1,4,"KENNEDY, Alabama (35574)",5,"LISMAN, Alabama (36912)",4,1,11,1,1,4,3,1,,,,,5,6,3,3,,,1,,,,1,1,2,3,4,1,2,4,3,3,1,1,1,4,5,5,3,3,5,5,5,5,4,4,4,3
+104609119,Completed,US,NY,2,5,5,2,5,2,"KENNEDY, Alabama (35574)",5,"KENNEDY, Alabama (35574)",2,4,12,1,1,2,1,4,,,,,3,5,3,4,1,,,,,,1,2,3,4,1,1,2,3,4,3,1,3,1,3,5,3,3,3,3,4,5,3,5,5,5,5
+104609120,Completed,US,NY,2,4,3,6,6,2,"RAINELLE, West Virginia (25962)",5,"ETHRIDGE, Tennessee (38456)",1,1,10,1,1,3,1,2,6,Accountant,4,2,5,1,3,5,,1,,,,,1,2,1,3,4,4,2,1,3,4,1,1,1,5,3,4,4,5,5,3,3,3,5,5,3,4
+104609121,Completed,US,NY,1,3,1,5,3,6,"LISMAN, Alabama (36912)",4,"FRANKLIN, Virginia (23851)",5,1,17,1,3,5,1,2,,,,,3,6,3,4,1,,,,,,1,1,3,2,4,1,2,4,3,4,3,1,1,5,4,4,5,3,3,3,5,4,4,4,4,5
+104609122,Completed,US,NY,2,4,2,1,3,4,"RAINELLE, West Virginia (25962)",2,"KENNEDY, Alabama (35574)",5,5,15,1,1,1,3,1,,,,,4,6,3,5,,,,,1,,1,2,4,3,1,4,2,1,3,3,3,1,1,5,3,4,3,3,5,5,5,4,4,4,3,4
+104609328,Completed,US,IL,1,3,1,2,5,3,"BRANSON, Colorado (81027)",2,"BRANSON, Colorado (81027)",2,2,1,2,1,1,3,3,10,Bank clerk,3,2,4,2,1,3,1,,1,,,,3,3,1,2,4,3,1,2,4,4,2,2,2,4,3,4,4,4,4,5,5,4,4,4,4,4
+104609520,Completed,US,GA,1,3,2,3,5,4,,4,,2,,,1,2,3,5,3,4,,4,2,3,3,2,4,,1,,1,,,3,3,0,0,0,,,,,3,2,1,1,3,3,4,3,2,4,3,2,3,3,4,3,2
+104609570,Completed,DE,,1,3,2,1,5,4,"BLOOMFIELD HILLS, Michigan (48302)",4,"CRAIG, Colorado (81625)",4,3,15,1,2,4,5,3,6,Training consultant,3,3,2,4,2,4,1,,1,,,,3,3,1,2,4,2,1,3,4,3,2,2,2,2,3,4,2,3,4,3,2,4,3,2,4,2
+104609600,Completed,US,,1,4,2,2,2,4,"Lecoma, Missouri, US (65540)",5,"COLUMBIA, Maryland (21044)",3,2,1,1,2,3,3,3,5,agent,1,2,2,4,1,3,,1,,,,,1,1,2,4,3,2,3,1,4,1,2,1,1,4,4,4,4,5,5,4,4,4,4,4,5,5
+104609849,Completed,US,TN,2,3,2,2,2,2,"SALEM, Oregon (97301)",2,"SALEM, Oregon (97301)",3,2,5,2,2,3,4,2,7,Counseling psychologist,3,2,4,5,1,2,,,1,,,,2,1,2,3,4,1,2,3,4,1,1,1,2,5,4,5,4,5,5,5,5,5,5,5,5,5
+104609866,Completed,US,FL,2,3,1,1,6,1,,1,,2,4,,2,1,2,3,3,10,,3,2,3,4,1,3,,,1,,,,3,,,,,,,,,,1,1,1,4,3,3,3,4,2,3,2,2,2,4,2,3
+104609934,Completed,US,,2,4,1,4,5,2,"RAINELLE, West Virginia (25962)",4,"LISMAN, Alabama (36912)",5,2,20,1,1,1,5,1,,,,,5,4,3,5,,,,,,1,1,4,1,3,2,4,1,3,2,5,2,2,1,5,3,5,5,3,4,4,4,3,4,5,3,3
+104609935,Completed,US,NY,1,4,2,6,1,3,"RAINELLE, West Virginia (25962)",2,"KENNEDY, Alabama (35574)",3,5,15,1,3,1,4,1,,,,,3,6,3,3,,,,,1,,1,2,3,4,1,1,4,3,2,5,3,2,1,3,4,5,4,4,4,3,5,4,5,5,3,4
+104609937,Completed,US,NY,2,7,5,1,3,1,"ASHLAND, Alabama (36251)",2,,5,3,11,1,1,1,5,4,5,Electrician,4,2,5,1,3,4,1,,,,,,1,4,2,3,1,1,3,2,4,5,3,1,1,3,5,4,4,4,3,3,3,5,4,3,4,3
+104609939,Completed,US,NY,2,5,1,7,4,3,"YORK, Alabama (36925)",2,"KENNEDY, Alabama (35574)",3,3,14,1,1,2,3,2,8,Attorney,2,2,3,6,3,5,,,,,,1,1,4,2,3,1,3,1,4,2,3,1,2,1,3,4,4,3,5,5,3,4,5,3,5,4,5
+104609940,Completed,US,NY,1,5,5,7,3,5,"RAINELLE, West Virginia (25962)",4,"LISMAN, Alabama (36912)",5,1,19,1,2,5,5,2,,,,,5,1,3,5,1,,,,,,1,1,2,4,3,4,2,1,3,4,3,1,1,4,4,5,4,4,4,3,5,5,5,5,4,5
+104609941,Completed,US,NY,1,3,1,8,1,1,"RAINELLE, West Virginia (25962)",1,"FRANKLIN, Virginia (23851)",1,3,30,1,3,3,3,2,,,,,5,5,3,3,,,,,,1,1,3,4,1,2,1,4,2,3,3,2,2,1,3,3,4,5,4,5,4,4,5,3,5,5,5
+104609943,Completed,US,NY,2,6,4,2,7,6,"KENNEDY, Alabama (35574)",1,"LISMAN, Alabama (36912)",2,2,15,1,2,3,4,3,4,Attorney,4,2,,,,,,,,,,,1,3,1,4,2,3,2,1,4,4,2,1,1,4,5,5,4,3,4,3,4,4,4,3,3,4
+104609944,Completed,US,NY,2,2,3,7,6,5,"WEAVER, Alabama (36277)",1,"WEAVER, Alabama (36277)",4,3,10,1,3,2,1,4,19,Veterinarian.,4,2,4,4,3,4,,,,,1,,1,2,1,4,3,4,3,1,2,3,1,2,1,5,4,3,4,3,3,3,4,4,5,3,4,3
+104609945,Completed,US,NY,2,4,4,4,7,2,"KENNEDY, Alabama (35574)",4,"FRANKLIN, Virginia (23851)",4,5,12,1,1,4,1,4,17,Web Developer,3,2,,,,,,,,,,,1,2,4,1,3,3,4,2,1,3,3,1,1,5,5,4,4,4,3,3,4,4,5,5,3,3
+104609947,Completed,US,NY,1,5,6,3,6,6,"ASHLAND, Alabama (36251)",4,"WEAVER, Alabama (36277)",2,3,16,1,2,5,2,3,,,,,4,3,3,4,,,,,,1,1,3,4,1,2,2,1,4,3,5,2,2,1,4,5,4,3,3,3,5,3,5,3,4,5,3
+104609948,Completed,US,NY,1,1,2,8,3,5,"KENNEDY, Alabama (35574)",2,"WEAVER, Alabama (36277)",3,1,17,1,2,5,1,4,9,Web Developer,4,2,5,6,3,4,,,,1,,,1,2,3,4,1,3,1,2,4,5,2,3,1,5,5,3,3,4,4,3,5,3,4,5,4,3
+104609953,Completed,US,NJ,1,7,3,4,8,3,"KENNEDY, Alabama (35574)",4,"ETHRIDGE, Tennessee (38456)",3,1,15,1,1,2,1,3,1,Architect,4,2,4,1,3,3,1,,,,,,1,2,4,3,1,3,4,1,2,3,3,2,1,3,5,5,5,3,3,4,3,3,3,3,4,5
+104609954,Completed,US,NY,1,5,6,6,4,6,"ETHRIDGE, Tennessee (38456)",6,"MOUNTAIN HOME, Arkansas (72653)",2,3,10,1,3,4,1,4,,,,,3,6,3,5,,1,,,,,1,2,4,3,1,1,3,4,2,5,1,2,1,4,5,3,5,4,3,4,4,3,3,4,4,5
+104609955,Completed,US,NY,1,6,6,5,3,6,"WEAVER, Alabama (36277)",3,"RAINELLE, West Virginia (25962)",5,3,19,1,1,5,3,1,12,Veterinarian.,3,2,4,2,3,4,1,,,,,,1,4,3,2,1,4,3,1,2,3,3,2,1,4,3,4,5,5,3,3,3,3,5,4,5,3
+104609956,Completed,US,NY,1,3,1,8,7,3,"KENNEDY, Alabama (35574)",6,"LISMAN, Alabama (36912)",2,2,12,1,2,1,2,2,,,,,4,4,3,3,,,,1,,,1,3,4,1,2,4,2,1,3,5,1,2,1,5,3,3,3,5,4,5,4,5,3,3,5,4
+104609957,Completed,US,NY,1,4,1,8,6,2,"ASHLAND, Alabama (36251)",5,"WEAVER, Alabama (36277)",3,1,17,1,3,5,2,1,1,Marketing Manager,2,2,5,1,3,3,,,,1,,,1,2,3,4,1,2,4,3,1,5,2,3,1,5,4,3,3,4,4,3,4,5,4,4,3,3
+104609963,Completed,US,NY,2,5,3,8,6,5,"MOUNTAIN HOME, Arkansas (72653)",4,"FRANKLIN, Virginia (23851)",4,4,11,1,3,5,1,3,4,Software Developer,2,2,4,1,3,4,,,,1,,,1,1,2,3,4,1,3,4,2,3,2,1,1,4,4,3,5,3,3,4,5,5,3,3,3,5
+104609965,Completed,US,NY,,,,,,,,,,,,,,,,,,7,Architect,4,2,3,6,3,3,,,,,,1,1,3,4,2,1,2,3,1,4,5,1,1,1,3,4,3,5,5,3,3,3,4,4,4,4,3
+104610239,Completed,US,NY,1,2,1,1,5,2,"SALEM, Virginia (24153)",1,"ROANOKE, Virginia (24016)",3,2,8,2,1,1,4,3,6,marketing personnel,3,3,2,2,2,4,1,,,,,,4,3,1,2,4,4,2,1,3,4,2,2,2,3,2,4,2,4,4,5,4,4,3,3,2,4
+104610358,Completed,US,IA,1,3,3,4,4,3,"NEW ORLEANS, Louisiana (70125)",3,"NEW ORLEANS, Louisiana (70125)",2,2,10,2,2,3,3,2,4,it,1,1,3,3,2,2,,1,,,,,2,1,2,3,4,1,3,2,4,2,1,2,1,1,1,1,1,2,1,5,3,1,2,2,5,4
+104610487,Completed,US,NY,1,5,2,2,7,6,,5,,1,4,,2,1,1,2,4,,,,,4,5,1,1,,1,,,,,4,1,4,2,3,4,2,1,3,1,1,1,1,5,2,3,3,2,1,4,3,5,1,2,4,2
+104610489,Completed,US,NY,1,6,3,4,4,3,,3,,3,1,,1,2,1,4,2,,,,,2,5,2,3,,,,,,1,1,2,3,4,1,3,2,1,4,3,2,3,2,1,3,3,5,4,3,1,1,5,5,4,5,4
+104610491,Completed,US,NY,2,1,6,8,8,4,,5,,4,4,,1,3,5,5,1,,,,,4,4,3,2,1,1,1,1,,,2,1,4,3,2,2,1,3,4,4,2,1,3,5,2,5,4,4,2,5,5,2,2,5,5,3
+104610492,Completed,US,NY,2,1,3,8,4,3,,5,,4,3,,2,2,3,4,3,,,,,3,6,2,5,1,1,1,,,,2,3,4,1,2,2,4,3,1,1,3,3,2,4,2,4,2,5,5,5,3,2,2,1,1,1
+104610494,Completed,US,NY,1,5,6,8,4,4,,4,,5,4,,2,3,1,5,4,,,,,3,2,3,3,,,1,1,,,4,3,4,2,1,2,3,4,1,1,1,3,3,2,3,3,4,5,3,1,5,4,3,3,2,2
+104610495,Completed,US,NJ,1,4,5,1,5,2,,7,,5,5,,1,3,2,3,3,,,,,4,4,2,2,,,,,,1,2,4,2,3,1,3,2,1,4,1,3,1,3,2,4,1,5,2,1,2,2,5,3,5,4,5
+104610496,Completed,US,NY,1,4,3,1,1,5,,6,,5,2,,2,3,4,3,1,,,,,1,1,1,4,,,1,1,1,,1,3,4,2,1,1,4,2,3,4,2,3,3,4,3,3,2,5,1,1,5,1,4,2,1,4
+104610497,Completed,US,NY,2,5,1,4,8,4,,6,,5,4,,2,2,2,5,2,,,,,4,1,3,3,1,,,,,,2,2,1,3,4,1,3,4,2,4,1,2,1,1,5,3,4,3,4,1,5,1,4,4,1,5
+104610498,Completed,US,NY,2,1,2,6,6,5,,2,,3,1,,1,2,4,5,1,,,,,2,3,2,5,1,,,,1,,3,1,2,3,4,1,2,3,4,5,1,2,1,4,3,3,2,1,3,5,4,1,5,3,5,3
+104610499,Completed,US,NY,2,6,1,3,7,2,,4,,5,1,,1,2,2,5,2,,,,,1,3,3,4,,1,,,,,4,3,2,4,1,1,3,4,2,1,2,3,1,2,4,2,5,1,1,5,2,3,4,1,4,5
+104610500,Completed,US,NY,2,6,4,1,2,2,,1,,2,3,,2,3,1,2,4,,,,,4,4,2,5,1,,1,,1,,3,4,1,3,2,2,4,3,1,1,1,2,3,2,3,3,1,5,3,4,3,5,4,3,4,5
+104610501,Completed,US,NY,1,4,1,3,7,5,,6,,2,1,,1,1,4,3,1,,,,,3,2,3,5,,,,,1,,2,4,2,1,3,1,3,4,2,1,2,3,1,2,5,5,3,4,2,2,5,2,4,3,3,2
+104610503,Completed,US,NY,2,1,1,2,3,3,,5,,1,1,,2,3,1,5,3,,,,,2,2,2,1,1,,1,,,,4,2,3,1,4,2,3,4,1,1,1,1,3,5,4,2,4,3,3,4,3,2,3,2,1,4
+104610506,Completed,US,NY,1,4,6,6,6,3,,4,,2,5,,1,1,2,5,1,,,,,4,2,3,2,,1,,,1,,1,1,2,4,3,4,2,1,3,1,3,2,1,3,4,5,3,5,5,2,1,5,5,3,2,2
+104610507,Completed,US,NY,2,7,3,2,3,4,,1,,2,3,,2,2,5,1,1,,,,,3,5,2,1,1,,1,,1,,2,2,3,1,4,4,1,3,2,5,1,2,2,1,5,1,5,4,2,3,2,1,1,4,4,5
+104610508,Completed,US,NY,1,6,3,8,1,6,,6,,5,2,,2,2,5,3,3,,,,,3,3,2,5,,,,,,1,4,1,2,3,4,3,1,4,2,5,1,3,1,5,3,3,4,3,2,3,2,1,2,2,4,4
+104610510,Completed,US,NY,1,1,5,4,8,5,,4,,2,1,,2,3,1,2,3,,,,,3,6,2,5,1,1,1,1,,,3,3,1,4,2,4,3,1,2,1,1,1,2,2,1,3,2,1,3,5,5,1,4,1,4,3
+104610511,Completed,US,NJ,2,2,4,2,4,6,,3,,3,5,,2,2,2,3,1,,,,,3,5,2,5,,,,,,1,4,3,1,2,4,1,4,2,3,2,2,1,2,4,4,5,3,3,1,5,1,1,5,3,1,4
+104611051,Completed,US,NM,1,3,2,2,6,1,"HOWARD, Ohio (43028)",1,"HOWARD, Ohio (43028)",3,5,3,2,3,4,5,3,12,Technical director,1,1,1,4,2,4,,,,,,1,1,1,0,0,0,1,0,0,0,2,2,2,1,2,1,2,3,2,2,3,2,2,2,3,2,2
+104611334,Completed,PS,NBS,1,3,1,1,6,1,"BENT MOUNTAIN, Virginia (24059)",1,"BENT MOUNTAIN, Virginia (24059)",2,3,40,2,1,1,3,2,6,employee,3,3,3,4,2,4,,1,1,1,,,1,2,1,3,4,3,2,1,4,3,2,3,1,5,3,5,2,2,2,4,5,5,4,4,4,5
+104611427,Completed,US,NY,1,3,1,1,2,2,,2,,,,,2,2,3,5,2,1,,4,3,3,3,2,4,,,1,,,,3,,,,,,,,,4,3,2,1,4,3,3,4,3,3,4,4,3,3,4,4,3
+104611688,Completed,US,CT,1,3,2,1,5,2,"CHARLOTTE COURT HOUSE, Virginia (23923)",2,"CHARLOTTE COURT HOUSE, Virginia (23923)",3,4,5,1,3,4,5,3,4,designer,1,3,1,2,2,4,,,,,1,,3,1,0,0,0,0,0,0,1,2,2,2,1,2,2,2,2,3,3,2,5,,2,3,3,3
+104611873,Completed,US,WV,1,4,2,1,7,1,"BENT MOUNTAIN, Virginia (24059)",1,"BENT MOUNTAIN, Virginia (24059)",4,3,25,1,2,4,4,3,9,manager,3,3,2,4,3,5,1,,,,,,1,2,1,3,4,2,1,3,4,4,1,2,2,5,5,5,5,3,4,5,5,4,4,4,5,5
+104612243,Completed,US,NY,1,3,2,1,5,6,"SAN JOSE, California (95113)",6,"FRANKLIN, Idaho (83237)",4,3,18,2,2,4,5,3,17,Multimedia artist,4,3,2,4,2,4,1,,,,,,3,3,1,2,4,2,1,3,4,3,2,2,1,,3,4,3,2,3,4,2,3,2,4,2,3
+104612847,Completed,US,CA,1,3,2,2,6,1,"HOWARD, Ohio (43028)",1,"HOWARD, Ohio (43028)",3,5,3,1,3,4,5,3,13,General manager,1,3,1,4,3,4,,,,,,1,4,1,0,0,0,1,0,0,0,2,3,3,1,2,1,3,3,2,3,2,3,2,3,2,3,2
+104612939,Completed,US,FL,1,4,2,1,5,2,"MARQUETTE, Michigan (49855)",2,"MARQUETTE, Michigan (49855)",2,2,3,1,2,4,4,3,7,supermarket,4,2,4,3,2,3,1,,1,,1,,3,2,1,3,4,2,1,3,4,2,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104613039,Completed,US,VA,1,3,2,1,7,1,"ASHBURN, Virginia (20149)",1,"ASHBURN, Virginia (20149)",3,1,18.5,2,2,4,4,2,6,Foreign Trade Business Assistant,1,2,3,2,2,3,1,,,,,,3,2,3,4,1,2,1,3,4,2,2,3,1,3,1,3,5,3,2,2,3,4,2,1,2,5
+104613191,Completed,US,TX,2,4,2,2,6,1,"HOWARD, Ohio (43028)",1,"HOWARD, Ohio (43028)",4,5,6,2,3,4,5,3,7,Store manager,1,4,1,4,3,4,1,,,,,,4,1,0,0,0,1,0,0,0,3,2,2,1,2,1,3,3,2,3,2,3,2,3,2,3,2
+104613333,Completed,US,,1,2,1,2,2,2,,1,,,,,2,3,4,5,3,3,,2,3,2,4,2,3,,,1,,,,3,2,0,0,0,1,0,0,0,3,2,2,1,4,3,4,3,3,4,3,3,4,3,3,4,3
+104613424,Completed,US,TX,1,3,2,2,6,2,"CHARLOTTE COURT HOUSE, Virginia (23923)",2,"CHARLOTTE COURT HOUSE, Virginia (23923)",4,5,5,1,3,4,5,2,13,General manager,1,4,1,4,3,4,1,,,,,,4,1,0,0,0,1,0,0,0,3,2,2,1,2,3,2,4,2,4,3,3,2,,3,2,3
+104613693,Completed,US,TX,1,3,2,1,6,3,"NEW YORK, New York (10010)",3,"NEW YORK, New York (10010)",4,5,2,1,3,4,5,2,6,Wholesale boss,1,3,1,4,2,4,1,,,,,,4,0,0,1,0,0,0,1,0,3,2,2,1,2,3,3,2,2,3,2,3,2,3,2,3,2
+104613775,Completed,US,IL,1,3,2,1,3,3,,3,,3,2,,1,2,,,3,2,,2,3,2,3,2,4,,,1,,,,3,,,,,,,,,4,2,1,1,3,4,3,3,2,3,3,4,3,3,2,4,3
+104613909,Completed,US,MS,1,3,2,1,5,1,"HOWARD, Ohio (43028)",1,"HOWARD, Ohio (43028)",4,5,3,1,3,4,5,3,13,Technical director,1,3,1,3,2,4,1,,,,,,3,1,0,0,0,1,0,0,0,4,2,2,1,2,3,2,3,2,3,2,3,2,2,2,3,2
+104614188,Completed,US,TX,1,4,2,,5,1,"JEFFERSONVILLE, Indiana (47130)",1,"JEFFERSONVILLE, Indiana (47130)",2,2,4,1,2,3,3,2,4,Nursery and greenhouse manager,4,3,1,4,1,3,1,,,,,,4,1,2,3,4,1,2,0,4,,2,2,2,2,1,2,2,2,2,2,3,1,4,4,4,3
+104614211,Completed,US,MS,1,3,2,2,6,4,"MONDAMIN, Iowa (51557)",4,"MONDAMIN, Iowa (51557)",4,5,1,1,3,4,5,3,14,Personnel director,1,4,1,4,2,4,1,,,,,,3,0,0,1,0,0,1,0,0,3,2,2,2,2,3,2,2,3,2,3,3,2,3,2,2,3
+104615888,Completed,US,MD,1,4,2,5,5,3,"MIAMI, Florida (33169)",3,"MIAMI, Florida (33169)",3,2,1,1,2,3,4,3,15,teacher,3,2,4,1,1,3,1,,,,,,2,2,1,3,4,2,1,3,4,2,2,,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104616135,Completed,US,NE,1,2,1,3,5,5,"ALEXANDRIA, Minnesota (56308)",5,,2,3,12,2,3,3,3,3,5,manager,4,3,4,4,2,4,,,1,,,,4,2,1,3,4,4,3,2,1,2,2,3,1,5,4,4,2,4,5,5,5,4,4,4,5,5
+104618186,Completed,DE,,2,3,2,3,8,4,"WASHINGTON, District of Columbia (20004)",4,"WASHINGTON, District of Columbia (20004)",3,2,10,2,1,3,2,1,8,Warehouse Supervisor,3,3,4,4,3,4,,,1,,,,4,3,2,1,4,3,1,2,4,3,2,3,2,3,1,2,4,1,2,1,4,2,1,2,1,4
+104618426,Completed,US,,1,3,2,3,5,2,,2,,3,3,,1,2,3,,3,3,,3,3,3,4,,,,,1,,,,3,,,,,,,,,,1,1,1,3,4,3,3,4,3,3,2,4,3,3,2,3
+104619086,Completed,US,AZ,1,4,2,2,5,3,"KANSAS CITY, Missouri (64108)",3,"KANSAS CITY, Missouri (64108)",2,2,2,1,2,3,4,3,1,fisherman,4,2,4,1,1,3,,,,1,1,,3,2,1,3,4,2,1,3,4,3,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104620511,Completed,US,CA,1,3,4,1,5,5,"HAZELTON, North Dakota (58544)",3,"ROANOKE, Alabama (36274)",4,3,20,1,2,4,5,3,6,Petroleum refinery operator,4,2,2,2,2,4,1,,,,,,3,3,1,2,4,4,2,1,3,4,1,2,2,2,3,4,3,5,4,3,4,3,4,3,4,3
+104621234,Completed,PS,,,3,2,1,6,3,"SALEM, Virginia (24153)",3,"SALEM, Virginia (24153)",3,1,20,2,2,3,3,1,9,Systems Analyst,3,4,3,4,3,4,,1,,,,,1,4,2,1,3,4,1,2,3,2,2,2,1,3,1,1,2,1,3,2,4,2,1,1,1,4
+104622803,Completed,PS,JEN,2,4,,1,8,1,"ASHBURN, Virginia (20149)",1,"ASHBURN, Virginia (20149)",2,2,15,2,2,3,3,2,10,Bancassurance Account Manager,2,2,3,2,1,3,1,,,,,,2,4,2,3,1,4,1,3,2,4,1,1,2,3,2,4,5,2,3,2,3,3,2,1,3,4
+104623141,Completed,US,,2,3,2,1,5,5,"HOUSTON, Texas (77035)",4,"CRAIG, Colorado (81625)",5,3,15,1,2,4,5,3,17,Executive editor,4,2,2,3,2,4,1,,1,,,,3,3,1,2,4,2,1,3,4,4,2,2,2,,3,4,2,3,4,2,2,3,4,3,2,3
+104623751,Completed,US,,2,2,2,1,8,2,"SALEM, Oregon (97301)",2,"SALEM, Oregon (97301)",2,2,12.8,2,2,2,3,3,4,Accountants,2,2,4,2,1,3,,,,,1,,2,1,2,3,4,2,1,3,4,3,1,1,3,3,2,3,3,2,3,3,4,3,3,1,3,4
+104625436,Completed,US,,1,3,2,1,2,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,3,5,1,2,3,4,2,5,production supervisor,3,3,2,4,2,4,1,,1,1,,,4,3,2,1,0,0,0,3,4,1,2,3,1,3,3,3,3,2,2,3,3,3,2,3,2,
+104625437,Completed,US,FL,1,3,2,1,3,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,2,4,2,2,2,4,2,2,mining engineer,3,3,2,3,3,4,1,,1,1,,,4,3,2,0,0,0,4,3,2,2,3,3,2,2,3,3,2,3,2,3,3,3,3,3,3,2
+104625438,Completed,US,NC,1,4,2,1,2,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,3,5,1,1,3,3,2,3,Water engineer,3,3,3,3,2,3,,1,1,,1,,3,4,2,3,0,0,0,4,3,2,2,3,1,3,2,3,3,3,2,3,3,2,2,3,3,3
+104625440,Completed,US,IL,1,3,1,1,3,3,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,3,8,2,2,2,4,3,9,network engineer,3,3,3,3,3,4,1,,,1,,,4,4,3,0,0,0,0,3,2,2,2,3,2,3,3,3,2,2,2,3,2,3,3,2,3,2
+104625442,Completed,US,CA,1,3,1,1,3,3,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,2,4,1,2,2,3,2,10,Finance and insurance manager,3,3,2,4,3,3,1,,1,,,,4,3,2,1,0,0,0,3,4,1,2,3,1,3,2,2,3,2,3,2,2,2,2,2,2,
+104625445,Completed,US,CA,1,3,2,1,2,3,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,2,6,2,2,3,4,2,7,branch manager,3,3,3,3,2,3,,1,,1,,,3,3,4,0,0,0,3,2,4,2,3,2,2,3,2,3,2,3,3,2,2,3,3,2,3,2
+104625446,Completed,US,CA,1,3,2,1,3,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",3,2,5,1,1,3,3,2,11,real estate sales,3,2,2,4,3,4,1,1,1,1,,,3,3,2,0,0,2,0,3,4,2,2,3,2,4,2,3,3,2,3,3,2,2,2,2,3,3
+104625449,Completed,US,IL,1,3,1,1,2,3,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",4,2,6,2,2,2,4,2,17,stylist,3,3,3,3,2,3,1,1,1,1,,,4,4,3,0,0,0,1,3,4,2,2,2,1,3,3,2,3,3,3,3,2,3,2,2,2,2
+104625459,Completed,US,GA,2,4,2,1,6,2,"JOHNSON CITY, Tennessee (37615)",2,"SALEM, Iowa (52649)",4,3,10,2,2,3,5,3,17,Scientific photographer,4,3,2,3,2,4,,,1,,,,1,4,3,1,2,3,4,1,2,3,3,3,2,2,3,4,2,3,2,4,3,2,3,4,3,2
+104625592,Completed,IR,,1,4,2,1,2,1,"ROANOKE, Virginia (24005)",1,"ROANOKE, Virginia (24005)",3,3,8500,2,2,5,5,2,5,经理,4,2,2,3,3,4,1,,,,,,4,1,2,3,4,1,2,3,4,3,2,2,1,4,5,4,4,4,5,5,5,5,5,5,5,5
+104627033,Completed,US,TX,1,3,1,1,2,1,"ROANOKE, Indiana (46783)",1,"ROANOKE, Indiana (46783)",4,2,3,2,1,1,4,2,17,BBS&SNS,3,4,3,2,3,4,,,,,,1,4,4,2,1,3,4,2,1,3,5,2,3,1,3,2,4,2,4,4,3,4,4,4,4,3,4
+104627985,Completed,US,WA,2,4,2,1,6,2,"SALEM, New Jersey (08079)",2,"SALEM, New Jersey (08079)",5,3,10,1,2,4,5,3,5,Bleaching and dyeing machine operator,4,2,4,2,1,4,,,1,,,,2,4,3,1,2,4,3,1,2,3,3,3,2,2,,4,3,2,3,4,3,2,3,4,3,2
+104628095,Completed,LT,,1,3,2,1,3,1,"ROANOKE, Virginia (24009)",1,"ROANOKE, Virginia (24009)",3,3,8000,2,2,5,5,2,12,经理,3,4,4,4,3,4,1,,,,,,1,2,3,1,4,2,4,1,3,4,2,3,1,4,4,5,5,4,4,5,5,5,4,5,5,5
+104628267,Completed,US,VA,2,3,2,1,7,1,"BEATRICE, Nebraska (68310)",1,"OMAHA, Nebraska (68102)",3,4,40,1,2,3,4,3,5,Manager,3,1,1,1,2,2,1,,,,,,2,1,3,2,4,1,4,3,2,3,1,1,2,2,3,3,4,3,2,3,3,5,3,2,4,5
+104631036,Completed,US,CA,1,2,1,1,5,1,"ROANOKE, Virginia (24014)",1,"ROANOKE, Virginia (24014)",4,2,5,2,2,3,5,2,8,administrator,3,4,3,2,2,3,1,,,,,,1,1,2,3,4,3,1,2,4,3,2,3,2,3,2,4,4,4,2,1,4,4,4,4,3,4
+104631618,Completed,US,AZ,1,4,2,1,6,4,"CRAIG, Colorado (81626)",4,"CRAIG, Colorado (81626)",5,3,10,1,2,4,5,3,19,Employment assistant,4,3,4,4,3,4,1,,,,,,3,2,1,3,4,3,1,2,4,3,2,2,2,2,3,4,3,2,3,4,3,2,3,4,3,2
+104632038,Completed,US,,1,3,1,2,8,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Virginia (24011)",3,3,5,1,3,5,5,3,10,human resource manager,1,2,4,4,2,3,1,,,,,,4,1,2,3,4,1,2,3,4,1,1,1,2,4,4,5,3,4,2,4,1,4,3,2,5,5
+104633229,Completed,US,,1,3,1,3,6,,"ROANOKE, Illinois (61561)",1,"ROANOKE, Virginia (24011)",5,3,4,1,3,4,5,3,10,human resource manager,1,3,5,4,3,3,1,,,,,,1,1,2,3,4,1,2,3,4,1,1,1,2,5,4,5,3,4,3,4,5,2,3,2,4,5
+104633461,Completed,US,,1,4,2,3,5,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Virginia (24011)",4,3,5,1,3,4,5,4,10,human resource manager,1,4,4,4,3,3,1,,,,,,4,2,1,4,3,2,1,4,3,2,2,2,2,5,4,5,3,4,3,5,5,4,5,2,4,5
+104637202,Completed,US,VA,1,4,1,1,5,2,"SALEM, Virginia (24153)",3,"SALEM, Virginia (24153)",5,4,7,1,3,4,2,2,15,teacher,4,3,2,4,2,5,1,,,,,,1,3,4,2,1,3,4,2,1,1,2,3,3,4,4,4,4,5,4,4,4,4,4,4,4,4
+104637888,Completed,US,IN,1,3,1,1,5,6,"HARRISONBURG, Virginia (22801)",6,,3,2,30,2,2,3,4,2,7,employee,3,2,2,3,2,4,1,,1,,,,2,1,2,4,3,1,3,2,4,2,2,1,2,3,4,4,4,3,4,3,4,4,4,3,4,4
+104639865,Completed,US,MA,1,3,2,2,3,5,"TROUTVILLE, Virginia (24175)",5,,3,2,20,1,2,3,3,3,10,Financial adviser,3,2,2,3,2,4,1,,1,,,,2,1,3,2,4,1,3,2,4,1,1,2,1,4,4,3,4,3,4,3,4,4,3,4,4,3
+104640071,Completed,US,CA,1,3,2,1,5,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",,3,23,1,2,4,5,2,4,manager,3,3,4,4,2,3,,,,1,,,2,3,2,1,4,2,3,1,4,4,2,,1,3,2,4,4,4,5,3,2,4,3,5,4,4
+104640824,Completed,US,MI,2,4,2,1,5,1,"NORFOLK, Virginia (23523)",1,,4,3,25,1,2,3,4,2,6,salesman,4,2,4,4,2,4,1,,1,1,,,3,2,1,3,4,2,1,3,4,2,2,1,2,4,3,4,5,4,4,5,4,3,4,5,4,4
+104641199,Completed,US,AZ,2,3,2,2,4,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",3,3,15,1,3,4,5,2,5,manager,2,2,3,3,3,4,,,,1,,,2,2,1,3,4,1,2,3,4,4,2,2,2,4,3,5,4,5,3,4,3,5,4,5,3,4
+104641675,Completed,US,,1,3,1,3,6,,"ROANOKE, Illinois (61561)",1,"ROANOKE, Virginia (24011)",4,3,3,1,3,5,5,3,10,human resource manager,1,4,3,3,3,3,1,,,,,,4,1,2,3,4,1,2,3,4,2,2,2,1,5,4,5,4,3,4,3,5,4,4,3,3,5
+104641678,Completed,US,LA,1,3,3,1,,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",5,2,10,2,2,3,5,1,5,Electric worker,2,3,3,4,2,5,1,,,,,,2,2,4,1,3,1,3,2,4,3,1,3,1,4,3,5,4,3,4,4,3,5,4,3,4,4
+104641855,Completed,US,TN,1,2,1,1,5,1,"NORFOLK, Virginia (23529)",1,,4,2,30,2,1,1,3,2,4,worker,4,2,4,3,1,4,1,,1,,,,2,1,3,2,4,1,3,2,4,3,2,2,2,3,4,4,3,4,2,3,4,5,4,4,3,4
+104642160,Completed,US,IN,1,5,2,1,5,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",4,3,5,1,2,3,5,2,4,industrial engineering,3,4,3,4,1,4,1,,1,,,,4,1,2,3,4,1,2,3,4,2,1,1,1,4,3,5,4,5,5,4,4,2,4,3,5,4
+104642329,Completed,US,VA,2,3,2,2,5,1,"Norfolk, Virginia, US (23530)",1,,2,2,10,1,2,4,4,2,15,teacher,3,3,4,4,1,4,1,,1,1,,,2,2,1,4,3,2,1,4,3,2,2,1,1,4,3,4,5,4,3,4,5,5,4,4,5,4
+104642583,Completed,US,TX,1,2,1,1,5,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",2,1,5,1,3,3,5,2,9,partner,3,4,4,3,2,4,,,1,,,,3,1,3,2,4,1,3,2,4,3,2,1,1,4,3,5,4,5,5,4,3,5,4,5,3,4
+104642681,Completed,US,IL,1,3,2,1,6,1,"NORFOLK, Virginia (23521)",1,,5,3,30,1,2,3,3,2,16,Dental assistant,3,2,5,3,1,3,1,,,,,,2,1,2,3,4,1,2,3,4,1,1,1,2,4,3,4,5,4,4,3,4,5,4,4,5,5
+104642914,Completed,US,OH,1,3,2,1,5,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",3,,15,2,2,4,4,3,5,EE(electronics engineer),3,2,3,5,1,4,1,,,,,,2,1,3,2,4,1,2,3,4,3,3,1,1,3,2,5,4,5,3,5,4,3,4,3,4,4
+104642976,Completed,US,KY,2,2,1,2,5,1,"NORFOLK, Virginia (23541)",3,,3,2,10,2,3,3,4,2,11,Real estate consultant,3,3,3,4,2,4,1,1,1,,,,3,1,2,3,4,1,2,3,4,1,1,1,2,3,4,5,3,4,4,5,4,4,5,4,3,4
+104643213,Completed,US,IN,1,4,2,6,4,6,"COWAN, Tennessee (37318)",6,"COWAN, Tennessee (37318)",5,3,12,1,2,3,4,3,5,engineer,2,2,2,2,2,5,,,1,,,,3,1,2,3,4,1,2,3,4,3,1,1,2,4,3,5,4,5,3,4,3,4,3,5,4,4
+104660792,Completed,US,NC,1,2,,1,2,3,"WITTENSVILLE, Kentucky (41274)",1,"WITTENSVILLE, Kentucky (41274)",1,2,8,2,2,2,3,1,7,salesman,4,3,3,2,2,3,,,1,,,,4,4,2,1,3,4,3,1,2,3,3,3,1,3,2,4,1,3,4,3,4,4,3,3,3,4
+104660840,Completed,US,TX,2,3,2,1,2,1,"ROANOKE, Virginia (24002)",1,"ROANOKE, Virginia (24002)",5,4,18,2,2,4,4,3,19,Holistic nurse,3,1,4,1,2,4,,,1,,,,1,1,2,3,4,4,3,2,1,4,3,3,1,5,4,3,3,4,5,3,4,4,3,3,4,5
+104661389,Completed,US,TX,1,4,2,1,7,1,"ROANOKE, Virginia (24002)",1,"ROANOKE, Virginia (24002)",5,3,27,2,2,5,5,3,19,ohioicon3508@gmail.com,3,1,5,1,2,,1,,,,,,1,2,1,3,4,4,3,2,1,3,2,3,2,4,4,3,3,4,5,5,5,3,3,3,4,5
+104661741,Completed,US,MI,1,3,2,1,7,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",4,3,26,2,2,4,5,3,20,Usher,3,1,4,2,2,4,1,,,,,,1,2,1,4,3,4,3,2,1,4,2,3,2,5,5,4,3,4,4,3,5,5,4,3,4,5
+104661989,Completed,US,MI,1,4,2,1,2,3,"ROANOKE, Virginia (24048)",3,"ROANOKE, Virginia (24048)",5,3,22,2,2,4,5,3,5,Electrical and electronic equipment assembler,3,1,1,2,2,4,,,1,,,,1,2,1,3,4,3,4,2,1,3,2,3,2,4,4,3,3,4,5,3,5,5,3,3,4,5
+104662227,Completed,US,NY,1,3,2,1,2,1,"ROANOKE, Virginia (24035)",1,"ROANOKE, Virginia (24035)",5,3,21,2,2,4,5,2,5,Electrical and electronics repairer,3,1,1,2,2,5,,,1,,,,1,2,1,3,4,4,3,2,1,3,3,3,2,5,,3,3,4,4,3,4,5,3,4,4,5
+104662428,Completed,US,NY,1,4,2,1,7,1,"ROANOKE, Virginia (24030)",1,"ROANOKE, Virginia (24030)",5,3,33,2,2,4,5,3,4,Timekeeping clerk,3,1,3,2,2,4,,,1,,,,1,2,1,3,4,4,2,3,1,3,1,3,2,4,4,3,3,4,5,3,4,4,3,3,4,5
+104662637,Completed,US,NY,1,3,2,1,7,1,"ROANOKE, Virginia (24033)",1,"ROANOKE, Virginia (24033)",4,3,15,2,3,5,5,2,15,Speech writer,3,1,2,4,3,4,,,1,,,,1,2,1,3,4,4,3,2,1,2,2,2,2,5,5,4,3,4,4,3,5,5,4,5,4,5
+104662846,Completed,US,NC,1,4,2,1,7,1,"ROANOKE, Virginia (24038)",1,"ROANOKE, Virginia (24038)",4,3,29,2,2,5,5,3,10,财务规划师,3,1,1,3,3,4,1,,,,,,1,3,1,4,2,4,3,2,1,2,2,3,1,5,5,4,3,3,4,5,5,4,4,4,5,5
+104662950,Completed,US,GA,2,3,2,2,5,2,"BEAVER, Oklahoma (73932)",2,,3,3,11,2,2,3,3,3,1,Appraiser,3,3,5,4,2,4,,1,,,,,4,1,2,3,4,4,3,2,1,3,2,2,1,5,5,5,4,5,4,4,5,4,4,4,5,5
+104663610,Completed,US,TN,1,3,2,1,7,1,"ROANOKE, Virginia (24031)",1,"ROANOKE, Virginia (24031)",4,3,26,2,2,4,5,3,20,Intercity bus driver,3,1,3,1,1,5,,,1,,,,1,1,2,3,4,4,3,2,1,3,3,3,1,5,4,3,3,4,5,3,5,5,3,3,5,5
+104664034,Completed,US,GA,2,4,2,2,5,6,"FRANKLIN, Tennessee (37067)",6,"FRANKLIN, Tennessee (37067)",4,1,3,2,3,4,4,2,19,After-sales service manager,4,3,3,2,1,2,1,,,,1,,3,2,1,3,4,3,2,1,4,4,2,3,1,4,2,3,2,2,3,3,4,3,3,3,3,4
+104664892,Completed,US,VA,2,5,2,1,5,1,"ROANOKE, Alabama (36274)",1,"ROANOKE, Alabama (36274)",3,3,5,1,2,4,5,2,6,Marketing manager,3,4,2,4,2,5,,,,,,1,1,1,2,3,4,4,3,1,2,3,2,2,2,3,3,3,3,3,3,,3,3,3,3,3,3
+104667091,Completed,UA,30,2,4,2,1,4,6,"FRANKLIN, Vermont (05457)",6,"FRANKLIN, Vermont (05457)",4,5,20,1,2,4,5,3,16,doctor ,3,3,4,4,2,5,1,1,,,,,4,1,4,3,2,1,2,3,4,3,1,2,2,5,4,4,4,3,4,3,5,4,3,3,3,4
+104668033,Completed,US,MI,2,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,10,1,3,5,5,3,3,operator,4,1,4,4,2,4,,,,,,1,1,1,3,2,4,4,3,2,1,2,3,3,1,4,4,4,3,4,4,4,4,4,4,4,4,4
+104668068,Completed,US,WA,1,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,10,1,3,5,5,3,3,operator,4,1,4,4,2,4,,,,,,1,1,1,2,3,4,4,3,2,1,2,3,3,1,4,4,4,3,4,4,4,4,4,4,4,4,4
+104668234,Completed,US,VA,1,3,2,1,2,1,"ROANOKE, Virginia (24050)",1,"ROANOKE, Virginia (24050)",4,2,22,2,2,4,5,2,2,Arc cutter,3,1,3,2,2,4,,,1,,,,1,2,1,3,4,4,2,3,1,3,1,3,1,5,4,3,3,4,4,3,4,3,3,3,5,5
+104668395,Completed,US,VA,1,4,2,1,7,1,"ROANOKE, Virginia (24010)",1,"ROANOKE, Virginia (24010)",5,3,23,2,2,5,5,3,15,Sports book writer,3,1,3,3,2,4,1,,,,,,1,1,2,3,4,4,3,2,1,3,2,3,1,5,5,4,,3,4,4,3,5,5,3,5,5
+104668510,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24008)",1,"ROANOKE, Virginia (24008)",5,3,26,2,2,4,4,3,19,Intercity bus driver,3,1,1,1,1,4,,,1,,,,1,1,2,3,4,4,3,2,1,2,2,3,3,5,5,4,3,3,4,3,5,5,3,3,4,5
+104668629,Completed,US,VA,1,3,2,1,7,1,"ROANOKE, Virginia (24009)",1,"ROANOKE, Virginia (24009)",4,3,22,2,2,5,5,4,5,Electronics engineer,3,1,2,3,3,5,1,,,,,,1,1,2,3,4,4,2,3,1,2,2,3,2,5,4,3,3,4,4,3,5,5,3,3,4,5
+104668747,Completed,US,VA,1,3,2,1,7,1,"ROANOKE, Virginia (24020)",1,"ROANOKE, Virginia (24020)",5,3,12,2,2,4,4,3,1,Petroleum engineer,3,1,4,1,2,5,1,,,,,,1,1,2,3,4,4,3,2,1,2,2,3,2,5,5,3,3,4,4,3,5,5,3,3,4,5
+104668871,Completed,US,VA,1,4,2,1,7,1,"ROANOKE, Virginia (24011)",1,"ROANOKE, Virginia (24011)",5,3,16,2,2,4,5,3,15,Student services director,3,1,4,1,3,5,1,,,,,,1,1,2,3,4,4,3,2,1,2,2,3,2,5,4,3,3,4,4,3,5,5,3,3,4,5
+104669022,Completed,US,VA,1,4,2,1,7,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",5,3,23,2,2,4,5,3,13,Personnel office,3,1,2,3,2,5,1,,,,,,1,1,2,3,4,4,3,2,1,2,,3,1,5,4,3,3,4,4,3,4,4,3,3,4,5
+104669149,Completed,US,VA,1,3,2,1,7,1,"ROANOKE, Virginia (24020)",1,"ROANOKE, Virginia (24020)",5,3,28,2,3,5,5,3,8,Mail processing machine operator,3,1,2,2,2,4,1,,,,,,1,2,1,3,4,3,4,2,1,3,2,3,2,5,4,3,3,4,4,3,5,5,3,3,4,5
+104669325,Completed,US,VA,1,4,2,1,7,1,"ROANOKE, Virginia (24010)",1,"ROANOKE, Virginia (24010)",5,3,26,2,2,4,4,3,10,Information designer,3,1,2,3,2,5,1,,,,,,1,1,2,3,4,4,3,2,1,3,2,3,,5,4,3,4,4,4,3,5,5,3,3,4,5
+104669450,Completed,US,VA,2,4,2,1,7,1,"ROANOKE, Virginia (24009)",1,"ROANOKE, Virginia (24009)",5,3,15,2,2,5,5,3,9,Market research manager,3,1,3,3,2,4,1,,,,,,1,1,2,3,4,4,3,2,1,3,2,3,2,5,5,5,5,5,4,5,5,5,3,3,3,5
+104670779,Completed,US,AZ,1,4,2,1,5,4,"CRAIG, Alaska (99921)",4,"CRAIG, Alaska (99921)",3,,8,1,3,4,4,2,9,Advertising sales agent,4,3,3,2,2,3,1,,,,,,3,3,1,2,4,4,2,1,3,4,2,3,1,3,2,3,4,3,3,4,4,3,3,3,3,4
+104670985,Completed,US,,1,3,2,1,7,3,"WASHINGTON, District of Columbia (20036)",5,"WASHINGTON, District of Columbia (20036)",2,3,20,1,2,3,3,3,5,marketing,,3,4,4,2,4,1,,,,,,4,2,3,4,1,3,1,2,4,3,3,1,2,3,4,3,2,3,5,4,3,3,4,2,2,4
+104671559,Completed,US,CA,2,3,2,1,6,3,"OXNARD, California (93030)",1,"ROANOKE, Illinois (61561)",4,3,7,2,2,3,3,2,17,Sales Director,,4,3,4,3,3,1,,,,,,2,3,1,2,4,1,3,4,2,4,1,1,3,2,2,4,2,1,4,5,4,3,3,3,4,5
+104671560,Completed,US,TX,1,3,2,1,5,6,"GARLAND, Texas (75044)",2,"SALEM, Oregon (97301)",3,4,9,1,1,4,4,3,17,telemarketing,4,3,,,1,4,,,,1,,,4,2,1,3,4,4,2,1,3,3,1,1,1,2,4,2,4,5,3,4,4,2,3,4,4,5
+104671561,Completed,US,OR,1,4,2,1,6,4,"CULLODEN, Georgia (31016)",4,"CULLODEN, Georgia (31016)",3,2,10,1,2,3,3,3,3,Marketing Specialist,2,3,2,2,1,4,,,,1,1,,3,1,2,3,4,2,3,1,4,3,1,2,1,3,2,4,5,3,2,4,3,2,5,4,3,4
+104671563,Completed,US,DE,1,4,2,1,5,1,"MIDDLETOWN, Delaware (19709)",1,"ROANOKE, Illinois (61561)",1,3,15,1,2,3,4,2,16,Marketing Assistant,4,1,4,5,2,3,,1,,1,,,1,3,1,2,4,2,1,3,4,2,1,3,1,4,4,2,5,3,2,2,4,3,5,4,2,4
+104671737,Completed,DO,25,1,3,2,1,6,2,"SALEM, Massachusetts (01971)",6,,2,1,25,2,1,3,4,2,6,,1,3,2,2,2,3,1,,,,,,3,1,2,4,3,1,2,3,4,3,2,1,2,2,1,2,4,3,1,3,5,5,2,2,5,5
+104671874,Completed,US,HI,2,3,3,5,3,4,"HONOLULU, Hawaii (96836)",3,"HONOLULU, Hawaii (96836)",2,2,70,1,2,2,3,2,6,HR,3,2,4,2,2,4,,,1,1,,,2,3,2,1,4,2,4,3,1,4,2,1,1,4,4,5,5,5,4,3,3,2,2,3,5,4
+104672002,Completed,US,NY,2,4,2,1,4,4,"WOODSIDE, New York (11377)",2,"SALEM, Oregon (97301)",2,3,15,2,2,3,5,2,5,Account representative,2,2,3,2,2,4,1,,,,1,,1,3,1,2,4,3,1,2,4,3,1,2,1,3,1,4,5,4,2,3,4,4,2,3,4,5
+104672003,Completed,US,WA,2,3,2,1,5,1,"REDMOND, Washington (98052)",4,"CULLODEN, Georgia (31016)",2,3,12,1,2,4,4,2,12,Marketing,2,2,4,2,2,4,1,,,,,,4,2,1,3,4,2,1,3,4,3,1,2,1,3,3,4,5,1,2,3,3,3,4,1,5,3
+104672004,Completed,US,TN,1,3,2,1,6,4,"CULLODEN, Georgia (31016)",4,"CULLODEN, Georgia (31016)",1,1,17,1,2,3,3,3,14,Market Planning,1,4,4,3,3,3,,1,,,,,1,1,2,3,4,2,4,1,3,3,1,1,2,2,3,5,4,3,4,5,4,3,2,4,5,4
+104672005,Completed,US,GA,2,3,2,1,6,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",5,5,25,1,2,4,3,3,17,Planning,3,3,3,4,3,2,,,,1,1,,2,4,1,2,3,3,1,2,4,3,1,2,1,4,2,3,4,4,4,2,4,5,2,1,4,2
+104672006,Completed,US,MO,1,4,2,1,7,2,"SALEM, Oregon (97301)",2,"SALEM, Oregon (97301)",3,3,18,1,2,3,3,2,18,Sales Representative,3,2,2,4,3,3,1,,,,,,4,1,3,2,4,3,2,4,1,3,2,1,1,4,1,3,4,2,3,4,5,3,3,4,3,1
+104672459,Completed,IL,TA,2,3,2,3,3,3,"ROCHELLE PARK, New Jersey (07662)",3,"NAVESINK, New Jersey (07752)",2,2,3,2,2,4,4,2,5,Technical engineer,3,2,3,2,1,2,,,1,,,,2,1,2,3,4,3,1,2,4,2,2,2,2,3,2,3,3,2,3,4,4,3,3,2,2,2
+104672758,Completed,US,VA,1,3,2,1,6,1,"GREENHURST, New York (14742)",1,"GREENHURST, New York (14742)",3,3,21,1,2,4,4,2,8,Pharmaceutical Sales,3,3,3,5,1,3,,1,,,,,1,2,1,3,4,3,1,2,4,4,2,1,3,2,1,5,3,2,4,4,3,2,2,4,4,5
+104672759,Completed,US,TX,1,4,2,1,5,2,"SALEM, Oregon (97301)",2,"SALEM, Oregon (97301)",3,3,18,1,2,3,3,2,8,"Distribution Management,",2,3,4,4,1,4,1,,,,,,2,2,1,3,4,1,2,3,4,1,1,2,1,1,2,4,3,2,3,5,4,4,1,2,3,4
+104672760,Completed,US,NY,1,2,2,1,4,1,"ROANOKE, Illinois (61561)",1,"ROANOKE, Illinois (61561)",3,3,26,2,2,3,3,2,16,/PR Marketing ,2,3,2,5,2,4,,,,1,,,1,2,4,3,1,3,1,2,4,2,1,1,2,2,1,3,4,2,3,5,4,3,5,5,4,2
+104672761,Completed,UA,14,2,4,2,1,4,6,"BRENTWOOD, Tennessee (37027)",6,"BRENTWOOD, Tennessee (37027)",3,3,25,1,2,3,3,3,8,Market Research and analysis Marketing,3,3,3,5,3,2,,,1,1,,,3,2,1,3,4,3,1,2,4,3,2,2,1,1,3,4,4,2,4,5,1,2,3,5,4,4
+104672762,Completed,US,WA,2,3,2,1,5,6,"FRANKLIN, Tennessee (37068)",6,"FRANKLIN, Tennessee (37068)",3,4,24,1,1,3,3,3,14,Specialist,3,4,2,2,2,2,1,,,1,,,1,1,3,2,4,2,1,3,4,3,2,3,1,2,3,2,2,4,4,2,5,1,2,4,2,2
+104672801,Completed,US,HI,2,4,2,1,5,2,"SALEM, Oregon (97301)",2,"SALEM, Oregon (97301)",4,3,12,1,3,5,5,2,16,,4,2,4,2,1,1,,1,1,,,,1,3,1,2,4,4,3,1,2,3,2,3,1,4,2,4,4,2,4,4,4,4,3,3,3,4
+104674709,Completed,US,HI,2,3,4,5,3,5,,2,"HONOLULU, Hawaii (96836)",3,2,96,1,2,4,2,2,5,RH,3,2,4,4,2,4,,1,,1,1,,2,3,2,1,4,4,2,3,1,4,2,1,1,4,2,3,4,4,5,3,2,2,1,1,3,1
+104675676,Completed,US,NC,2,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,30,1,3,5,5,3,3,operator,4,2,4,2,2,4,1,,,,,,2,1,2,3,4,4,2,3,1,2,3,3,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+104675705,Completed,US,MN,1,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,30,1,3,5,5,3,3,operator,4,1,4,4,3,4,,,,,,1,1,1,2,3,4,4,3,2,1,2,3,3,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+104678172,Completed,US,FL,1,3,2,1,5,6,"FRANKLIN, Tennessee (37067)",6,"FRANKLIN, Tennessee (37067)",2,2,20,1,2,3,4,3,6,service,,3,2,4,2,4,,1,1,,,,3,3,1,2,4,3,1,2,4,2,2,2,2,3,2,3,3,3,2,2,5,3,2,2,2,3
+104679851,Completed,US,NH,1,2,1,1,7,1,"ROANOKE, Virginia (24013)",1,"BENT MOUNTAIN, Virginia (24059)",3,3,5,1,3,3,5,2,11,manager,4,2,1,4,2,5,1,,,,,,1,1,2,3,4,2,3,1,4,5,2,3,1,5,3,4,4,5,5,5,5,5,2,4,5,5
+104681663,Completed,US,IL,1,3,2,1,8,1,"ROANOKE, Virginia (24013)",1,"BENT MOUNTAIN, Virginia (24059)",3,2,11,1,3,3,5,1,15,teacher,4,2,2,3,1,5,1,,,,,,1,1,2,3,4,2,3,4,1,2,3,3,1,5,2,2,5,5,5,2,5,2,2,5,5,5
+104691794,Completed,US,FL,1,3,2,2,6,1,"ROANOKE, Alabama (36274)",1,"ROANOKE, Virginia (24011)",5,3,6,1,3,4,5,3,10,risk management,1,3,5,4,2,3,1,,,,,,4,2,1,3,4,4,1,3,2,3,2,2,2,5,3,4,4,3,4,2,5,4,5,4,3,5
+104721615,Completed,US,FL,2,4,2,2,3,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",3,2,5,2,3,3,3,2,7,salesman,4,2,3,2,2,2,,1,1,,,,4,3,1,2,4,4,2,1,3,3,2,3,2,3,2,3,3,3,4,3,4,4,3,3,3,4
+104721703,Completed,PS,,2,3,1,1,5,1,,1,,3,1,0,1,2,2,3,2,9,safety engineer,1,1,2,4,2,4,,,,,1,,1,2,1,3,4,3,1,2,4,2,2,3,1,4,3,4,3,4,4,3,4,4,3,3,3,3
+104723392,Completed,PE,LMA,1,5,2,1,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",4,4,6,2,2,4,5,2,5,administrator,3,3,2,2,2,4,1,,,,,,4,2,1,3,4,2,1,3,4,3,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104724426,Completed,US,NC,2,4,4,2,3,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",4,2,12,2,1,1,2,2,5,Paper coating machine operator,4,2,3,1,1,1,1,1,,,,,1,2,1,3,4,4,2,1,3,4,2,3,1,3,2,3,1,2,3,3,3,4,3,3,3,4
+104733218,Completed,US,NY,2,3,1,3,7,1,"VIRGINIA BEACH, Virginia (23452)",1,"VIRGINIA BEACH, Virginia (23452)",4,3,30,1,3,5,5,3,3,operator,4,2,4,3,2,4,1,,,,,,1,1,2,3,4,4,3,2,1,2,3,3,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+104733220,Completed,US,PA,2,3,1,3,7,1,"NEW BRUNSWICK, New Jersey (08901)",1,"NEW BRUNSWICK, New Jersey (08901)",4,3,30,1,3,5,5,3,3,operator,4,1,4,3,2,4,1,,,,,,1,1,2,3,4,4,3,2,1,2,3,3,1,4,4,4,4,4,4,4,4,4,4,4,4,4
+104756558,Completed,US,GA,1,6,2,1,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",4,3,8,2,2,4,5,2,4,Construction engineer,3,3,3,2,2,4,1,,,,,,3,2,1,3,4,2,1,3,4,4,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+104759206,Completed,US,NY,1,3,2,1,8,6,"NASHVILLE, North Carolina (27856)",6,"NASHVILLE, North Carolina (27856)",2,3,5,1,2,3,3,3,3,Sales Representative,2,1,4,4,2,4,,1,,,,,1,3,2,4,1,1,2,3,4,4,2,,1,4,3,3,5,4,4,2,1,2,3,4,3,5
+104759890,Completed,US,NY,1,2,2,1,7,6,"NASHVILLE, North Carolina (27856)",6,"NASHVILLE, North Carolina (27856)",,,20,1,2,,,3,,,,,4,4,2,4,,,1,,,,1,3,2,1,4,2,1,3,4,4,2,,1,4,5,5,5,5,5,3,2,5,4,3,2,2
+104759891,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,,Accounting Clerk,2,1,4,4,2,4,1,,,,,,1,2,1,4,3,4,1,3,2,4,2,,1,4,1,5,1,4,4,4,4,4,1,3,2,3
+104759892,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,7,Sales Representative,2,1,4,4,2,4,,,1,,,,1,4,2,3,1,2,1,4,3,4,2,,1,1,3,2,2,4,4,4,4,4,1,3,3,3
+104760075,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,7,Human Resources Manager,2,1,,,,,,,,,,,1,2,1,3,4,2,4,1,3,4,2,,1,2,2,1,2,2,1,4,4,1,5,5,2,3
+104760076,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,7,Human Resources Manager,2,1,,,,,,,,,,,1,4,2,1,3,4,1,2,3,4,2,,1,1,1,5,5,5,2,5,2,5,1,2,1,4
+104760077,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,9,Marketing Coordinator,2,1,,,,,,,,,,,1,2,1,3,4,4,2,3,1,4,2,,1,3,2,3,1,3,2,4,2,2,1,1,1,4
+104760078,Completed,US,PA,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,,Human Resources Manager,2,1,,,,,,,,,,,1,4,1,3,2,2,4,1,3,4,2,,1,4,3,1,4,4,5,4,2,3,2,1,2,4
+104760079,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,7,Accounting Clerk,2,1,,,,,,,,,,,1,1,3,2,4,2,1,4,3,4,2,,1,2,3,2,5,5,1,1,5,2,4,2,1,3
+104760080,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,50,1,2,,,,,Administrative Assistant,2,1,,,,,,,,,,,1,2,1,4,3,2,1,3,4,4,2,,1,2,5,4,5,2,5,3,1,2,4,2,2,1
+104760234,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,50,1,2,,,,9,Customer Service Specialist,2,1,,,,,,,,,,,1,4,2,3,1,2,4,3,1,4,2,,1,3,1,4,2,4,2,1,4,1,1,4,3,1
+104760235,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,7,Operations Manager,2,1,,,,,,,,,,,1,2,1,4,3,1,4,2,3,4,2,,1,3,3,2,1,2,2,3,3,5,2,4,5,5
+104760236,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,50,1,2,,,,7,Accounting Clerk,2,1,,,,,,,,,,,1,1,2,3,4,4,2,3,1,4,2,,1,1,4,1,3,3,1,1,4,5,2,1,1,4
+104760237,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,20,1,2,,,,,Administrative Assistant,2,1,4,4,2,4,,1,,,,,1,2,1,4,3,4,1,2,3,4,2,,1,4,4,4,2,4,1,2,2,2,5,5,2,3
+104760238,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,50,1,2,,,,9,Customer Service Specialist,2,1,,,,,,,,,,,1,1,3,4,2,4,2,1,3,4,2,,1,2,1,4,5,1,1,2,5,1,2,1,2,2
+104760239,Completed,US,NJ,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,,Accounting Clerk,2,1,4,4,2,4,,,1,,,,1,1,4,2,3,2,3,1,4,4,2,,1,2,3,1,5,2,5,3,4,2,3,1,5,3
+104760240,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,,Customer Service Specialist,2,1,4,4,2,4,,,1,,,,1,4,3,2,1,4,1,3,2,4,2,,1,5,3,5,1,3,2,4,4,4,2,5,2,4
+104760241,Completed,US,NY,2,2,2,3,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,,Operations Manager,2,1,4,4,2,4,1,,,,,,1,2,4,3,1,3,2,4,1,4,2,,1,4,2,3,4,3,2,3,1,5,5,4,5,4
+104760242,Completed,US,NY,2,3,2,3,,,"NASHVILLE, North Carolina (27856)",,,,,5,1,2,,,,,,,,4,4,2,4,1,,,,,,1,1,3,4,2,1,2,4,3,4,2,,1,4,5,5,4,4,2,2,3,5,4,2,1,2
+104760243,Completed,US,NY,,,,,,,,,,,,,,,,,,,Customer Service Specialist,2,1,4,4,2,4,,1,,,,,1,3,1,2,4,4,1,3,2,4,2,,1,2,4,2,2,3,5,5,2,4,5,4,5,5
+104760472,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,7,Human Resources Manager,2,1,,,,,,,,,,,1,3,2,1,4,2,4,3,1,4,2,,1,4,3,1,3,5,5,4,4,2,4,4,2,2
+104760473,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,50,1,2,,,,,Customer Service Specialist,2,1,4,4,2,4,,,,1,,,1,1,4,2,3,1,4,3,2,4,2,,1,4,2,4,5,2,4,1,5,2,4,3,3,4
+104760474,Completed,US,NJ,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,7,Customer Service Specialist,2,1,,,,,,,,,,,1,1,3,4,2,2,4,3,1,4,2,,1,4,5,1,5,1,3,3,3,1,4,4,4,5
+104760475,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,9,Human Resources Manager,2,1,,,,,,,,,,,1,4,1,3,2,3,4,1,2,4,2,,1,2,2,4,4,3,5,3,4,3,4,2,1,2
+104760476,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,,Administrative Assistant,2,1,4,4,2,4,,,1,,,,1,3,4,2,1,4,1,2,3,4,2,,1,2,4,5,5,4,5,3,2,3,1,3,1,5
+104760477,Completed,US,GA,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,15,1,2,,,,7,Customer Service Specialist,2,1,,,,,,,,,,,1,2,4,3,1,1,3,4,2,4,2,,1,5,3,1,1,4,2,1,5,2,5,5,2,4
+104760478,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,20,1,2,,,,,Sales Representative,2,1,4,4,2,4,1,,,,,,1,1,3,2,4,1,3,2,4,4,2,,1,2,3,4,3,1,1,5,3,1,5,5,1,2
+104760479,Completed,US,NY,1,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,9,Administrative Assistant,2,1,4,4,2,4,1,,,,,,1,4,1,2,3,1,2,3,4,4,2,,1,1,4,1,3,1,1,2,1,3,5,3,5,4
+104760480,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,20,1,2,,,,7,Operations Manager,2,1,4,4,2,4,,,,1,,,1,1,2,4,3,3,4,1,2,4,2,,1,3,1,3,3,1,3,3,3,3,1,2,2,5
+104760481,Completed,US,NY,2,3,,8,,,"NASHVILLE, North Carolina (27856)",,"NASHVILLE, North Carolina (27856)",,,5,1,2,,,,9,Human Resources Manager,2,1,4,4,2,4,,,,,1,,1,1,4,2,3,3,1,2,4,4,2,,1,1,2,2,5,2,3,1,3,3,2,3,4,4
+104792240,Completed,US,PA,2,5,2,1,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",4,3,8,1,2,5,5,2,10,Sales manager,4,4,3,3,2,4,1,,,,,,4,3,1,2,4,3,1,2,4,3,1,1,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104838906,Completed,US,NJ,1,4,2,1,5,1,"ROANOKE, Virginia (24020)",1,"ROANOKE, Virginia (24020)",4,4,5,1,3,5,5,2,5,administrator,3,3,3,2,3,4,,,,1,,,4,2,1,3,4,2,1,3,4,3,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+104883690,Completed,US,VA,1,4,2,1,1,4,"VINITA, Oklahoma (74301)",4,"VINITA, Oklahoma (74301)",4,3,6,2,2,4,5,2,4,Workers,4,3,4,2,2,3,1,,,,,,3,3,4,2,1,1,2,3,4,4,2,2,2,4,5,5,5,4,5,4,5,4,5,4,4,5
+104884501,Completed,US,VA,2,3,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",4,3,10,1,2,4,5,3,10,Manager,4,3,4,3,3,5,1,,,,,,1,3,1,2,4,4,3,2,1,2,2,2,2,5,4,5,5,5,4,5,5,4,5,4,5,5
+104884918,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24004)",1,"ROANOKE, Virginia (24004)",5,4,12,1,2,4,5,3,13,Manager,4,3,5,4,2,5,1,,,,,,4,1,2,3,4,3,4,1,2,2,2,2,2,4,5,5,5,4,5,5,5,5,5,4,5,5
+104885251,Completed,US,TX,1,4,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",5,4,15,1,2,4,5,3,15,Teacher,4,3,4,3,2,5,1,,,,,,1,2,1,3,4,2,3,1,4,2,2,3,1,5,4,5,4,5,5,5,5,5,5,4,5,5
+104885601,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",4,4,9,1,2,4,5,3,13,Manager,4,4,5,4,3,5,1,,,,,,1,1,3,4,2,2,1,3,4,2,2,3,1,5,4,5,5,4,4,5,5,5,5,5,5,5
+104885822,Completed,US,TX,1,4,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",4,4,8,1,2,4,5,3,13,Manager,3,3,4,3,2,5,1,,,,,,1,1,2,4,3,4,2,1,3,2,2,3,1,5,5,4,5,4,4,5,5,5,5,4,5,5
+104885999,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",3,3,9,2,2,4,5,3,10,Manager,3,4,4,4,3,5,1,,,,,,1,1,3,2,4,3,4,2,1,3,2,3,1,5,4,5,5,4,4,5,5,5,5,5,5,5
+104886183,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24003)",4,3,7,2,2,4,5,2,7, Salesman,4,3,5,3,2,5,,,1,,,,1,4,1,3,2,4,3,1,2,3,2,3,1,5,4,5,5,5,5,4,5,5,5,5,4,5
+104886323,Completed,US,TX,1,4,4,1,2,1,"ROANOKE, Virginia (24002)",1,"ROANOKE, Virginia (24003)",4,3,8,2,1,2,4,3,4,Designers,3,4,4,4,3,5,1,,,,,,1,1,2,3,4,4,2,3,1,3,2,3,1,5,5,4,5,4,4,4,5,4,5,5,5,5
+104886465,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24001)",1,"ROANOKE, Virginia (24004)",5,4,12,1,2,4,5,3,4,Designers,3,4,4,4,3,5,,,,,,1,1,1,3,4,2,2,4,3,1,1,2,3,1,4,4,4,5,4,4,5,5,5,5,5,4,5
+104886595,Completed,US,VA,1,3,1,1,2,1,"ROANOKE, Virginia (24002)",1,"ROANOKE, Virginia (24004)",4,4,12,2,2,4,5,2,12,Technical Trainees,3,4,5,3,3,5,,,1,,,,1,3,2,1,4,4,3,1,2,2,2,3,1,4,4,4,4,4,5,5,5,5,5,4,4,5
+104886771,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24003)",1,"ROANOKE, Virginia (24001)",4,4,10,2,2,3,5,3,10,Manager,4,4,4,3,3,5,1,,,,,,1,3,4,2,1,3,4,1,2,2,2,3,1,5,4,4,5,4,4,5,5,5,4,5,5,5
+104886893,Completed,US,VA,1,2,1,1,2,1,"ROANOKE, Virginia (24005)",1,"ROANOKE, Virginia (24001)",4,3,13,2,2,4,5,1,10, Interns,3,3,5,3,2,5,,,1,,,,1,3,4,1,2,4,3,2,1,2,2,3,1,5,4,4,4,5,4,5,4,4,4,5,5,5
+104887063,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24006)",1,"ROANOKE, Virginia (24001)",4,3,14,2,2,,5,2,13,Section Chief,4,3,4,3,2,5,1,,,,,,1,2,1,3,4,3,2,1,4,2,2,3,1,5,4,4,5,4,4,5,5,5,4,5,5,5
+104887165,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24006)",1,"ROANOKE, Virginia (24001)",4,4,15,2,2,4,5,3,10,Manager,4,4,4,3,3,5,1,,,,,,1,1,4,3,2,3,4,2,1,2,2,3,1,5,4,4,5,4,4,4,5,4,5,5,4,5
+104887287,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24007)",1,"ROANOKE, Virginia (24001)",4,3,16,2,2,3,5,3,10,Manager,4,4,5,4,3,5,1,,,,,,1,1,3,2,4,3,4,2,1,2,2,3,1,5,4,4,5,4,4,5,5,5,5,4,4,5
+104887414,Completed,US,TX,1,4,2,1,2,1,"ROANOKE, Virginia (24005)",1,"ROANOKE, Virginia (24001)",4,3,9,2,2,4,5,3,4,Designers,3,4,4,4,3,5,1,,,,,,1,2,1,3,4,4,3,1,2,2,2,3,1,5,5,4,5,4,4,4,5,4,5,4,5,5
+104892179,Completed,US,,2,3,2,1,7,2,"GLENDALE, Arizona (85301)",3,"GLENDALE, Arizona (85301)",3,1,5,2,2,2,3,2,15,The writer,4,1,3,3,2,5,,,1,,,,1,0,0,2,0,0,1,2,0,3,2,2,2,2,2,3,3,2,3,3,3,2,2,3,3,3
+104905502,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24006)",1,"ROANOKE, Virginia (24001)",4,4,13,1,2,4,5,3,13,Manager,3,4,4,4,3,5,1,,,,,,1,2,1,4,3,4,3,1,2,1,2,3,1,5,5,5,5,4,4,4,5,4,5,4,5,5
+104905977,Completed,US,VA,1,4,2,1,2,1,"ROANOKE, Virginia (24008)",1,"ROANOKE, Virginia (24002)",4,4,16,1,2,3,4,3,13,Director,3,4,4,4,3,5,1,,,,,,1,1,3,2,4,3,4,1,2,1,2,2,2,5,5,5,5,5,4,4,5,4,4,4,5,5
+104906266,Completed,US,TX,1,3,2,1,2,1,"ROANOKE, Virginia (24008)",1,"ROANOKE, Virginia (24002)",4,4,17,1,2,4,5,3,5,Designer Director,3,4,4,5,3,5,1,,,,,,1,1,3,2,4,3,2,1,4,1,2,2,2,5,5,5,5,5,4,4,5,4,4,4,4,5
+104906680,Completed,US,VA,1,2,1,1,5,1,"ROANOKE, Virginia (24008)",1,"ROANOKE, Virginia (24003)",4,3,16,2,2,4,5,2,16,Interns,3,3,4,3,2,5,,,1,,,,1,4,2,1,3,4,2,3,1,2,2,3,1,5,4,5,4,4,5,4,5,5,5,4,4,5
+104906996,Completed,LT,,1,3,2,1,2,1,"ROANOKE, Virginia (24008)",1,"ROANOKE, Virginia (24001)",4,4,17,1,2,3,4,3,4,Designers,3,4,4,4,3,5,1,,,,,,1,4,1,2,3,4,2,1,3,1,2,3,1,5,4,4,5,5,4,4,5,4,4,4,4,5
+104907277,Completed,LT,,1,3,2,1,2,1,"ROANOKE, Virginia (24009)",1,"ROANOKE, Virginia (24001)",4,4,18,1,2,3,4,3,13,Supervisor,4,3,4,3,2,5,1,,,,,,1,3,1,2,4,4,3,1,2,2,2,2,2,5,4,4,5,5,4,4,5,4,5,4,5,5
+104907667,Completed,US,TX,1,4,2,1,2,1,"ROANOKE, Virginia (24006)",1,"ROANOKE, Virginia (24001)",4,4,10,1,2,4,5,3,10,Director,3,4,4,4,3,5,1,,,,,,1,2,1,3,4,3,2,1,4,1,2,2,2,5,5,5,5,5,4,4,5,4,4,4,5,5
+104946836,Completed,US,FL,2,5,2,1,5,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",,4,8,1,3,5,5,3,6,MANAGER,3,4,3,4,2,4,1,,,,,,4,1,2,3,4,1,2,3,4,3,1,1,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+105000158,Completed,US,CT,2,4,2,1,5,1,,1,,3,3,6,2,2,4,5,2,7,Sales manager,4,3,3,2,2,4,,,,1,,,3,2,1,3,4,2,1,3,4,3,,1,2,4,4,4,4,4,4,4,4,4,4,4,4,4
+105044740,Completed,US,NY,1,3,2,1,5,1,"LANSING, Michigan (48933)",1,"LANSING, Michigan (48933)",4,3,15,1,2,3,3,3,2,Land acquisition specialist,3,4,4,4,2,5,1,,,,,,2,2,1,4,3,1,2,3,4,3,2,2,2,2,3,5,3,3,1,2,2,3,4,4,3,5
+105075980,Completed,JO,AM,2,4,1,1,8,3,"BOONES MILL, Virginia (24065)",1,"ROANOKE, Virginia (24016)",5,5,12,2,2,2,3,2,15,Instructor,2,3,4,3,2,3,,1,1,1,1,,3,2,1,3,4,4,1,2,3,3,1,1,2,2,3,5,4,4,4,5,5,4,5,3,3,3
+105096298,Completed,US,PA,2,5,2,1,3,4,"ROANOKE, Virginia (24018)",4,"ROANOKE, Virginia (24018)",4,4,8,1,2,5,5,2,4,Building engineer,3,3,3,2,2,4,1,,,,,,4,3,2,1,4,3,2,1,4,3,2,2,2,4,1,4,4,4,4,1,2,2,2,1,3,3
+105096351,Completed,US,VA,1,4,2,1,6,3,"ROANOKE, Virginia (24009)",1,"ROANOKE, Virginia (24012)",3,3,4,2,2,4,5,2,13,data analyst,,3,4,5,2,5,1,,1,1,,,4,1,3,2,4,3,2,1,4,3,2,3,1,5,3,5,5,5,4,5,5,5,5,4,5,5
+105099120,Completed,PS,JEN,1,4,2,3,5,1,"ROANOKE, Virginia (24018)",2,"ROANOKE, Virginia (24157)",2,3,10,1,2,3,3,2,5,,3,2,4,3,2,4,,1,,,,,1,1,2,3,4,1,2,3,4,2,1,1,2,5,4,5,1,1,5,4,5,5,5,3,4,5
+105099639,Completed,US,VA,2,3,1,5,3,1,"ROANOKE, Virginia (24038)",1,"ROANOKE, Virginia (24050)",2,3,5.3,2,2,3,3,2,7,,3,3,2,4,2,4,,,1,,,,4,1,2,4,3,2,1,3,4,3,1,2,1,4,4,4,5,4,5,5,4,3,3,3,4,4
+105099772,Completed,US,,2,3,2,2,2,6,"BASSETT, Virginia (24055)",6,"HENRY, Virginia (24102)",2,2,3.6,2,2,3,5,2,9,,3,1,2,4,2,5,,,1,,,,1,3,4,1,2,3,4,1,2,2,2,2,1,4,4,5,4,4,5,5,4,5,5,4,4,5
+105100021,Completed,IR,,1,3,1,5,2,6,"ROCKY MOUNT, Virginia (24151)",6,"UNION HALL, Virginia (24176)",3,2,5,1,2,3,3,2,3,,3,2,2,3,2,5,,,1,,,,2,1,2,4,3,3,2,1,4,1,2,3,2,4,4,5,5,4,4,5,5,4,4,4,4,5
+105100157,Completed,US,VA,1,4,2,3,3,1,"ROANOKE, Virginia (24016)",1,"ROANOKE, Virginia (24028)",3,2,2.9,2,2,2,3,2,6,,3,2,2,2,2,5,,,1,,,,2,3,4,1,2,2,3,1,4,2,2,3,1,5,5,5,4,4,5,5,4,4,3,3,4,4
+105100274,Completed,US,VA,2,3,2,1,3,1,"ROANOKE, Virginia (24157)",1,"ROANOKE, Virginia (24050)",3,3,4.3,2,2,3,3,2,4,,3,3,2,3,2,4,1,,,,,,3,2,1,3,4,3,1,2,4,1,1,2,2,5,4,4,5,5,5,4,4,3,3,4,5,4
+105127854,Completed,US,IN,1,3,1,1,5,1,"ROANOKE, Virginia (24028)",1,"ROANOKE, Virginia (24022)",2,2,2,1,2,3,4,2,10,Sales Assistant,3,3,2,3,2,3,,,,,1,,4,2,1,3,4,3,2,1,4,1,2,1,2,2,4,2,3,3,4,2,3,3,4,2,2,4
+105132090,Completed,PS,NBS,2,5,2,1,2,3,"ROANOKE, Virginia (24008)",3,"ROANOKE, Virginia (24004)",4,1,8,1,3,4,5,3,16,Trainer,3,2,4,2,1,2,1,,,,,,3,2,1,3,4,4,2,1,3,3,2,2,3,2,3,3,4,2,3,4,4,3,4,3,2,2
+105132763,Completed,PS,,2,3,1,1,6,5,"TROUTVILLE, Virginia (24175)",5,"DALEVILLE, Virginia (24083)",3,3,5,1,2,3,3,2,6,Accounting supervisor,2,1,1,5,3,4,,,1,,,,1,4,2,1,3,3,4,2,1,2,2,3,1,2,2,3,2,4,5,4,2,2,1,3,4,4
+105133561,Completed,UA,30,1,3,4,1,5,6,"MONETA, Virginia (24121)",6,"REDWOOD, Virginia (24146)",3,3,4,1,1,1,2,1,7,Cashier,2,2,4,1,1,2,,,,1,,,3,2,1,4,3,1,3,2,4,3,3,2,2,2,3,3,2,4,4,2,3,3,2,4,5,4
+105134100,Completed,US,VA,2,2,1,1,2,1,"ROANOKE, Virginia (24033)",1,"ROANOKE, Virginia (24007)",1,2,9,2,1,1,2,2,15,Teacher,3,3,4,3,2,4,,,1,,,,4,3,1,4,2,2,4,1,3,2,2,3,2,4,2,2,3,5,2,3,2,4,4,2,3,5
+105146568,Completed,US,,2,3,2,1,3,1,"SANTA CRUZ, California (95060)",1,"SANTA CRUZ, California (95060)",4,3,20,1,2,3,3,2,5,财务,4,2,4,2,2,4,1,,,,,,3,0,1,0,0,1,0,0,0,2,3,3,1,2,3,3,4,4,3,4,5,4,3,5,3,4
+105195448,Completed,US,MI,2,5,,1,4,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",3,3,8,1,2,5,5,2,4,carpenter,4,3,3,3,1,2,,,,1,,,3,3,2,1,4,3,2,1,4,3,2,2,2,4,1,4,4,2,4,2,2,3,2,1,3,4
+105288248,Completed,US,NY,1,5,4,1,3,4,"ROANOKE, Virginia (24018)",4,"ROANOKE, Virginia (24018)",3,3,8,2,2,4,5,2,6,Sales manager,4,3,3,4,2,4,1,,,,,,4,2,1,3,4,2,1,3,4,2,3,3,2,5,3,4,4,4,4,3,2,2,2,3,3,4
+105302346,Completed,US,IL,2,5,2,1,3,1,"ROANOKE, Virginia (24018)",1,"ROANOKE, Virginia (24018)",4,3,5,2,2,5,5,3,6,Sales director,4,3,3,4,2,4,,,,1,,,3,3,1,2,4,3,1,2,4,3,1,2,2,5,2,4,2,2,4,3,3,2,2,2,2,4
+105486532,Completed,US,MD,2,4,2,1,2,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",3,3,5,2,2,4,5,2,17,Be in charge,3,2,4,2,1,3,,,1,,,,3,1,2,3,4,1,2,3,4,4,1,1,2,5,4,4,4,2,2,2,2,3,2,2,2,2
+105541210,Completed,US,TX,2,6,2,1,3,4,"ROANOKE, Virginia (24019)",4,"ROANOKE, Virginia (24019)",4,3,7,2,3,5,5,2,18,Hotel manager,4,3,4,2,2,3,1,,,,,,3,1,2,3,4,1,2,3,4,4,1,1,2,5,5,4,4,3,3,3,3,3,3,2,2,2
+105806248,Completed,US,AZ,2,4,2,1,2,3,"ROANOKE, Virginia (24018)",3,"ROANOKE, Virginia (24018)",4,3,6,1,2,5,5,3,3,Department manager,1,1,2,3,2,4,1,,,,,,2,0,2,3,4,1,2,3,4,3,1,1,3,5,5,5,4,4,4,3,3,3,3,3,3,3
+105899456,Completed,US,AL,1,3,2,1,2,2,"IRVINGTON, New Jersey (07111)",1,"IRVINGTON, New Jersey (07111)",3,2,10,1,2,1,2,2,,Terminal controller,1,2,2,2,2,4,,1,,,,,2,1,2,3,4,2,1,3,4,3,2,2,2,2,3,4,4,5,4,3,3,2,4,5,4,3
+106022553,Completed,US,DE,2,3,1,1,6,3,"ROANOKE, Virginia (24155)",1,"ROANOKE, Virginia (24033)",5,5,13,1,2,2,4,2,15,Academic advisor,2,3,2,3,2,5,1,,,,,,4,1,3,2,4,3,4,2,1,3,2,3,1,5,2,4,2,5,5,4,5,5,4,5,5,5
+106023152,Completed,US,VA,2,4,2,1,7,4,"PAINT BANK, Virginia (24131)",6,"HENRY, Virginia (24102)",5,4,10,2,3,3,4,3,5,R&D Engineer,2,3,4,4,2,3,1,1,,,,,3,4,1,2,3,4,3,2,1,2,3,3,2,5,3,4,1,3,5,4,5,5,3,5,5,3
+106023831,Completed,US,VA,1,4,3,1,6,5,"SALEM, Virginia (24153)",6,"MONETA, Virginia (24121)",4,3,6,1,1,2,3,2,14,dispatcher,3,4,3,5,2,4,1,1,1,,,,4,4,3,1,2,4,3,1,2,4,2,3,1,3,1,4,4,5,5,5,5,4,4,5,5,1
+106024571,Completed,US,,1,3,1,1,7,1,"ROANOKE, Virginia (24028)",5,"DALEVILLE, Virginia (24083)",4,3,6,1,3,3,5,2,1,forest ranger,3,4,2,3,1,4,1,1,,1,,,3,3,4,2,1,3,4,2,1,2,3,3,1,5,1,5,1,3,4,4,4,3,3,5,5,2
+106025298,Completed,US,,2,5,2,1,6,2,"SALEM, Virginia (24153)",2,"ROANOKE, Virginia (24157)",5,4,3,2,2,2,2,2,15,Educational consultant,3,4,4,4,2,5,1,1,,,,,4,3,4,1,2,3,4,1,2,1,3,3,1,4,2,4,5,3,5,5,5,3,5,5,5,5
+106025712,Completed,US,,1,4,2,1,7,6,"GLADE HILL, Virginia (24092)",5,"CLOVERDALE, Virginia (24077)",4,3,7,1,2,2,3,2,6,Logistics manager,3,3,5,2,2,4,1,,,,,,3,4,1,3,2,4,3,2,1,4,3,3,1,5,2,4,1,4,5,5,5,3,3,5,5,5
+106121747,Completed,US,VA,2,6,2,,5,5,"DALEVILLE, Virginia (24083)",5,"DALEVILLE, Virginia (24083)",5,5,0,1,2,2,2,3,12,Sales ,4,1,1,5,3,1,,,,,,1,4,4,3,1,2,4,3,1,2,1,,,,5,3,4,1,5,4,5,5,3,2,4,4,5
+108076518,Completed,US,NY,2,3,1,1,2,1,"ROANOKE, Texas (76262)",1,"ROANOKE, Texas (76262)",2,4,20,1,2,4,3,3,15,teacher,2,2,2,3,1,3,,,1,,,,2,2,1,3,4,3,1,2,4,3,2,2,2,2,3,3,4,3,3,1,4,3,2,2,1,4
+108154073,Completed,US,IL,2,3,,1,5,,"BROOKINGS, South Dakota (57006)",1,"BROOKINGS, South Dakota (57006)",3,3,10,1,1,3,4,2,3,manager,2,3,2,2,2,3,1,,,,,,3,1,2,3,4,1,2,4,3,2,2,2,1,4,1,3,5,3,5,2,4,2,3,5,4,2
+108214741,Completed,US,AR,1,4,2,1,2,3,"VINTON, Virginia (24179)",3,"VINTON, Virginia (24179)",3,3,5.2,1,3,4,5,2,9,Project Manager,1,3,4,2,1,5,1,,,,,,1,1,3,2,4,1,2,4,3,4,2,2,2,3,3,4,5,3,5,3,4,3,4,5,4,3
+108656524,Completed,GB,ISL,2,3,1,1,2,2,"NEW YORK, New York (10001)",5,"NEW YORK, New York (10002)",4,3,10,2,1,4,4,2,3,assistant,4,2,2,3,2,4,,,1,1,1,,2,1,4,3,2,1,3,2,4,4,2,2,1,3,2,3,3,4,4,4,4,4,4,3,3,3
