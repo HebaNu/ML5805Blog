@@ -1,0 +1,2 @@
+[2,"\n"]
+[1,"ERROR: YAMLException: bad indentation of a mapping entry (C:\\Users\\NUSAI\\Desktop\\Machine learning\\ML5805Blog\\_quarto.yml, 12:38)\n11:   site-url: https://hebanu.github.io/ML5805Blog/\n12:   discription: \"Project for ML class\"\"\n                                        ~~\n13:   navbar:\n"]
