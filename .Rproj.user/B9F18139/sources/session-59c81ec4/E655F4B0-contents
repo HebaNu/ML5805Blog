@@ -1,20 +1,15 @@
 project:
-  type: website
-output-dir: docs
-contents:
-  - posts
-sort:
-  - "date"
-  - "title desc"
-
-website:
-  title: "ML5805Blog"
-site-url: https://hebanu.github.io/ML5805Blog/
-description: "Project for ML class"
-navbar:
-
-
-    right:
+ type: website
+ output-dir: docs
+ site-url: https://hebanu.github.io/ML5805Blog/
+ contents: 
+ - posts
+ sort:
+ - "date"
+ - "title desc"
+ description: "Project for ML class"
+ title: "ML5805Blog"
+  navbar:
       - about.qmd
       - icon: github
         href: https://github.com/
@@ -26,4 +21,3 @@ format:
     css: styles.css
 
 editor: visual
-
