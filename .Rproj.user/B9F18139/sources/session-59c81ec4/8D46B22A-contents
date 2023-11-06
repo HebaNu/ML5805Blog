@@ -1,19 +1,10 @@
 project:
   type: website
-output-dir: docs
-contents:
-  - posts
-sort:
-  - "date"
-  - "title desc"
+  output-dir: docs
 
 website:
   title: "ML5805Blog"
-site-url: https://hebanu.github.io/ML5805Blog/
-description: "Project for ML class"
-navbar:
-
-
+  navbar:
     right:
       - about.qmd
       - icon: github
