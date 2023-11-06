@@ -1,0 +1,4 @@
+"0","# Select X and Y variables"
+"0","X = data['industry']"
+"0","Y = data['How do you typically work in your current job? ']  # target variable"
+"0",""

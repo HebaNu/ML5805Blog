@@ -1,0 +1,5 @@
+"0","import pandas as pd"
+"0",""
+"0","# Load your survey data"
+"0","data = pd.read_excel('Post1.xlsx')"
+"0",""

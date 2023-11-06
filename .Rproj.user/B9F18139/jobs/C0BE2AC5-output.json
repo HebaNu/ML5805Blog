@@ -1,0 +1,2 @@
+[2,"\n"]
+[1,"ERROR: YAMLException: bad indentation of a mapping entry (C:\\Users\\NUSAI\\Desktop\\Machine learning\\ML5805Blog\\_quarto.yml, 12:3)\n11:  title: \"ML5805Blog\"\n12:   navbar:\n     ~~\n13:       - about.qmd\n"]

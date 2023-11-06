@@ -1,0 +1,63 @@
+"0","from sklearn.naive_bayes import CategoricalNB"
+"0","from sklearn.model_selection import train_test_split"
+"0","from sklearn.metrics import accuracy_score"
+"0",""
+"0","# Assuming you have your data loaded in X (features) and Y (target)"
+"0","# X should contain 'industry' and Y should contain 'How do you typically work in your current job?'"
+"0",""
+"0","# Split the data into training and testing sets"
+"0","X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42)"
+"0",""
+"0","# Create and train the Categorical Naive Bayes model"
+"0","model = CategoricalNB()"
+"0","model.fit(X_train, Y_train)"
+"2","Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+  File ""[90m]8;line = 1391;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\naive_bayes.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\naive_bayes.py]8;;[39m"", line 1391, in fit
+    return super().fit(X, y, sample_weight=sample_weight)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 1151;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\base.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\base.py]8;;[39m"", line 1151, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 745;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\naive_bayes.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\naive_bayes.py]8;;[39m"", line 745, in fit
+    X, y = self._check_X_y(X, y)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 1449;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\naive_bayes.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\naive_bayes.py]8;;[39m"", line 1449, in _check_X_y
+    X, y = self._validate_data(
+           ^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 621;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\base.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\base.py]8;;[39m"", line 621, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""[90m]8;line = 1147;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\utils\validation.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\utils\validation.py]8;;[39m"", line 1147, in check_X_y
+    X = check_array(
+        ^^^^^^^^^^^^
+  File ""[90m]8;line = 908;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\utils\validation.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\utils\validation.py]8;;[39m"", line 908, in check_array
+    _assert_all_finite(
+  File ""[90m]8;line = 124;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\utils\validation.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\utils\validation.py]8;;[39m"", line 124, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File ""[90m]8;line = 173;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\utils\validation.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\utils\validation.py]8;;[39m"", line 173, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input X contains NaN.
+CategoricalNB does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+"
+"0","# Make predictions"
+"0","Y_pred = model.predict(X_test)"
+"2","Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+  File ""[90m]8;line = 100;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\naive_bayes.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\naive_bayes.py]8;;[39m"", line 100, in predict
+    check_is_fitted(self)
+  File ""[90m]8;line = 1462;file://C:\Users\NUSAI\anaconda3\Lib\site-packages\sklearn\utils\validation.pyC:\Users\NUSAI\ANACON~1\Lib\site-packages\sklearn\utils\validation.py]8;;[39m"", line 1462, in check_is_fitted
+    raise NotFittedError(msg % {""name"": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This CategoricalNB instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+"
+"0","# Evaluate the model"
+"0","accuracy = accuracy_score(Y_test, Y_pred)"
+"2","Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+NameError: name 'Y_pred' is not defined
+"
+"0","print(""Accuracy:"", accuracy)"
+"2","Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+NameError: name 'accuracy' is not defined
+"
