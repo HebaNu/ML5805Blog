@@ -1,0 +1,84 @@
+---
+title: "Probability theory and random variables_Naive Bayes"
+author: "Heba Nusair"
+date: "2023-11-04"
+categories: [news, code, analysis, plot]
+image: "Naive-Bayes-Algorithm.jpg"
+---
+
+check the working directory:
+
+```{python}
+import os
+print(os.getcwd())
+```
+
+import pandas as pd
+
+```{python}
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+```
+
+Load your survey data (replace 'your_data.csv' with your actual data file)data = pd.read_excel('')
+
+```{python}
+import pandas as pd
+
+# Load your survey data
+data = pd.read_excel('Post1.xlsx')
+```
+
+```{python}
+
+# Inspect the data by viewing the first few rows
+print(data.head(5))
+
+```
+
+```{python}
+# Define a dictionary to rename columns
+column_mapping = {
+    'What is your industry sector?': 'industry',
+    'How do you typically work in your current job?': 'work_method',
+    # Add more mappings for other columns
+}
+
+# Rename the columns
+data = data.rename(columns=column_mapping)
+
+# Verify the column names
+print(data.columns)
+
+```
+
+```{python}
+# Select X and Y variables
+X = data['industry']
+Y = data['How do you typically work in your current job? ']  # target variable
+```
+
+```{python}
+from sklearn.naive_bayes import CategoricalNB
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+
+# Assuming you have your data loaded in X (features) and Y (target)
+# X should contain 'industry' and Y should contain 'How do you typically work in your current job?'
+
+# Split the data into training and testing sets
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
+
+# Create and train the Categorical Naive Bayes model
+model = CategoricalNB()
+model.fit(X_train, Y_train)
+
+# Make predictions
+Y_pred = model.predict(X_test)
+
+# Evaluate the model
+accuracy = accuracy_score(Y_test, Y_pred)
+print("Accuracy:", accuracy)
+
+```
