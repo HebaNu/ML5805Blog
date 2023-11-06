@@ -1,5 +1,6 @@
 project:
  type: website
+ title: "Work-from-Home and cityscape"
  output-dir: docs
  site-url: https://hebanu.github.io/ML5805Blog/
  contents: 
@@ -8,9 +9,9 @@ project:
  - "date"
  - "title desc"
  description: "Project for ML class"
- title: "ML5805Blog"
+
   navbar:
-      - about.qmd
+  - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
